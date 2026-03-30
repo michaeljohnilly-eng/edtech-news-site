@@ -40,6 +40,38 @@
       color: #4b5563;
     }
 
+    .brief {
+  background: white;
+  border-radius: 10px;
+  padding: 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.brief h2 {
+  margin: 0 0 12px;
+  font-size: 20px;
+}
+
+.brief-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(120px, 1fr));
+  gap: 10px;
+}
+
+.brief-item {
+  background: #f3f4f6;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.brief-item strong {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+   
     .card {
       background: white;
       border-radius: 10px;
@@ -99,21 +131,48 @@
     <p>Latest startup, product, funding, and acquisition news in education technology.</p>
   </header>
 
-  <main>
-    <div class="meta" id="meta">Loading latest update...</div>
-    <div id="news-list"></div>
-  </main>
+<main>
+  <div class="meta" id="meta">Loading latest update...</div>
+  <div id="daily-brief"></div>
+  <div id="news-list"></div>
+</main>
 
   <script>
     async function loadNews() {
       const meta = document.getElementById('meta');
       const newsList = document.getElementById('news-list');
+      const dailyBrief = document.getElementById('daily-brief');
 
       try {
         const response = await fetch('news.json?v=' + Date.now());
         const data = await response.json();
 
         meta.textContent = `Last updated: ${data.updated_at} | Articles shown: ${data.articles.length}`;
+        const summary = data.summary || {};
+
+dailyBrief.innerHTML = `
+  <div class="brief">
+    <h2>Today in EdTech</h2>
+    <div class="brief-grid">
+      <div class="brief-item">
+        <strong>${summary.Funding || 0}</strong>
+        Funding
+      </div>
+      <div class="brief-item">
+        <strong>${summary.Acquisition || 0}</strong>
+        Acquisition
+      </div>
+      <div class="brief-item">
+        <strong>${summary.Product || 0}</strong>
+        Product
+      </div>
+      <div class="brief-item">
+        <strong>${summary.Startup || 0}</strong>
+        Startup
+      </div>
+    </div>
+  </div>
+`;
 
         if (!data.articles.length) {
           newsList.innerHTML = '<div class="empty">No articles found in the latest update.</div>';
@@ -130,9 +189,10 @@
           </div>
         `).join('');
       } catch (error) {
-        meta.textContent = 'Could not load the latest news.';
-        newsList.innerHTML = '<div class="error">Something went wrong while loading the site data.</div>';
-      }
+  meta.textContent = 'Could not load the latest news.';
+  dailyBrief.innerHTML = '';
+  newsList.innerHTML = '<div class="error">Something went wrong while loading the site data.</div>';
+}
     }
 
     loadNews();
