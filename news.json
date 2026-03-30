@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-03-30 02:40 UTC",
+  "updated_at": "2026-03-30 02:58 UTC",
+  "summary": {
+    "Funding": 2,
+    "Acquisition": 2,
+    "Product": 6,
+    "Startup": 2
+  },
   "articles": [
     {
       "title": "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills",
