@@ -76,7 +76,7 @@ def parse_feed():
             if not link or link in seen_links:
                 continue
             if not is_relevant(combined):
-    continue
+                continue
 
 # must include at least one company/action signal
 if not any(word in combined.lower() for word in [
