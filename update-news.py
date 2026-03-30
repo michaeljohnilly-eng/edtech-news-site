@@ -98,7 +98,16 @@ def parse_feed():
                 "category": choose_category(combined)
             })
 
-    return articles[:25]
+ # sort by published date (newest first)
+def get_date(article):
+    try:
+        return datetime.strptime(article["published"], "%a, %d %b %Y %H:%M:%S %Z")
+    except:
+        return datetime.min
+
+articles.sort(key=get_date, reverse=True)
+
+return articles[:25]
 
 
 
