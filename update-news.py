@@ -6,16 +6,19 @@ import feedparser
 
 FEEDS = [
     "https://www.edsurge.com/news.rss",
-    "https://techcrunch.com/category/edtech/feed/",
-    "https://www.prnewswire.com/rss/education-latest-news/education-latest-news-list.rss",
+    "https://techcrunch.com/tag/edtech/feed/",
+    "https://www.holoniq.com/feed",
+    "https://www.prnewswire.com/rss/education-latest-news/education-latest-news-list.rss"
 ]
 
 KEYWORDS = [
-    "edtech", "education technology", "education startup", "startup",
-    "funding", "raised", "seed", "series a", "series b", "series c",
-    "acquisition", "acquire", "acquired", "merger", "product launch",
-    "launches", "announces", "announcement", "platform", "ai tutor",
-    "school software", "learning platform", "curriculum", "assessment"
+    "edtech", "education technology",
+    "education startup", "startup",
+    "raised", "funding", "investment", "series",
+    "acquired", "acquisition", "merger",
+    "launch", "launches", "announces", "product",
+    "platform", "software", "ai tutor",
+    "learning platform", "school software"
 ]
 
 CATEGORY_RULES = {
@@ -73,7 +76,14 @@ def parse_feed():
             if not link or link in seen_links:
                 continue
             if not is_relevant(combined):
-                continue
+    continue
+
+# must include at least one company/action signal
+if not any(word in combined.lower() for word in [
+    "raised", "funding", "acquired", "acquisition",
+    "launch", "announces", "startup", "platform"
+]):
+    continue
 
             seen_links.add(link)
             articles.append({
