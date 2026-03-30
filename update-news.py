@@ -56,7 +56,6 @@ def short_summary(text: str, max_len: int = 220) -> str:
         return text
     return text[:max_len].rsplit(" ", 1)[0] + "..."
 
-
 def parse_feed():
     articles = []
     seen_links = set()
@@ -71,21 +70,25 @@ def parse_feed():
             link = entry.get("link", "").strip()
             published = clean_text(entry.get("published", ""))
 
-            combined = f"{title} {summary}"
+            combined = f"{title} {summary}".lower()
 
+            # skip duplicates
             if not link or link in seen_links:
                 continue
+
+            # basic relevance
             if not is_relevant(combined):
                 continue
 
-# must include at least one company/action signal
-if not any(word in combined.lower() for word in [
-    "raised", "funding", "acquired", "acquisition",
-    "launch", "announces", "startup", "platform"
-]):
-    continue
+            # must include company/action signal
+            if not any(word in combined for word in [
+                "raised", "funding", "acquired", "acquisition",
+                "launch", "announces", "startup", "platform"
+            ]):
+                continue
 
             seen_links.add(link)
+
             articles.append({
                 "title": title,
                 "summary": short_summary(summary or title),
@@ -96,6 +99,7 @@ if not any(word in combined.lower() for word in [
             })
 
     return articles[:25]
+
 
 
 def main():
