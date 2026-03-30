@@ -8,7 +8,6 @@ FEEDS = [
     "https://www.edsurge.com/news.rss",
     "https://techcrunch.com/tag/edtech/feed/",
     "https://www.holoniq.com/feed",
-    "https://www.prnewswire.com/rss/education-latest-news/education-latest-news-list.rss"
  "https://www.google.com/alerts/feeds/04612595539817232726/1950645162679430176"
 ]
 
