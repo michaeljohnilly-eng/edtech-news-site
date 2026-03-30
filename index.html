@@ -74,4 +74,68 @@
       line-height: 1.6;
       margin-bottom: 14px;
     }
+
+    a.button {
+      display: inline-block;
+      text-decoration: none;
+      background: #2563eb;
+      color: white;
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .empty, .error {
+      background: white;
+      border-radius: 10px;
+      padding: 18px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EdTech News Daily</h1>
+    <p>Latest startup, product, funding, and acquisition news in education technology.</p>
+  </header>
+
+  <main>
+    <div class="meta" id="meta">Loading latest update...</div>
+    <div id="news-list"></div>
+  </main>
+
+  <script>
+    async function loadNews() {
+      const meta = document.getElementById('meta');
+      const newsList = document.getElementById('news-list');
+
+      try {
+        const response = await fetch('news.json?v=' + Date.now());
+        const data = await response.json();
+
+        meta.textContent = `Last updated: ${data.updated_at} | Articles shown: ${data.articles.length}`;
+
+        if (!data.articles.length) {
+          newsList.innerHTML = '<div class="empty">No articles found in the latest update.</div>';
+          return;
+        }
+
+        newsList.innerHTML = data.articles.map(article => `
+          <div class="card">
+            <div class="tag">${article.category || 'News'}</div>
+            <h2>${article.title}</h2>
+            <div class="source">${article.source || 'Unknown source'}${article.published ? ' | ' + article.published : ''}</div>
+            <div class="summary">${article.summary || 'No summary available.'}</div>
+            <a class="button" href="${article.link}" target="_blank" rel="noopener noreferrer">Read article</a>
+          </div>
+        `).join('');
+      } catch (error) {
+        meta.textContent = 'Could not load the latest news.';
+        newsList.innerHTML = '<div class="error">Something went wrong while loading the site data.</div>';
+      }
+    }
+
+    loadNews();
+  </script>
+</body>
 </html>
