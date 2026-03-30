@@ -114,8 +114,22 @@ def parse_feed():
 
 def main():
     articles = parse_feed()
+
+    summary_counts = {
+        "Funding": 0,
+        "Acquisition": 0,
+        "Product": 0,
+        "Startup": 0
+    }
+
+    for article in articles:
+        category = article.get("category")
+        if category in summary_counts:
+            summary_counts[category] += 1
+
     output = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "summary": summary_counts,
         "articles": articles
     }
 
