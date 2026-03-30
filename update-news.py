@@ -1,4 +1,38 @@
 import json
+import re
+from datetime import datetime, timezone
+
+import feedparser
+
+FEEDS = [
+    "https://www.edsurge.com/news.rss",
+    "https://techcrunch.com/category/edtech/feed/",
+    "https://www.prnewswire.com/rss/education-latest-news/education-latest-news-list.rss",
+]
+
+KEYWORDS = [
+    "edtech", "education technology", "education startup", "startup",
+    "funding", "raised", "seed", "series a", "series b", "series c",
+    "acquisition", "acquire", "acquired", "merger", "product launch",
+    "launches", "announces", "announcement", "platform", "ai tutor",
+    "school software", "learning platform", "curriculum", "assessment"
+]
+
+CATEGORY_RULES = {
+    "Funding": ["funding", "raised", "seed", "series a", "series b", "series c", "investment"],
+    "Acquisition": ["acquisition", "acquire", "acquired", "merger"],
+    "Product": ["launch", "launches", "product", "platform", "announces", "announcement"],
+    "Startup": ["startup", "founder", "early-stage"]
+}
+
+
+def clean_text(value: str) -> str:
+    if not value:
+        return ""
+    value = re.sub(r"<[^>]+>", "", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
 
 def is_relevant(text: str) -> bool:
     text = text.lower()
@@ -26,14 +60,16 @@ def parse_feed():
 
     for url in FEEDS:
         feed = feedparser.parse(url)
+        source = clean_text(feed.feed.get("title", "Unknown source"))
+
         for entry in feed.entries:
             title = clean_text(entry.get("title", ""))
             summary = clean_text(entry.get("summary", ""))
             link = entry.get("link", "").strip()
-            source = feed.feed.get("title", "Unknown source")
             published = clean_text(entry.get("published", ""))
 
             combined = f"{title} {summary}"
+
             if not link or link in seen_links:
                 continue
             if not is_relevant(combined):
