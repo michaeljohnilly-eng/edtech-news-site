@@ -1,29 +1,101 @@
 {
-  "updated_at": "2026-03-30 01:07 UTC",
+  "updated_at": "2026-03-30 02:04 UTC",
   "articles": [
     {
-      "title": "Insilico Medicine Announces Global R&amp;D Collaboration with Lilly",
-      "summary": "AI-driven collaboration includes an exclusive worldwide license for a portfolio of programs spanning multiple therapeutic areas. CAMBRIDGE, Mass., March 29, 2026 /PRNewswire/ -- Insilico Medicine (\"Insilico\", HKEX:...",
-      "link": "https://www.prnewswire.com/news-releases/insilico-medicine-announces-global-rd-collaboration-with-lilly-302727884.html",
-      "source": "",
-      "published": "Mon, 30 Mar 2026 00:30:00 +0000",
-      "category": "Product"
-    },
-    {
-      "title": "ATRA Investors Have Opportunity to Lead Atara Biotherapeutics, Inc. Securities Fraud Lawsuit",
-      "summary": "NEW YORK, March 29, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of securities of Atara Biotherapeutics, Inc. (NASDAQ: ATRA)...",
-      "link": "https://www.prnewswire.com/news-releases/atra-investors-have-opportunity-to-lead-atara-biotherapeutics-inc-securities-fraud-lawsuit-302727853.html",
-      "source": "",
-      "published": "Sun, 29 Mar 2026 22:12:00 +0000",
-      "category": "Product"
-    },
-    {
-      "title": "INVESTOR ALERT: Eos Energy Enterprises, Inc. (EOSE) Investors with Substantial Losses Have Opportunity to Lead Investor Class Action Lawsuit",
-      "summary": "SAN DIEGO, March 29, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Eos Energy Enterprises, Inc. (NASDAQ: EOSE) securities between November 5, 2025 and February 26, 2026,...",
-      "link": "https://www.prnewswire.com/news-releases/investor-alert-eos-energy-enterprises-inc-eose-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-lawsuit-302727982.html",
-      "source": "",
-      "published": "Sun, 29 Mar 2026 21:00:00 +0000",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Sun, 15 Mar 2026 17:19:47 +0000",
       "category": "Acquisition"
+    },
+    {
+      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
+      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Thu, 15 Jan 2026 00:04:46 +0000",
+      "category": "Funding"
+    },
+    {
+      "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
+      "summary": "Coursera and Udemy, two of the biggest names in online learning, are combining platforms next year.",
+      "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 17 Dec 2025 15:58:22 +0000",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks",
+      "summary": "Unacademy's valuation has dropped by over 85% from its pandemic-era peak price tag of $3.5 billion, its founder said.",
+      "link": "https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 10 Dec 2025 14:29:12 +0000",
+      "category": "Startup"
+    },
+    {
+      "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
+      "summary": "Nick Gross says that Find Your Grind gives students the tools to explore what careers are out there and what paths suit their strengths, interests, and visions for what they want their futures to look like.",
+      "link": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Tue, 25 Nov 2025 18:49:20 +0000",
+      "category": "Product"
+    },
+    {
+      "title": "Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech",
+      "summary": "The Indian edtech startup ended its first day as a public company on a high, with its shares closing 44% higher than they were listed for, indicating that the country's edtech sector may still recover after years of...",
+      "link": "https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Tue, 18 Nov 2025 15:36:09 +0000",
+      "category": "Startup"
+    },
+    {
+      "title": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
+      "summary": "Oboe is a new AI-powered learning platform that lets you create personalized courses on any topic with a prompt.",
+      "link": "https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 10 Sep 2025 14:27:55 +0000",
+      "category": "Product"
+    },
+    {
+      "title": "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills",
+      "summary": "Handshake and OpenAI launch the Codex Creator Challenge, giving students tools and employer visibility for AI projects. ETIH EdTech News covers&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/handshake-and-openai-launch-codex-creator-challenge-to-expand-student-ai-skills&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zGQdGHkeFzZCT-vnUsvaV",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-29T23:34:28Z",
+      "category": "Product"
+    },
+    {
+      "title": "Anthropic Institute launches to address AI risks | ETIH EdTech News",
+      "summary": "The initiative brings together research, policy, and economic analysis at a time when AI companies are increasing efforts to engage with governments,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/anthropic-institute-launched-to-address-ai-risks-and-public-understanding&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw22IXT8mi9VlmIvMdGVv8DX",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-29T23:04:24Z",
+      "category": "Product"
+    },
+    {
+      "title": "Coursera Inc Stock: Online Learning Leader Faces Evolving EdTech Landscape in 2026",
+      "summary": "The company's platform connects learners with top universities and industry leaders, addressing the growing need for upskilling in a rapidly&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ad-hoc-news.de/boerse/news/ueberblick/coursera-inc-stock-online-learning-leader-faces-evolving-edtech-landscape/69019952&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3021N6OpP4eH_L2r_4HMeH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-29T14:08:00Z",
+      "category": "Product"
+    },
+    {
+      "title": "'The vision to build accessible e-learning platform for every learner changed our story ...",
+      "summary": "From his early days as an Operations Manager at ExxonMobil to founding Teesas Inc., a fast-growing education technology company expanding across&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businessday.ng/interview/article/the-vision-to-build-accessible-e-learning-platform-for-every-learner-changed-our-story/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1auOUPiDzY1NgBhzQGkIRH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-29T11:35:55Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech entrepreneurs fight “Tough Battle” to scale innovations across Ethiopia",
+      "summary": "Support spans phased milestone-based funding, marketing and branding training, business management coaching, and digital content design courses with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://capitalethiopia.com/2026/03/29/edtech-entrepreneurs-fight-tough-battle-to-scale-innovations-across-ethiopia/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0zl8lV61C5t8YuKFJjIjoj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-29T10:29:47Z",
+      "category": "Funding"
     }
   ]
 }
