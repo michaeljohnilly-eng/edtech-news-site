@@ -98,17 +98,18 @@ def parse_feed():
                 "category": choose_category(combined)
             })
 
- # sort by published date (newest first)
-def get_date(article):
-    try:
-        return datetime.strptime(article["published"], "%a, %d %b %Y %H:%M:%S %Z")
-    except:
-        return datetime.min
+    # ---- SORTING (inside the function, correct place) ----
+    from dateutil import parser
 
-articles.sort(key=get_date, reverse=True)
+    def get_date(article):
+        try:
+            return parser.parse(article["published"])
+        except:
+            return datetime.min
 
-return articles[:25]
+    articles.sort(key=get_date, reverse=True)
 
+    return articles[:25]
 
 
 def main():
