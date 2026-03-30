@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-03-30 03:23 UTC",
+  "updated_at": "2026-03-30 11:37 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 6,
-    "Startup": 2
+    "Product": 8,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "EdTech Companies: Reliable Learning Platform Developers - About Chromebooks",
+      "summary": "Top Trusted EdTech Development Companies &middot; 1. Lionwood &middot; 2. N-iX &middot; 3. SoftServe &middot; 4. Infosys &middot; 5. Intellias &middot; 6. Geniusee &middot; 7. Hqsoftwarelab.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aboutchromebooks.com/7-best-edtech-development-companies-tested-for-virtual-learning-and-training-systems-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2HwDkqlTiHLLBjEIfJlYbW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-30T11:07:27Z",
+      "category": "Product"
+    },
+    {
+      "title": "Young Founder Vivek Nairy Builds LettrBlack to Redefine EdTech - openPR.com",
+      "summary": "Operating as a bootstrapped startup, the company works with a growing team of interns who contribute to product development, marketing, and operations&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4443912/young-founder-vivek-nairy-builds-lettrblack-to-redefine-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1o3yzWYg-whFkOk7npZvKE",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-30T09:12:51Z",
+      "category": "Product"
+    },
+    {
+      "title": "Bengaluru EdTech Startup Oratrics Strengthens Global Footprint with Singapore Expansion",
+      "summary": "The move marks a significant milestone in the company's mission to transform how children and young leaders develop communication, confidence,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businessnewsthisweek.com/business/bengaluru-edtech-startup-oratrics-strengthens-global-footprint-with-singapore-expansion/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0k84YJX1avFpT3x2hCYHBQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-30T07:14:45Z",
+      "category": "Startup"
+    },
     {
       "title": "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills",
       "summary": "Handshake and OpenAI launch the Codex Creator Challenge, giving students tools and employer visibility for AI projects. ETIH EdTech News covers&nbsp;...",
