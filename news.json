@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-04-01 11:31 UTC",
+  "updated_at": "2026-04-01 22:01 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 7,
-    "Startup": 2
+    "Product": 6,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Alberta court blocks AI startup from competing with edtech firm | HR Law Canada",
+      "summary": "... company from launching a software product that would directly compete with an education technology firm he once led, finding a strong case that he&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hrlawcanada.com/2026/04/alberta-court-blocks-ai-startup-from-competing-with-edtech-firm/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0zX1w46eDGpJvsHpMPmlX3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T15:17:05Z",
+      "category": "Product"
+    },
+    {
+      "title": "Branching Minds Wins 2026 EdTech Awards for Personalized Learning and Visionary Leadership",
+      "summary": "The Branching Minds platform was recognized as the Best Personalized Learning Solution, and CEO and Co-Founder Maya Gat received the EdTech Leadership&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tallahassee.com/press-release/story/49862/branching-minds-wins-2026-edtech-awards-for-personalized-learning-and-visionary-leadership/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nPcL_xMG7_sh1EUOAzAoh",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T14:06:20Z",
+      "category": "Product"
+    },
+    {
+      "title": "Gale Launches Eighteenth Century Collections Online, Part III, Expanding Access to Rare ...",
+      "summary": "BOSTON--(BUSINESS WIRE)--Gale, part of global edtech company Cengage, today announced the launch of Eighteenth Century Collections Online, Part&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260401645025/en/Gale-Launches-Eighteenth-Century-Collections-Online-Part-III-Expanding-Access-to-Rare-and-Previously-Undigitized-Materials&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2UpbxN6DAkdwrKyHcsL3P-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T13:08:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "In an Age of AI, When Do Startups Need Human Support the Most? | FE News",
+      "summary": "The promise of AI as a business-building tool has never been louder. Today's EdTech founder can ask a large language model to draft a go-to-market&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fenews.co.uk/skills/in-an-age-of-ai-when-do-startups-need-human-support-the-most/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2OnHLcJe_21adVzpT1JK6g",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T12:52:43Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Using Seedance 2.0 for Short Educational and Explainer Videos in the EdTech Industry",
+      "summary": "With platforms such as Pippit, educators, instructors, and EdTech companies can quickly and easily convert their educational ideas/content into&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.varthabharati.in/business/using-seedance-20-for-short-educational-and-explainer-videos-in-the-edtech-industry&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0V4cXnfsRjk613Tl3bj-we",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T12:04:02Z",
+      "category": "Funding"
+    },
+    {
+      "title": "OpenAI raises $122B funding at $852B valuation for AI infrastructure | ETIH EdTech News",
+      "summary": "The OpenAI funding round is anchored by Amazon, NVIDIA, and SoftBank Group Corp., with continued support from Microsoft. SoftBank co-led alongside&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-raises-122b-as-valuation-hits-852b-in-record-ai-funding-round&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw34eSPYoVrjU4ak0gEaFNx7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T10:55:13Z",
+      "category": "Funding"
+    },
     {
       "title": "AI LinkedIn learning platform replaces workplace training | ETIH EdTech News",
       "summary": "A new AI platform is turning LinkedIn-style thought leadership into a corporate learning strategy, with companies replacing traditional L&amp;D&nbsp;...",
@@ -22,38 +70,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-03-31T22:06:23Z",
       "category": "Funding"
-    },
-    {
-      "title": "Strategic in-house development of Al-based Education Technology Platform - EquityBulls",
-      "summary": "Crizac Limited was incorporated as a global student recruitment platform. It is a B2B (Business to Business) education platform for agents and global&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.equitybulls.com/category.php%3Fid%3D368413&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw187nVELedV3nSMRTdKycUX",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-03-31T19:12:02Z",
-      "category": "Product"
-    },
-    {
-      "title": "Startups tap trust and local nuance to unlock hinterland - PressReader",
-      "summary": "Companies have been trying to prise open such markets from 2015. Some like the recently listed e-commerce platform Meesho have shown the way to build&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/india/mint-chennai/20260331/281732686029674&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3QE3EdSw50wMUnr9PMhcxz",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-03-31T16:27:59Z",
-      "category": "Product"
-    },
-    {
-      "title": "UAE edtech firm announces free wellbeing tools for GCC schools amid remote learning",
-      "summary": "The rollout mirrors a similar move by the company during the COVID-19 pandemic, when it opened access globally, reaching more than 438,000 students&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabianbusiness.com/business/education/uae-edtech-firm-announces-free-wellbeing-tools-for-gcc-schools-amid-remote-learning&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1tiV8q1q0C-nqDmdN5KRcE",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-03-31T13:03:31Z",
-      "category": "Product"
-    },
-    {
-      "title": "iHuman Inc. (IH) Reports Q4 Earnings - Alphastreet",
-      "summary": "... EdTech platforms. ... The ratings suggest continued confidence in the company's business model despite the revenue contraction during the quarter.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.alphastreet.com/ihuman-inc-ih-reports-q4-earnings/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3VSgxb_9B9hv7afpmFVhu9",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-03-31T11:28:39Z",
-      "category": "Product"
     },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
