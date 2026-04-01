@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-03-31 21:58 UTC",
+  "updated_at": "2026-04-01 11:31 UTC",
   "summary": {
-    "Funding": 1,
+    "Funding": 2,
     "Acquisition": 2,
-    "Product": 6,
+    "Product": 7,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "AI LinkedIn learning platform replaces workplace training | ETIH EdTech News",
+      "summary": "A new AI platform is turning LinkedIn-style thought leadership into a corporate learning strategy, with companies replacing traditional L&amp;D&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/new-ai-platform-turns-linkedin-posts-into-corporate-learning-strategy&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Dl4kCEvwdE17we8HGMHCC",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T03:02:32Z",
+      "category": "Product"
+    },
+    {
+      "title": "India's education technology sector faces a 'structural reset'. What does it mean for investors ...",
+      "summary": "India's online education boom is cooling as funding dries up and companies consolidate, but a new phase driven by artificial intelligence could&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/asia/india-schools-edtech-online-learning-ai-upgrad-unacademy-6027696&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1_gCRdEOBmh8FjX-9xh0_z",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-03-31T22:06:23Z",
+      "category": "Funding"
+    },
     {
       "title": "Strategic in-house development of Al-based Education Technology Platform - EquityBulls",
       "summary": "Crizac Limited was incorporated as a global student recruitment platform. It is a B2B (Business to Business) education platform for agents and global&nbsp;...",
