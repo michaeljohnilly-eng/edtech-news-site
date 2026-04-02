@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-04-01 22:01 UTC",
+  "updated_at": "2026-04-02 10:39 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
-    "Product": 6,
-    "Startup": 3
+    "Funding": 2,
+    "Acquisition": 3,
+    "Product": 8,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Will Ronnie Screwvala and Gaurav Munjal agree on how Unacademy is run? - The Ken",
+      "summary": "With Upgrad's impending acquisition of Unacademy, two companies that had different outlooks on the edtech ecosystem are now sharing a vision.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://the-ken.com/story/will-ronnie-screwvala-and-gaurav-munjal-agree-on-how-unacademy-is-run/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2XEvuxK8wQ_jwxy_N_J6lL",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-02T09:26:06Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Farid Academy Becomes First EdTech Startup in Egypt to Secure - Fintechgate",
+      "summary": "A Specialized Model for Social-Emotional Learning &middot; Farid operates through a diversified, multi-channel business model to maximize its social reach:&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fintechgate.net/2026/04/02/farid-academy-becomes-first-edtech-startup-in-egypt-to-secure-official-startup-label/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1BU8gxNDHVpbZ7rbzQPwXe",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-02T09:25:31Z",
+      "category": "Startup"
+    },
+    {
+      "title": "EdTech Startups That Reshape How Arabic is Learned in the Digital Age - CairoScene",
+      "summary": "These companies approach Arabic as a product category. Mobile-first applications, adaptive learning models, and institutional tools are being&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cairoscene.com/Business/EdTech-Startups-That-Reshape-How-Arabic-is-Learned-in-the-Digital-Age&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Kwt3F1UN0pERJF36RBzYF",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-02T04:03:54Z",
+      "category": "Product"
+    },
+    {
+      "title": "upUgo | Edtech Startup — Company Profile - Inc42",
+      "summary": "Founded in 2019, upUgo operates in Edtech offering an integrated Fitness and Sports platform catering to children aged 4-18 years.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/company/upugo/people/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2MJhHCZkKWsL_qzxIgfJDM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-02T03:38:45Z",
+      "category": "Product"
+    },
+    {
+      "title": "Angolan edtech startup Kukubela grows African language learning platform - Tech In Africa",
+      "summary": "The company also reports around 220 paying subscribers, along with trial users. Available on both iOS and Android, the app has recorded more than&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinafrica.com/angolan-edtech-startup-kukubela-grows-african-language-learning-platform/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0kKxlGrCZQOqzplmdUZmrP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-01T21:36:26Z",
+      "category": "Product"
+    },
     {
       "title": "Alberta court blocks AI startup from competing with edtech firm | HR Law Canada",
       "summary": "... company from launching a software product that would directly compete with an education technology firm he once led, finding a strong case that he&nbsp;...",
@@ -45,30 +85,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.varthabharati.in/business/using-seedance-20-for-short-educational-and-explainer-videos-in-the-edtech-industry&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0V4cXnfsRjk613Tl3bj-we",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-01T12:04:02Z",
-      "category": "Funding"
-    },
-    {
-      "title": "OpenAI raises $122B funding at $852B valuation for AI infrastructure | ETIH EdTech News",
-      "summary": "The OpenAI funding round is anchored by Amazon, NVIDIA, and SoftBank Group Corp., with continued support from Microsoft. SoftBank co-led alongside&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-raises-122b-as-valuation-hits-852b-in-record-ai-funding-round&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw34eSPYoVrjU4ak0gEaFNx7",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-01T10:55:13Z",
-      "category": "Funding"
-    },
-    {
-      "title": "AI LinkedIn learning platform replaces workplace training | ETIH EdTech News",
-      "summary": "A new AI platform is turning LinkedIn-style thought leadership into a corporate learning strategy, with companies replacing traditional L&amp;D&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/new-ai-platform-turns-linkedin-posts-into-corporate-learning-strategy&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Dl4kCEvwdE17we8HGMHCC",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-01T03:02:32Z",
-      "category": "Product"
-    },
-    {
-      "title": "India's education technology sector faces a 'structural reset'. What does it mean for investors ...",
-      "summary": "India's online education boom is cooling as funding dries up and companies consolidate, but a new phase driven by artificial intelligence could&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/asia/india-schools-edtech-online-learning-ai-upgrad-unacademy-6027696&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1_gCRdEOBmh8FjX-9xh0_z",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-03-31T22:06:23Z",
       "category": "Funding"
     },
     {
