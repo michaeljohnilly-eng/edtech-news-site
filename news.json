@@ -1,58 +1,26 @@
 {
-  "updated_at": "2026-04-03 10:08 UTC",
+  "updated_at": "2026-04-03 21:51 UTC",
   "summary": {
     "Funding": 1,
     "Acquisition": 2,
-    "Product": 7,
+    "Product": 3,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "SA edtech startup The Invigilator raises R195 million to take AI exam monitoring global",
+      "summary": "The company currently serves over 100 educational institutions and uses smartphones to detect suspicious behaviour and AI-generated cheating in real&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ebnewsdaily.co.za/2026/04/03/south-african-edtech-invigilator-raises-r195m-ai-exam-monitoring-global-expansion/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ipf513WBYB7EjKSwlejet",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-03T16:32:10Z",
+      "category": "Startup"
+    },
     {
       "title": "TutorFlow Launches Agent Platform with API and MCP Integration for AI-Powered Education",
       "summary": "The platform lets developers, EdTech companies, and AI agents generate ... Company Grows to 29 Publicists and More Than 140 Clients Across&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.southcoasttoday.com/press-release/story/50483/tutorflow-launches-agent-platform-with-api-and-mcp-integration-for-ai-powered-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3US-yTcjM1wFGPnhPbLY7D",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-02T20:26:30Z",
-      "category": "Product"
-    },
-    {
-      "title": "ZAWYA: Farid Academy becomes first EdTech startup in Egypt to secure official Startup Label",
-      "summary": "The company's ambitions extend beyond Egypt's borders. Last year, Farid inaugurated a regional office in Riyadh, serving as a regional hub for its&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-04-02:newsml_Zaw6LM77t:0-zawya-farid-academy-becomes-first-edtech-startup-in-egypt-to-secure-official-startup-label/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Sc_g-SIXAmY6DquqVtPT7",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T17:40:51Z",
-      "category": "Startup"
-    },
-    {
-      "title": "TutorFlow Launches Agent Platform with API and MCP Integration for AI-Powered Education",
-      "summary": "The platform lets developers, EdTech companies, and AI agents generate ... company mentioned by Gartner as a front-runner transforming the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gainesville.com/press-release/story/99806/tutorflow-launches-agent-platform-with-api-and-mcp-integration-for-ai-powered-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32_akaWilefaJGzNefdhfF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T15:22:18Z",
-      "category": "Product"
-    },
-    {
-      "title": "TutorFlow Launches Agent Platform with API and MCP Integration for AI-Powered Education",
-      "summary": "The platform lets developers, EdTech companies, and AI agents generate courses, create assessments, and evaluate learner responses without&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tuscaloosanews.com/press-release/story/47679/tutorflow-launches-agent-platform-with-api-and-mcp-integration-for-ai-powered-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1BAMqCl8CDBJrG4x9DITn4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T14:37:24Z",
-      "category": "Product"
-    },
-    {
-      "title": "TutorFlow Launches Agent Platform with API and MCP Integration for AI-Powered Education",
-      "summary": "The platform lets developers, EdTech companies, and AI agents generate ... company will also participate in Internet2 Cloud Scorecard&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.desmoinesregister.com/press-release/story/55460/tutorflow-launches-agent-platform-with-api-and-mcp-integration-for-ai-powered-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1j6vWtdM8Dlol2MF5hfcW_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T13:55:28Z",
-      "category": "Product"
-    },
-    {
-      "title": "International GCSE global skills qualification launches for 2026 | ETIH EdTech News",
-      "summary": "ETIH edtech news explores how non-exam assessment and future skills ... The company's LinkedIn announcement similarly set out the rationale&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/oxfordaqa-and-8billionideas-launch-international-gcse-focused-on-global-skills&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RBjNenNwv_Tjbfnd9tgoN",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T10:06:14Z",
       "category": "Product"
     },
     {
