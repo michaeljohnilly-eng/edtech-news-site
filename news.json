@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-02 21:55 UTC",
+  "updated_at": "2026-04-03 10:08 UTC",
   "summary": {
     "Funding": 1,
-    "Acquisition": 3,
-    "Product": 8,
-    "Startup": 4
+    "Acquisition": 2,
+    "Product": 7,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "TutorFlow Launches Agent Platform with API and MCP Integration for AI-Powered Education",
+      "summary": "The platform lets developers, EdTech companies, and AI agents generate ... Company Grows to 29 Publicists and More Than 140 Clients Across&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.southcoasttoday.com/press-release/story/50483/tutorflow-launches-agent-platform-with-api-and-mcp-integration-for-ai-powered-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3US-yTcjM1wFGPnhPbLY7D",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-02T20:26:30Z",
+      "category": "Product"
+    },
     {
       "title": "ZAWYA: Farid Academy becomes first EdTech startup in Egypt to secure official Startup Label",
       "summary": "The company's ambitions extend beyond Egypt's borders. Last year, Farid inaugurated a regional office in Riyadh, serving as a regional hub for its&nbsp;...",
@@ -45,38 +53,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/oxfordaqa-and-8billionideas-launch-international-gcse-focused-on-global-skills&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RBjNenNwv_Tjbfnd9tgoN",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-02T10:06:14Z",
-      "category": "Product"
-    },
-    {
-      "title": "Will Ronnie Screwvala and Gaurav Munjal agree on how Unacademy is run? - The Ken",
-      "summary": "With Upgrad's impending acquisition of Unacademy, two companies that had different outlooks on the edtech ecosystem are now sharing a vision.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://the-ken.com/story/will-ronnie-screwvala-and-gaurav-munjal-agree-on-how-unacademy-is-run/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2XEvuxK8wQ_jwxy_N_J6lL",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T09:26:06Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Farid Academy Becomes First EdTech Startup in Egypt to Secure - Fintechgate",
-      "summary": "A Specialized Model for Social-Emotional Learning &middot; Farid operates through a diversified, multi-channel business model to maximize its social reach:&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fintechgate.net/2026/04/02/farid-academy-becomes-first-edtech-startup-in-egypt-to-secure-official-startup-label/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1BU8gxNDHVpbZ7rbzQPwXe",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T09:25:31Z",
-      "category": "Startup"
-    },
-    {
-      "title": "EdTech Startups That Reshape How Arabic is Learned in the Digital Age - CairoScene",
-      "summary": "These companies approach Arabic as a product category. Mobile-first applications, adaptive learning models, and institutional tools are being&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cairoscene.com/Business/EdTech-Startups-That-Reshape-How-Arabic-is-Learned-in-the-Digital-Age&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Kwt3F1UN0pERJF36RBzYF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T04:03:54Z",
-      "category": "Product"
-    },
-    {
-      "title": "upUgo | Edtech Startup — Company Profile - Inc42",
-      "summary": "Founded in 2019, upUgo operates in Edtech offering an integrated Fitness and Sports platform catering to children aged 4-18 years.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/company/upugo/people/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2MJhHCZkKWsL_qzxIgfJDM",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-02T03:38:45Z",
       "category": "Product"
     },
     {
