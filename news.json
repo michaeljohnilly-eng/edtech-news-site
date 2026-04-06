@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-06 11:14 UTC",
+  "updated_at": "2026-04-06 21:53 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 3,
+    "Acquisition": 4,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "According to the projected report analysis, the acquisition by Nvni Group Limited (NVNI) is ... - Bitget",
+      "summary": "Trade now！ You may also like. EdTech company Nerdy Inc. releases latest financial guidance, expects non-GAAP adjusted EBITDA to approach breakeven&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bitget.com/amp/news/detail/12560605340049&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3UX6Ou0frEvkr4PMjAcnzP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-06T13:17:48Z",
+      "category": "Acquisition"
+    },
     {
       "title": "K-12 EdTech startup Qweebi Raises $500K to Bring Hands-on STEM and Robotics to Students",
       "summary": "Innovation &amp; Strategy Officer at Philips, and Arpit Jain, Co-founder &amp; CEO of SplashLearn, a leading K-12 math platform in the United States. The&nbsp;...",
@@ -30,6 +38,14 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-06T06:41:13Z",
       "category": "Funding"
+    },
+    {
+      "title": "StudyAtHome.org | Edtech Startup — Company Profile - Inc42",
+      "summary": "Founded in 2018, StudyAtHome.org operates in the Edtech sector offering an e-learning platform that aims to transform education into an engaging&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/company/studyathomeorg/people/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0DRan_r4zqMb_62uTOOEVK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-06T06:21:50Z",
+      "category": "Product"
     },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
