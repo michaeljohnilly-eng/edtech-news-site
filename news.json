@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-10 11:13 UTC",
+  "updated_at": "2026-04-10 21:56 UTC",
   "summary": {
     "Funding": 1,
     "Acquisition": 2,
-    "Product": 6,
-    "Startup": 2
+    "Product": 4,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "EdTech Startup Sedifly Appoints Harvard Alumnus George Baxter as Head of US Consulting",
+      "summary": "The move follows the company's recent hire of Mr. Patrick C., an alumnus of the University of Cambridge with over a decade of pedagogical experience,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cantonrep.com/press-release/story/121263/edtech-startup-sedifly-appoints-harvard-alumnus-george-baxter-as-head-of-us-consulting/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0EJUehBBouJ2Wp0joMfiCN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-10T11:25:26Z",
+      "category": "Startup"
+    },
     {
       "title": "upGrad sees senior exits amid Unacademy integration, IPO plans | Company Business News - Mint",
       "summary": "Online education and skilling platform upGrad is seeing senior-level exits as it integrates Unacademy after acquiring the K-12 edtech startup, ahead&nbsp;...",
@@ -21,22 +29,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/big-tech-and-industry-leaders-unite-with-anthropic-on-ai-cyber-defense-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uiJWXMN0UAyJv9lfd-9Ov",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-09T23:04:07Z",
-      "category": "Product"
-    },
-    {
-      "title": "Consumer panel orders Gurgaon-based edtech platform to refund course fee after trial-class",
-      "summary": "The commission on Tuesday found the refund claim justified and imposed an additional Rs 1,000 fine on the company. Tired of too many ads?go&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/city/noida/consumer-panel-orders-gurgaon-based-edtech-platform-to-refund-course-fee-after-trial-class/amp_articleshow/130152889.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1-YPodV6xrkhxOEE65QRsk",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-09T19:22:12Z",
-      "category": "Product"
-    },
-    {
-      "title": "Consumer panel orders Gurgaon-based edtech platform to refund course fee after trial-class",
-      "summary": "The commission on Tuesday found the refund claim justified and imposed an additional Rs 1,000 fine on the company. Mamta Pal filed an application&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/city/noida/consumer-panel-orders-gurgaon-based-edtech-platform-to-refund-course-fee-after-trial-class/articleshow/130152889.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1nryAOx1LAk0LD63CtLSm4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-09T19:22:11Z",
       "category": "Product"
     },
     {
