@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-10 21:56 UTC",
+  "updated_at": "2026-04-11 10:02 UTC",
   "summary": {
     "Funding": 1,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 3,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Consumer panel orders Gurgaon-based edtech platform to refund course fee after trial-class",
+      "summary": "The commission on Tuesday found the refund claim justified and imposed an additional Rs 1,000 fine on the company. Advt. Mamta Pal filed an&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://education.economictimes.indiatimes.com/amp/news/industry/consumer-panel-orders-gurgaon-based-edtech-platform-to-refund-course-fee-after-trial-class/130183444&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0nu2HFDMqgBVRhiElDyl5G",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-11T03:05:46Z",
+      "category": "Product"
+    },
     {
       "title": "EdTech Startup Sedifly Appoints Harvard Alumnus George Baxter as Head of US Consulting",
       "summary": "The move follows the company's recent hire of Mr. Patrick C., an alumnus of the University of Cambridge with over a decade of pedagogical experience,&nbsp;...",
@@ -14,22 +22,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-10T11:25:26Z",
       "category": "Startup"
-    },
-    {
-      "title": "upGrad sees senior exits amid Unacademy integration, IPO plans | Company Business News - Mint",
-      "summary": "Online education and skilling platform upGrad is seeing senior-level exits as it integrates Unacademy after acquiring the K-12 edtech startup, ahead&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/companies/news/upgrad-sees-senior-exits-amid-unacademy-deal-ipo-plans-11775734314891.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw28OEDXDq1mZ-dR3kncOYt9",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-09T23:43:52Z",
-      "category": "Product"
-    },
-    {
-      "title": "Anthropic launches Project Glasswing for AI cybersecurity | ETIH EdTech News",
-      "summary": "The company warns that such capabilities are likely to become more widely available in the near term. Amodei noted in the same post that “AI cyber&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/big-tech-and-industry-leaders-unite-with-anthropic-on-ai-cyber-defense-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uiJWXMN0UAyJv9lfd-9Ov",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-09T23:04:07Z",
-      "category": "Product"
     },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
