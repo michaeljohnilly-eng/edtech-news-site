@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-12 10:07 UTC",
+  "updated_at": "2026-04-12 21:52 UTC",
   "summary": {
     "Funding": 1,
     "Acquisition": 2,
     "Product": 2,
-    "Startup": 2
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Edtech startup Masai targets Rs 450 crore revenue in FY27 - The Financial Express",
+      "summary": "First, expanding its partnerships business with IITs, IIMs, and enterprises, which continues to be a primary growth driver for the firm. Second,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/news/edtech-startup-masai-targets-rs-450-crore-revenue-in-fy27/4205228/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw38Bnfk5V0SYnQIv0Ru2pp9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-12T18:54:55Z",
+      "category": "Startup"
+    },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
       "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
