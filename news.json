@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14 22:32 UTC",
+  "updated_at": "2026-04-15 11:36 UTC",
   "summary": {
-    "Funding": 2,
-    "Acquisition": 3,
+    "Funding": 1,
+    "Acquisition": 4,
     "Product": 7,
-    "Startup": 3
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Expert decries Nigeria's edutech shortfall - Punch Newspapers",
+      "summary": "She also pointed to a lack of continuous improvement in many local EdTech products, with companies often failing to iterate after launch. “Real&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://punchng.com/expert-decries-nigerias-edutech-shortfall/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32n0uSf2s7Cw0D_cAm8XYu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-14T23:55:02Z",
+      "category": "Product"
+    },
+    {
+      "title": "PW to pick up stake in test prep platform | Business Standard - newspaper - Magzter",
+      "summary": "Edtech company PhysicsWallah (PW) is in talks to acquire a stake in Rojgar With Ankit (RWA), a digital-first government — examination preparation&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.magzter.com/stories/newspaper/Business-Standard/PW-TO-PICK-UP-STAKE-IN-TEST-PREP-PLATFORM&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iryOnfUrqPUPmrOsDxTsS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-14T20:58:47Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Kenyan Entrepreneur Eliud Luutsa Automates Tendering Processes via Innobid Platform",
       "summary": "The company targets governments, non-profit organizations and ... egyptian-edtech-firm-qualiphi-links-universities-to-job- &middot; Egyptian Edtech&nbsp;...",
@@ -45,30 +61,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/2026/04/14/edtech-platform-aptlearn-shuts-down/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ewamZ-5RhvuqPIxOZpm8e",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-14T12:50:56Z",
-      "category": "Product"
-    },
-    {
-      "title": "Haimaru Company's “ReverseTok” Tops Lifestyle Category on Apple App Store… Aiming to ...",
-      "summary": "EdTech Startup Postmath Secu... As Support Dries Up When You... IBK ... Based on such technical capabilities and a differentiated business model,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kspost.biz/en-us/articles/2445&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Og_aC6HMTxXHg1SgMUJa0",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T02:23:19Z",
-      "category": "Startup"
-    },
-    {
-      "title": "EdTech Startup Postmath Secures KRW 1.86 Billion in Investment and Locks in Top-Tier AI ...",
-      "summary": "... EdTech company. At the same time, by securing a large-scale amount of top-tier artificial intelligence (AI) infrastructure through a government&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kspost.biz/en-us/articles/2443&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw15b2SYC_ZEL-K5LhuVWwHc",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T02:23:16Z",
-      "category": "Funding"
-    },
-    {
-      "title": "CoreWeave expands AI infrastructure deals with Anthropic and Meta | ETIH EdTech News",
-      "summary": "Anthropic will use CoreWeave's cloud platform to run production-scale workloads. The company joins a growing group of AI model providers using&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/qlzff2q46irdp8amwmcky8smd1igym&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3UKjOTabjbZxhGzjSUCrbD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T00:01:47Z",
       "category": "Product"
     },
     {
