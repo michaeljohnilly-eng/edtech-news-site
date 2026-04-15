@@ -1,67 +1,107 @@
 {
-  "updated_at": "2026-04-15 11:36 UTC",
+  "updated_at": "2026-04-15 22:27 UTC",
   "summary": {
-    "Funding": 1,
-    "Acquisition": 4,
-    "Product": 7,
-    "Startup": 2
+    "Funding": 4,
+    "Acquisition": 3,
+    "Product": 8,
+    "Startup": 4
   },
   "articles": [
     {
-      "title": "Expert decries Nigeria's edutech shortfall - Punch Newspapers",
-      "summary": "She also pointed to a lack of continuous improvement in many local EdTech products, with companies often failing to iterate after launch. “Real&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://punchng.com/expert-decries-nigerias-edutech-shortfall/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32n0uSf2s7Cw0D_cAm8XYu",
+      "title": "Gizmo Raises $22M Series A as AI EdTech Hits 13M Users | The Tech Buzz",
+      "summary": "The announcement comes as the startup crosses 13 million users, a milestone that puts it in rare company among consumer AI applications that have&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/gizmo-raises-22m-series-a-as-ai-edtech-hits-13m-users&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0m62RXhG2tu6RGJ83qg1wE",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T23:55:02Z",
+      "published": "2026-04-15T19:27:53Z",
+      "category": "Funding"
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "category": "Funding"
+    },
+    {
+      "title": "GoGuardian Launches Ed Tech Compliance and Risk Management Tool, Offers Free 60-Day Trial",
+      "summary": "... ed tech ecosystem, including tool usage, compliance risk, and spending ... company's core Teaching &amp; Learning business. abstract representation of&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thejournal.com/articles/2026/04/15/goguardian-launches-ed-tech-compliance-and-risk-management-tool.aspx&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3GTgsHLn2k3Eg8Q5NjAYQ0",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T18:01:16Z",
       "category": "Product"
     },
     {
-      "title": "PW to pick up stake in test prep platform | Business Standard - newspaper - Magzter",
-      "summary": "Edtech company PhysicsWallah (PW) is in talks to acquire a stake in Rojgar With Ankit (RWA), a digital-first government — examination preparation&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.magzter.com/stories/newspaper/Business-Standard/PW-TO-PICK-UP-STAKE-IN-TEST-PREP-PLATFORM&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iryOnfUrqPUPmrOsDxTsS",
+      "title": "Photon Education brings innovative tech to 200000 students with Microsoft Azure AI",
+      "summary": "Edtech company Photon Education created an innovative education platform with Microsoft Azure AI, supporting 200000 students and 10500 teachers.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/en/customers/story/26342-photon-education-microsoft-defender-for-cloud&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0je_ACsFqPbkbdnHqrKvfx",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T20:58:47Z",
+      "published": "2026-04-15T12:35:54Z",
+      "category": "Product"
+    },
+    {
+      "title": "ETIH Innovation Awards: Best Career and Skills Development Platform shortlist job-ready skills",
+      "summary": "AI in education, edtech AI tools, and workforce skills drive ETIH edtech awards coverage ... business areas. SkillsVR. SkillsVR delivers&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/etih-innovation-awards-best-career-and-skills-development-platform-shortlist-job-ready-skills&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1d9en7Rl_xj13PYmrgTcFr",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T10:36:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "Behind Nigeria's Digital Classrooms: How Oluwasegun Ige is Engineering the Systems ...",
+      "summary": "Cloud services priced in foreign currency can erode margins long before a company reaches profitability. ... In edtech platforms, APIs are not&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techeconomy.ng/behind-nigerias-digital-classrooms-how-oluwasegun-ige-is-engineering-the-systems-powering-edtech-growth/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0aP1eweELAZg3Tq13lCHI5",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T10:35:48Z",
+      "category": "Product"
+    },
+    {
+      "title": "Best Workforce Collaboration Platform shortlist | ETIH EdTech News",
+      "summary": "AI in education, edtech AI tools, and workforce skills drive ETIH edtech ... Attensi AI Co-pilot generates gamified content and simulations including&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/etih-innovation-awards-workforce-and-industry-collaboration-shortlist-highlights-industry-links&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jaffg21pe7x4QLVS3ajwe",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T10:32:06Z",
+      "category": "Product"
+    },
+    {
+      "title": "PhysicsWallah Clarifies Media Report on Potential Stake in Test-Prep Platform - TipRanks",
+      "summary": "... edtech and test-prep ecosystem. More about PhysicsWallah Ltd. PhysicsWallah Limited is an Indian edtech company focused on online and offline&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/company-announcements/physicswallah-clarifies-media-report-on-potential-stake-in-test-prep-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jQpby5vJhuDPoJywr7iv4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T10:00:17Z",
+      "category": "Product"
+    },
+    {
+      "title": "PhysicsWallah shares rise 5% as firm clarifies on report of acquisition of test-prep platform",
+      "summary": "Business Standard reported on April 14 that the edtech firm is in talks ... Regarding 26% rise in the share price in the past one month, the company&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/physicswallah-shares-rise-5-as-firm-clarifies-on-report-of-acquisition-of-test-prep-platform-13889585.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1yCGT_BLBlGn7fLIIyWusG",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-15T09:25:46Z",
       "category": "Acquisition"
     },
     {
-      "title": "Kenyan Entrepreneur Eliud Luutsa Automates Tendering Processes via Innobid Platform",
-      "summary": "The company targets governments, non-profit organizations and ... egyptian-edtech-firm-qualiphi-links-universities-to-job- &middot; Egyptian Edtech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wearetech.africa/en/fils-uk/tech-stars/kenyan-entrepreneur-eliud-luutsa-automates-tendering-processes-via-innobid-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Qziq0hbEgUR0O5QobNfvS",
+      "title": "‍ TechCabal Daily – Takealot and wait for delivery | MEXC News",
+      "summary": "See what this means for your business. Startups. Nigerian edtech startup aptLearn shuts down. Image Source: Tenor. There's a kind of heartbreak you&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mexc.co/news/1027990&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3CYuLXM7V24WpHddJTO-7t",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T15:44:45Z",
-      "category": "Product"
+      "published": "2026-04-15T08:04:56Z",
+      "category": "Startup"
     },
     {
-      "title": "PhysicsWallah set to acquire stake in test-prep platform Rojgar With Ankit | Company News",
-      "summary": "Edtech company PhysicsWallah (PW) is in talks to acquire a stake in Rojgar With Ankit (RWA), a digital-first government examination preparation&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/amp/companies/news/physicswallah-set-to-acquire-stake-in-test-prep-platform-rojgar-with-ankit-126041400924_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0F9hGDAeYS5xWYgmp7b_7L",
+      "title": "Elice Group speeds Korea AI buildout with modular data centers, eyes IPO - CHOSUNBIZ",
+      "summary": "Ellis Group, which started as an Edtech startup and transitioned into an AI infrastructure company, announced its business strategy for this year&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/en/en-it/2026/04/15/JG72VH45ARG7HDLLY5HLCD4ZQM/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zzx1VRMln7UuGy9jtyNti",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T14:47:30Z",
-      "category": "Acquisition"
+      "published": "2026-04-15T06:55:39Z",
+      "category": "Startup"
     },
     {
-      "title": "Pathify Wins 2026 EdTech Award for Campus Experience Platform, Reinforcing Category Leadership",
-      "summary": "In addition to the EdTech Awards, Pathify was also recently named to Huron's Rise 40, a curated list of companies rearchitecting the student&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/articles/pathify-wins-2026-edtech-award-142500767.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0tev1AnmkSxXiYzEilm4ZF",
+      "title": "Why engagement and industry relevance define online higher education today",
+      "summary": "Edtech has experienced periods of rapid funding followed by adjustments. What does capital efficiency mean for an online higher education company&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://etedge-insights.com/industry/education/why-engagement-and-industry-relevance-define-online-higher-education-today/%3Famp%3D1&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3YI9R308gJWcvSY73adRIZ",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T14:36:02Z",
-      "category": "Product"
-    },
-    {
-      "title": "GoGuardian Launches Discover to Give Districts Clarity on EdTech Compliance and Spending",
-      "summary": "GoGuardian, a leading education technology company, has announced the launch of GoGuardian Discover, a new product that provides district leaders&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nationaltoday.com/us/ca/los-angeles/news/2026/04/14/goguardian-launches-discover-to-give-districts-clarity-on-edtech-compliance-and-spending/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZUFvqi8zM-7-ZwkDUCfzF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T13:21:32Z",
-      "category": "Product"
-    },
-    {
-      "title": "Nigerian edtech platform aptLearn shuts down after 4 years, to focus on strategic reset and AI pivot",
-      "summary": "The edtech platform was established in 2022 by CEO Akinola Abdulakeem and co-founder Adebisi Covenant. The company said the decision is part of a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/2026/04/14/edtech-platform-aptlearn-shuts-down/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ewamZ-5RhvuqPIxOZpm8e",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-14T12:50:56Z",
-      "category": "Product"
+      "published": "2026-04-15T06:33:18Z",
+      "category": "Funding"
     },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
