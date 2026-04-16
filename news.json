@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-15 22:27 UTC",
+  "updated_at": "2026-04-16 11:40 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 3,
     "Acquisition": 3,
-    "Product": 8,
-    "Startup": 4
+    "Product": 10,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Efekta adds global AI and policy leaders to guide education strategy | ETIH EdTech News",
+      "summary": "The company adds former heads of government and AI executives to guide how its platform scales across education systems and policy environments.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/efekta-assembles-heavyweight-ai-and-political-figures-to-steer-global-education-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Mb6xT1H1a26tqi49zzTH_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-16T01:35:30Z",
+      "category": "Product"
+    },
+    {
+      "title": "TED, Khan Academy, ETS launch AI-focused higher education institute | ETIH EdTech News",
+      "summary": "The institute is being developed with input from corporate partners including Google, Microsoft, Accenture, Bain &amp; Company, McKinsey &amp; Company, and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/ted-khan-academy-and-ets-move-into-higher-education-with-new-ai-focused-institute&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3V9SYtDAkuA51gCz1e78Zv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-16T00:05:29Z",
+      "category": "Product"
+    },
     {
       "title": "Gizmo Raises $22M Series A as AI EdTech Hits 13M Users | The Tech Buzz",
       "summary": "The announcement comes as the startup crosses 13 million users, a milestone that puts it in rare company among consumer AI applications that have&nbsp;...",
@@ -78,30 +94,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-15T09:25:46Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "‍ TechCabal Daily – Takealot and wait for delivery | MEXC News",
-      "summary": "See what this means for your business. Startups. Nigerian edtech startup aptLearn shuts down. Image Source: Tenor. There's a kind of heartbreak you&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mexc.co/news/1027990&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3CYuLXM7V24WpHddJTO-7t",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-15T08:04:56Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Elice Group speeds Korea AI buildout with modular data centers, eyes IPO - CHOSUNBIZ",
-      "summary": "Ellis Group, which started as an Edtech startup and transitioned into an AI infrastructure company, announced its business strategy for this year&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/en/en-it/2026/04/15/JG72VH45ARG7HDLLY5HLCD4ZQM/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zzx1VRMln7UuGy9jtyNti",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-15T06:55:39Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Why engagement and industry relevance define online higher education today",
-      "summary": "Edtech has experienced periods of rapid funding followed by adjustments. What does capital efficiency mean for an online higher education company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://etedge-insights.com/industry/education/why-engagement-and-industry-relevance-define-online-higher-education-today/%3Famp%3D1&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3YI9R308gJWcvSY73adRIZ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-15T06:33:18Z",
-      "category": "Funding"
     },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
