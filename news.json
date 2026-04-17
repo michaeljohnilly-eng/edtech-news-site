@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-04-17 11:15 UTC",
+  "updated_at": "2026-04-17 22:05 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 2
+    "Product": 3,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "12 Ghanaian EdTech Startups Join Mastercard Foundation Fellowship's Third Cohort",
+      "summary": "MEST Africa and the Mastercard Foundation have selected 12 Ghanaian educational technology companies for the third cohort of the Mastercard&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsghana.com.gh/12-ghanaian-edtech-startups-join-mastercard-foundation-fellowships-third-cohort/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0HQzFPnVva9WYhmIDE5eeS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-17T19:17:46Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Anthropic Claude Design with Canva export launches | ETIH EdTech News",
+      "summary": "During onboarding, the system can build a design system by analyzing a company's codebase and design files. This allows outputs to automatically&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/anthropic-introduces-claude-design-with-canva-export-following-opus-47-release&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw24wQgPDLsMR7qq-9uxiwyJ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-17T16:24:43Z",
+      "category": "Product"
+    },
+    {
+      "title": "Little Pods — Funding, Revenue &amp; Investors (2026) | Inc42",
+      "summary": "Founded in 2017, Little Pods operates in Edtech offering resources and support for individuals with special needs. The company focuses on&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/company/little-pods/people/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3IpMjG-8_v-_fihkdfQFnW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-16T15:40:29Z",
+      "category": "Funding"
+    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
