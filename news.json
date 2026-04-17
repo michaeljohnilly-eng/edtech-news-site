@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-04-16 22:07 UTC",
+  "updated_at": "2026-04-17 11:15 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
-    {
-      "title": "Efekta adds global AI and policy leaders to guide education strategy | ETIH EdTech News",
-      "summary": "The company adds former heads of government and AI executives to guide how its platform scales across education systems and policy environments.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/efekta-assembles-heavyweight-ai-and-political-figures-to-steer-global-education-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Mb6xT1H1a26tqi49zzTH_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-16T01:35:30Z",
-      "category": "Product"
-    },
-    {
-      "title": "TED, Khan Academy, ETS launch AI-focused higher education institute | ETIH EdTech News",
-      "summary": "The institute is being developed with input from corporate partners including Google, Microsoft, Accenture, Bain &amp; Company, McKinsey &amp; Company, and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/ted-khan-academy-and-ets-move-into-higher-education-with-new-ai-focused-institute&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3V9SYtDAkuA51gCz1e78Zv",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-16T00:05:29Z",
-      "category": "Product"
-    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
