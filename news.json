@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-18 21:51 UTC",
+  "updated_at": "2026-04-19 10:08 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 3,
     "Product": 2,
-    "Startup": 3
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "[AI Revolution](195) What Happens When AI Is Applied to Education... You'll Know If You Let It ...",
+      "summary": "&quot;Technology can accelerate learning.&quot; On April 19, in an interview with The Asia Business Daily, Cho Hyungoo, CEO of edtech startup CT,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/science/2026041710540934861&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0pdEw8XYqW8P-nTiW47u0D",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-18T22:01:55Z",
+      "category": "Startup"
+    },
     {
       "title": "OpenAI acquires Chalkie AI lesson planning platform for teachers | ETIH EdTech News",
       "summary": "Phil Daneshyar, CEO and Co-founder of Chalkie, at an EdTech event. ... His previous company, Kanda, brokered more than $100 million in loans for&nbsp;...",
