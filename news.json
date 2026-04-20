@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-04-19 21:52 UTC",
+  "updated_at": "2026-04-20 11:57 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 5,
+    "Startup": 2
   },
   "articles": [
     {
-      "title": "[AI Revolution](195) What Happens When AI Is Applied to Education... You'll Know If You Let It ...",
-      "summary": "&quot;Technology can accelerate learning.&quot; On April 19, in an interview with The Asia Business Daily, Cho Hyungoo, CEO of edtech startup CT,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/science/2026041710540934861&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0pdEw8XYqW8P-nTiW47u0D",
+      "title": "Who is the Owner of Physics Wallah? - Jagran Josh",
+      "summary": "Alakh Pandey is the present CEO of Physics Wallah. Under his leadership, the company has grown into one of India's biggest edtech platforms. Some of&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jagranjosh.com/general-knowledge/who-is-the-owner-of-physics-wallah-know-the-history-and-current-status-1820008024-1&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0gxxfJ-Uru4kC2ecH1UGFJ",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-04-18T22:01:55Z",
-      "category": "Startup"
+      "published": "2026-04-20T08:44:34Z",
+      "category": "Product"
+    },
+    {
+      "title": "OpenAI GPT-Rosalind launch as three senior figures depart | ETIH EdTech News",
+      "summary": "... company launches GPT-Rosalind, its first frontier AI model built for scientific research. The exits span product, engineering, and research, and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-loses-three-senior-figures-as-gpt-rosalind-launches-and-science-division-closes&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Us2XnHb-Ksa5SPpOg_c9m",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-19T23:05:50Z",
+      "category": "Product"
+    },
+    {
+      "title": "Gizmo, a Cambridge spinout with 13m users, raises £16m - BusinessCloud",
+      "summary": "EdTech's AI-powered study platform transforms screen time into learning ... Fire Up Co-Working Space, Old Fire Station Yard, Maclure Road&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businesscloud.co.uk/news/gizmo-a-cambridge-spinout-with-13m-users-raises-16m/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ybr-VJOOpZpfCRRPtCH37",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-19T22:35:36Z",
+      "category": "Product"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
