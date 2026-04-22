@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-22 11:42 UTC",
+  "updated_at": "2026-04-22 22:33 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 4,
-    "Product": 5,
+    "Acquisition": 3,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "America's Top EdTech Companies of 2026 - AOL.com",
+      "summary": "The proliferation of AI means companies are investing in edtech to upskill their employees, and schools are using platforms to customize learning,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/americas-top-edtech-companies-2026-140059035.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1tb6wxrSgZYZjWhNtFV2R8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-22T14:12:36Z",
+      "category": "Product"
+    },
     {
       "title": "iSchool moves beyond edtech with Rubikal acquisition - Wamda",
       "summary": "The companies previously collaborated for three years, during which Rubikal played a key role in developing iSchool's platform. With operations&nbsp;...",
@@ -38,14 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-22T00:20:34Z",
       "category": "Product"
-    },
-    {
-      "title": "Tes joins the EdTech connected-platform race with Tes360 - TechMarketView",
-      "summary": "A series of acquisitions this century has seen the company assemble a sizeable schools software estate across recruitment, timetabling, special&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techmarketview.com/ukhotviews/archive/2026/04/21/tes-joins-the-edtech-connected-platform-race-with-tes360&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0AMsyJsFZfxge-rRuoi5MW",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-21T14:32:53Z",
-      "category": "Acquisition"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
