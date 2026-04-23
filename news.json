@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-23 11:43 UTC",
+  "updated_at": "2026-04-23 22:10 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 3,
-    "Product": 5,
+    "Product": 7,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Tampa edtech startup launches new AI venture, Ed Buckley to return as CEO full-time",
+      "summary": "Co-founder Ed Buckley will also transition back into leading Scholar Education full-time as CEO. Scholar Health marks the team's most direct push yet&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/tampabay/news/2026/04/23/scholar-ed-ed-buckley.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1NolVTAJ4mq8g96AgxZy4_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-23T16:36:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "Hugging Face launches ML Intern, AI agent that beats Claude Code on reasoning",
+      "summary": "ETIH EdTech News reports on the launch, $1000 in free GPU and Anthropic ... company's own ML researchers, and is available today as a CLI and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/hugging-face-releases-ml-intern-the-ai-agent-teaching-itself-to-beat-claude-code-on-scientific-reasoning&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2TfKbV9B9XmscJvXjgZOxx",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-23T13:05:29Z",
+      "category": "Product"
+    },
+    {
+      "title": "Ed-tech start-up AITS raises $4 million in pre-Series A funding round - Business Standard",
+      "summary": "The round was led by Vietnam-based Big Capital and Singapore-based Redbrook Fund, with participation from Sujeet Kumar (co-founder, Udaan), Ramakant&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/amp/companies/news/ed-tech-start-up-aits-raises-4-million-in-pre-series-a-funding-round-126042300917_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ebrIqIG-AhOWqYXR-uSHJ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-23T11:51:39Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Smartail Strengthens India Expansion with Miles Bronson Residential School (MBRS) for AI ...",
+      "summary": "Smartail is a global Deeptech-EdTech company building evidence-led AI for assessment and learning analytics. Its flagship platform, DeepGrade&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/business/smartail-strengthens-india-expansion-with-miles-bronson-residential-school-mbrs-for-ai-grading-partnership/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0nzbehXcaUvcIZIWsj6jtG",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-23T11:47:27Z",
+      "category": "Product"
+    },
     {
       "title": "Instructure Stock (INST): Understanding the KKR Acquisition - Bitget",
       "summary": "... educational technology (EdTech) sector. Known primarily for its ... company remains at the forefront of the EdTech industry. 5. Corporate&nbsp;...",
@@ -29,14 +61,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://scanx.trade/stock-market-news/companies/educomp-solutions-limited-announces-31st-committee-of-creditors-meeting-for-april-23-2026/38447177&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3i5gtNDI5h7wy5j5yHkLxD",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-22T23:50:40Z",
-      "category": "Product"
-    },
-    {
-      "title": "America's Top EdTech Companies of 2026 - AOL.com",
-      "summary": "The proliferation of AI means companies are investing in edtech to upskill their employees, and schools are using platforms to customize learning,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/americas-top-edtech-companies-2026-140059035.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1tb6wxrSgZYZjWhNtFV2R8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-22T14:12:36Z",
       "category": "Product"
     },
     {
