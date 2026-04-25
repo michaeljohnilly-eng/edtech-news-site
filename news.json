@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-04-24 22:26 UTC",
+  "updated_at": "2026-04-25 10:30 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 3,
+    "Acquisition": 2,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
-    {
-      "title": "Class Ranked Among TIME's Top 10 EdTech Companies of 2026 - The Tennessean",
-      "summary": "Live virtual learning platform recognized for industry impact and financial strength across corporate, government, higher education, and K-12.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tennessean.com/press-release/story/172767/class-ranked-among-times-top-10-edtech-companies-of-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1m20kXPN4BJH2xpTyzeM31",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-23T23:22:58Z",
-      "category": "Product"
-    },
-    {
-      "title": "iSchool acquires Rubikal to build AI-powered education infrastructure - Innovation Village",
-      "summary": "... Business, EdTech, News &middot; iSchool, the Egypt‑based edtech platform, has announced the acquisition of Rubikal, a software engineering firm, in a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://innovation-village.com/ischool-acquires-rubikal-to-build-ai-powered-education-infrastructure/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Le9BUWQWlvetklt2pcTc4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-23T19:16:54Z",
-      "category": "Acquisition"
-    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
