@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-25 21:54 UTC",
+  "updated_at": "2026-04-26 10:32 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 2,
+    "Acquisition": 3,
     "Product": 3,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India's edtech sector consolidates",
+      "summary": "Companies including Unacademy, which expanded aggressively during the pandemic, have since cut costs, scaled back offline ambitions, and refocused on&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/money/companies/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-india-s-edtech-sector-consolidates/ar-AA1YG301%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26bundles%3Dfeat-es2020-t&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1gwD9ZvwrhsOJqENZLkiI_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-25T20:00:58Z",
+      "category": "Acquisition"
+    },
     {
       "title": "KidsAI Builds Visibility With Game-Based AI Literacy Platform Olii - TipRanks.com",
       "summary": "The company's positioning targets the convergence of edtech, gaming, and AI literacy, areas that are attracting increasing attention from parents&nbsp;...",
