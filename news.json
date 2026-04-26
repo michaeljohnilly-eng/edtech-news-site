@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-26 10:32 UTC",
+  "updated_at": "2026-04-26 21:55 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 3,
-    "Startup": 3
+    "Acquisition": 4,
+    "Product": 2,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Austin co. acquires Canadian startup | AV freight co. nears public market debut",
+      "summary": "Edtech firm's new execs with shared history. Edtech company EMS LINQ LLC, which has its corporate office in Austin, said April 21 that it has named&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/austin/inno/newsletter/45333595%3Fskip%3D0&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_yuVwmlHALLd4Gur1QgtZ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-26T13:07:12Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Unacademy to be acquired by upGrad in share-swap deal as India's edtech sector consolidates",
       "summary": "Companies including Unacademy, which expanded aggressively during the pandemic, have since cut costs, scaled back offline ambitions, and refocused on&nbsp;...",
@@ -14,22 +22,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-25T20:00:58Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "KidsAI Builds Visibility With Game-Based AI Literacy Platform Olii - TipRanks.com",
-      "summary": "The company's positioning targets the convergence of edtech, gaming, and AI literacy, areas that are attracting increasing attention from parents&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/kidsai-builds-visibility-with-game-based-ai-literacy-platform-olii&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3ZXCZTA_ZFPeL_xl_4kCcL",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-25T15:26:26Z",
-      "category": "Product"
-    },
-    {
-      "title": "How a Philly edtech company is helping transform professional development, training for educators",
-      "summary": "KickUp, a Philadelphia edtech startup, helps educators become better connected with professional development and training in conjunction with&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/news/technology/how-a-philly-edtech-company-is-helping-transform-professional-development-training-for-educators/ar-AA21yjsV&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3BL9fTt0F3YvoO1_2ZBFkl",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-24T17:46:07Z",
-      "category": "Startup"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
