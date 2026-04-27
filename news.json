@@ -1,26 +1,42 @@
 {
-  "updated_at": "2026-04-26 21:55 UTC",
+  "updated_at": "2026-04-27 13:08 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 4,
-    "Product": 2,
-    "Startup": 2
+    "Acquisition": 3,
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "[Kyungpook National University Startup Support Center] The power of reading and writing ...",
+      "summary": "... edtech company Time Education C&amp;P. Through this agreement, the two companies plan to supply literacy content utilizing VisualCamp's… ← [Culture&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.venturesquare.net/en/1078597/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3zkGl6--YtEBBLNo_Emi3y",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-27T04:13:47Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Waterloo quantum startup QuantumCore secures $10.7m | ETIH EdTech News",
+      "summary": "The company was co-founded by Dr. Christopher Wilson, Institute for Quantum Computing faculty member, Professor in the Department of Electrical&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/university-of-waterloo-startup-quantumcore-secures-107-million-six-months-after-launch&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2OSzPUEUS0OA2oi_0DM58p",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-27T01:31:22Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Google launches Gemini Academy webinar series for UK teachers with built-in certification path",
+      "summary": "... adoption, and teacher AI skills. Read the latest edtech news on Gemini, NotebookLM, and certification pathways shaping classroom AI fluency.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/google-launches-gemini-academy-webinar-series-for-uk-teachers-with-built-in-certification-path&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RTkSzf0CtefkJllEqKEkf",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-27T00:06:31Z",
+      "category": "Product"
+    },
     {
       "title": "Austin co. acquires Canadian startup | AV freight co. nears public market debut",
       "summary": "Edtech firm's new execs with shared history. Edtech company EMS LINQ LLC, which has its corporate office in Austin, said April 21 that it has named&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/austin/inno/newsletter/45333595%3Fskip%3D0&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_yuVwmlHALLd4Gur1QgtZ",
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-26T13:07:12Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Unacademy to be acquired by upGrad in share-swap deal as India's edtech sector consolidates",
-      "summary": "Companies including Unacademy, which expanded aggressively during the pandemic, have since cut costs, scaled back offline ambitions, and refocused on&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/money/companies/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-india-s-edtech-sector-consolidates/ar-AA1YG301%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26bundles%3Dfeat-es2020-t&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1gwD9ZvwrhsOJqENZLkiI_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-25T20:00:58Z",
       "category": "Acquisition"
     },
     {
