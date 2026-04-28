@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-04-28 16:13 UTC",
+  "updated_at": "2026-04-28 23:12 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 3,
     "Product": 2,
-    "Startup": 2
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "The global edtech boom is fading as investors look elsewhere - MSN",
+      "summary": "an analysis by Loot Drop, a curated database of more than 1,700 startup closures. Indian edtech company Byju's, once the world's most valuable&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/money/technology/the-global-edtech-boom-is-fading-as-investors-look-elsewhere/ar-AA21xmY5%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3vUE44wnDfnMSRIlkG_W9M",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-28T17:38:33Z",
+      "category": "Startup"
+    },
     {
       "title": "Understanding the Limits and Potential of EdTech - Digital First Magazine",
       "summary": "Predictably, the outcome fell well short of the rhetoric, and the company ended up being acquired by a publisher for a tiny fraction of what investors&nbsp;...",
