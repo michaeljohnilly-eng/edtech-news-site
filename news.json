@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-28 23:12 UTC",
+  "updated_at": "2026-04-29 13:10 UTC",
   "summary": {
-    "Funding": 2,
-    "Acquisition": 3,
-    "Product": 2,
-    "Startup": 3
+    "Funding": 0,
+    "Acquisition": 0,
+    "Product": 3,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Impacters Signs Business Agreement with Busan National University of Education… Ramps ...",
+      "summary": "An artificial intelligence (AI) edtech startup, Impacters, said on the 29th that it has signed a memorandum of understanding (MOU) with Busan&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kspost.biz/en-us/articles/2488&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw04w-6Vqz5ihOzSjSkc8H_V",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-29T02:22:29Z",
+      "category": "Startup"
+    },
+    {
+      "title": "TomTom selects HowNow AI platform to build skills-based workforce | ETIH EdTech News",
+      "summary": "TomTom Academy, powered by HowNow's AI skills mapping platform, reached full functionality in under a year. Edtech ... company to respond faster to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/tomtom-turns-to-hownow-to-build-a-skills-based-workforce-as-demand-for-ai-upskilling-grows&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3bHD2yqbjJr36deyyUZ_8Z",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-29T02:03:31Z",
+      "category": "Product"
+    },
+    {
+      "title": "SUNeVision Concludes Third Edition of Startup Programme – Company Announcement - FT.com",
+      "summary": "... business into regulated digital assets. ChatnLearn EdTech Limited : An AI‑powered platform delivering interactive and personalised English&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.ft.com/data/announce/detail%3Fdockey%3D600-202604282100DGAP____ASPR_____corporate_2317222_en-1&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iPioSzMPQSVf-uxWw5MWY",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-29T01:04:28Z",
+      "category": "Product"
+    },
+    {
+      "title": "Microsoft and OpenAI rewrite partnership ending cloud exclusivity through 2032 | ETIH EdTech News",
+      "summary": "... company saying the agreement strengthens the joint ability of both companies to build and operate AI platforms at scale. What it means for cloud&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-breaks-free-of-microsoft-cloud-lock-in-as-partnership-rewritten-through-2032&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw10ugLH5-MDiHbo4uA5X2CR",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-04-29T00:03:18Z",
+      "category": "Product"
+    },
     {
       "title": "The global edtech boom is fading as investors look elsewhere - MSN",
       "summary": "an analysis by Loot Drop, a curated database of more than 1,700 startup closures. Indian edtech company Byju's, once the world's most valuable&nbsp;...",
@@ -14,78 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-04-28T17:38:33Z",
       "category": "Startup"
-    },
-    {
-      "title": "Understanding the Limits and Potential of EdTech - Digital First Magazine",
-      "summary": "Predictably, the outcome fell well short of the rhetoric, and the company ended up being acquired by a publisher for a tiny fraction of what investors&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitalfirstmagazine.com/understanding-the-limits-and-potential-of-edtech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0eA-ArO_4Oxl7iTAaPMyq2",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-04-28T04:05:07Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Wed, 15 Apr 2026 18:38:10 +0000",
-      "category": "Funding"
-    },
-    {
-      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
-      "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
-      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Sun, 15 Mar 2026 17:19:47 +0000",
-      "category": "Acquisition"
-    },
-    {
-      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
-      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
-      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Thu, 15 Jan 2026 00:04:46 +0000",
-      "category": "Funding"
-    },
-    {
-      "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
-      "summary": "Coursera and Udemy, two of the biggest names in online learning, are combining platforms next year.",
-      "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Wed, 17 Dec 2025 15:58:22 +0000",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks",
-      "summary": "Unacademy's valuation has dropped by over 85% from its pandemic-era peak price tag of $3.5 billion, its founder said.",
-      "link": "https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Wed, 10 Dec 2025 14:29:12 +0000",
-      "category": "Startup"
-    },
-    {
-      "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
-      "summary": "Nick Gross says that Find Your Grind gives students the tools to explore what careers are out there and what paths suit their strengths, interests, and visions for what they want their futures to look like.",
-      "link": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Tue, 25 Nov 2025 18:49:20 +0000",
-      "category": "Product"
-    },
-    {
-      "title": "Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech",
-      "summary": "The Indian edtech startup ended its first day as a public company on a high, with its shares closing 44% higher than they were listed for, indicating that the country's edtech sector may still recover after years of...",
-      "link": "https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Tue, 18 Nov 2025 15:36:09 +0000",
-      "category": "Startup"
-    },
-    {
-      "title": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
-      "summary": "Oboe is a new AI-powered learning platform that lets you create personalized courses on any topic with a prompt.",
-      "link": "https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/",
-      "source": "EdTech news and analysis | TechCrunch",
-      "published": "Wed, 10 Sep 2025 14:27:55 +0000",
-      "category": "Product"
     }
   ]
 }
