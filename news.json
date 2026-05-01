@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-01 09:42 UTC",
+  "updated_at": "2026-05-01 20:46 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 7,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Edtech firm Instructure confirms data breach after Salesforce instance hack",
+      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed a security incident after a social engineering attack&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bleepingcomputer.com/news/security/edtech-firm-instructure-confirms-data-breach-after-salesforce-instance-hack/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Lpf_-vKFar-xD-xSEa8pg",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-01T16:29:15Z",
+      "category": "Product"
+    },
+    {
+      "title": "TED, ETS and Khan launch new $10k AI degree - The PIE News",
+      "summary": "... company, set to be one of India's largest edtech consolidations in recent years. by Abhishek Nair. Edtech. Mar 19. News &middot; Efekta adds former UK deputy&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thepienews.com/ted-ets-and-khan-launch-new-10k-ai-degree/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1DccddC0VLgsavmvgvyg6m",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-01T15:48:54Z",
+      "category": "Product"
+    },
     {
       "title": "Hive Colab launches the Mastercard Foundation EdTech Fellowship - PC Tech Magazine",
       "summary": "The Mastercard Foundation EdTech Fellowship is an entrepreneurship acceleration programme designed to support promising African-led EdTech companies.",
@@ -21,6 +37,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260430759646/en/Boxlight-Announces-Significant-Upgrades-to-Symphony-Campuswide-Communication-Platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3qMb1-oBsItmc3_8IfyBhP",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-01T01:11:52Z",
+      "category": "Product"
+    },
+    {
+      "title": "Classroom Use Cases Highlight Adoption of MagicSchool AI in K-12 EdTech - TipRanks",
+      "summary": "According to a recent LinkedIn post from MagicSchool AI, students in Leander ISD are using the company's MagicStudent platform to support K-12&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/classroom-use-cases-highlight-adoption-of-magicschool-ai-in-k-12-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1pXKI0n5Q2bj4HjTGOmYRi",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-01T00:27:40Z",
       "category": "Product"
     },
     {
