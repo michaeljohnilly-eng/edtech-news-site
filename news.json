@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-05-02 09:01 UTC",
+  "updated_at": "2026-05-02 20:37 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 7,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Harde Business School expands skill-based education, targets 70%... - VMT News",
+      "summary": "Harde Business School, an emerging EdTech platform, says it is bridging a critical gap in access to quality education by offering flexible,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vmtnews.ng/harde-business-school-expands-skill-based-education-targets-70/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ygXgKirHb3gaUHP8LzUMB",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-02T11:15:59Z",
+      "category": "Product"
+    },
     {
       "title": "Edtech funding collapses after pandemic high - Scroll.in",
       "summary": "Total edtech funding has cooled significantly post-pandemic &middot; Number of edtech companies founded globally, by year &middot; Reasons why edtech startups died.",
@@ -21,38 +29,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://businessmirror.com.ph/2026/05/02/steam-controller-release-date-scheduled/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3oU76dCK8EF2sOH5fl4xCk",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-02T01:34:41Z",
-      "category": "Product"
-    },
-    {
-      "title": "Edtech firm Instructure confirms data breach after Salesforce instance hack",
-      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed a security incident after a social engineering attack&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bleepingcomputer.com/news/security/edtech-firm-instructure-confirms-data-breach-after-salesforce-instance-hack/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Lpf_-vKFar-xD-xSEa8pg",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-01T16:29:15Z",
-      "category": "Product"
-    },
-    {
-      "title": "TED, ETS and Khan launch new $10k AI degree - The PIE News",
-      "summary": "... company, set to be one of India's largest edtech consolidations in recent years. by Abhishek Nair. Edtech. Mar 19. News &middot; Efekta adds former UK deputy&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thepienews.com/ted-ets-and-khan-launch-new-10k-ai-degree/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1DccddC0VLgsavmvgvyg6m",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-01T15:48:54Z",
-      "category": "Product"
-    },
-    {
-      "title": "Hive Colab launches the Mastercard Foundation EdTech Fellowship - PC Tech Magazine",
-      "summary": "The Mastercard Foundation EdTech Fellowship is an entrepreneurship acceleration programme designed to support promising African-led EdTech companies.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pctechmag.com/2026/05/hive-colab-launches-the-mastercard-foundation-edtech-fellowship/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0L_2sN2MmH1i-GLIG2DhQq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-01T08:41:32Z",
-      "category": "Product"
-    },
-    {
-      "title": "Classroom Use Cases Highlight Adoption of MagicSchool AI in K-12 EdTech - TipRanks",
-      "summary": "According to a recent LinkedIn post from MagicSchool AI, students in Leander ISD are using the company's MagicStudent platform to support K-12&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/classroom-use-cases-highlight-adoption-of-magicschool-ai-in-k-12-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1pXKI0n5Q2bj4HjTGOmYRi",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-01T00:27:40Z",
       "category": "Product"
     },
     {
