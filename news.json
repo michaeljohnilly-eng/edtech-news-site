@@ -1,18 +1,82 @@
 {
-  "updated_at": "2026-05-04 10:09 UTC",
+  "updated_at": "2026-05-04 21:04 UTC",
   "summary": {
     "Funding": 3,
-    "Acquisition": 2,
-    "Product": 2,
+    "Acquisition": 3,
+    "Product": 9,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "WestBridge leads $40-M round for US-based edtech platform Yoodli | News",
-      "summary": "This marks the company's second funding this year, following a USD 13.7 million Series A round in May, led by Neotribe.Founded by Varun Puri and Esha&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ventureintelligence.com/private-equity/westbridge-leads-%252440-m-round-for-us-based-edtech-platform-yoodli&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ipl7CUmHmCf1F-FIOlOxX",
+      "title": "Classover Announces Strategic Collaboration With Vensin Computer Technology To ... - Newswire",
+      "summary": "Classover Holdings Inc. (NASDAQ:KIDZ) is an AI-driven education technology company transforming extensive live teaching experience into proprietary AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newswire.com/news/classover-announces-strategic-collaboration-with-vensin-computer-technology-to&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0yZSOWMQmu1c5DQcsCHI75",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-03T13:04:40Z",
+      "published": "2026-05-04T17:38:23Z",
+      "category": "Product"
+    },
+    {
+      "title": "Elite Expertise Expands to India with Hyderabad Office - Passionate In Marketing",
+      "summary": "Hyderabad, India | [April 2026]Global EdTech platform Elite Expertise, known for its specialized training programs for internationally trained&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.passionateinmarketing.com/elite-expertise-expands-to-india-with-hyderabad-office/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3KOu5LDScZygtwFh2U3_kv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T17:10:02Z",
+      "category": "Product"
+    },
+    {
+      "title": "ShinyHunters Claims Responsibility for Breach of EdTech Company Instructure",
+      "summary": "Instructure, an education technology company that offers the popular Canvas learning platform, is the latest victim of the prolific ShinyHunters&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/05/shinyhunters-claims-responsibility-for-breach-of-edtech-company-instructure/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-9NJU6Vx0LZdWzlM5mxzT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T14:22:10Z",
+      "category": "Product"
+    },
+    {
+      "title": "Hive Colab launches EdTech fellowship to boost Education in Uganda - YouTube",
+      "summary": "... co.ug Follow us on Twitter http://www.twitter.com/ntvuganda Connect with us on Messenger via m.me/NTVUganda Contact us: CustomerCareUg@ug&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDkdJxnkqHDg&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3EPkzlnf0AFRkvKrOTpcXY",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T10:59:23Z",
+      "category": "Product"
+    },
+    {
+      "title": "From Admissions to Alumni - Groweon Launches India's AI-Powered Education CRM",
+      "summary": "... edtech companies across India. Designed to simplify student lifecycle management, this platform brings the power of artificial intelligence&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4498008/from-admissions-to-alumni-groweon-launches-india-s-ai-powered&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1VtTsOM91NevTXAuo9tAoD",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T09:50:51Z",
+      "category": "Product"
+    },
+    {
+      "title": "Edtech platform Codingal appoints Praveen Kumar as VP of Operations - IMPACT Magazine",
+      "summary": "Earlier in his career, Kumar co-founded an agri-tech startup and held leadership roles at OYO, EduKart and TACT. Commenting on the appointment, Vivek&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.impactonnet.com/more-from-impact/edtech-platform-codingal-appoints-praveen-kumar-as-vp-of-operations-14303.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3yo-uYErSqWX3gW78GE1vW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T09:44:03Z",
+      "category": "Product"
+    },
+    {
+      "title": "upGrad Moves Closer To Unacademy Acquisition At 90% Valuation Cut - Inc42",
+      "summary": "Unacademy. An Edtech Funded Company Based Out Of Bengaluru. Sector. Edtech ... Prior to that, it decided to exit its offline business by converting&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/upgrad-moves-closer-to-unacademy-acquisition-at-90-valuation-cut/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2KXoFeZOWWRuwYWjqIqwjV",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T08:39:03Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "From Plasma Screens to Platforms: Has EdTech Improved Learning Outcomes in Ethiopia?",
+      "summary": "... EdTech today: Does expanding access to instruction actually improve ... Shega is an information and technology company that offers in-depth&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://shega.co/news/from-plasma-screens-to-platforms-has-ed-tech-improved-learning-outcomes-in-ethiopia&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zlF5WaR0B-LFkR1GvEFn-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T07:50:47Z",
+      "category": "Product"
+    },
+    {
+      "title": "UpGrad to Acquire Unacademy in Major Edtech Consolidation Deal - Siliconindia",
+      "summary": "At the same time, the Ronnie Screwvala-led company is also in talks to raise an internal funding round of around Rs 375 crore from existing&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/news/startups/upgrad-to-acquire-unacademy-in-major-edtech-consolidation-deal-nid-240492-cid-19.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3gbtRLlGwnVFWhrC6B8vSo",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-04T07:15:31Z",
       "category": "Funding"
     },
     {
