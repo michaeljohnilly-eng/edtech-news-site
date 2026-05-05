@@ -1,35 +1,27 @@
 {
-  "updated_at": "2026-05-05 09:58 UTC",
+  "updated_at": "2026-05-05 20:58 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 2,
-    "Product": 5,
+    "Acquisition": 3,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "Classover Announces Strategic Collaboration With Vensin Computer Technology To ... - Newswire",
-      "summary": "Classover Holdings Inc. (NASDAQ:KIDZ) is an AI-driven education technology company transforming extensive live teaching experience into proprietary AI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newswire.com/news/classover-announces-strategic-collaboration-with-vensin-computer-technology-to&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0yZSOWMQmu1c5DQcsCHI75",
+      "title": "Edtech unicorn Preply launched an employee share buyback program even before the ... - dev.ua",
+      "summary": "Ukrainian-based edtech company Preply has bought back its employees' shares for the first time thanks to a stock buyback program introduced this&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.ua/en/news/preply-vpershe-vykupyv-aktsii-u-svoikh-spivrobitnykiv-1777970261&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2mjL018r2GsusJkMPuwF3g",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-04T17:38:23Z",
+      "published": "2026-05-05T11:24:27Z",
       "category": "Product"
     },
     {
-      "title": "Elite Expertise Expands to India with Hyderabad Office - Passionate In Marketing",
-      "summary": "Hyderabad, India | [April 2026]Global EdTech platform Elite Expertise, known for its specialized training programs for internationally trained&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.passionateinmarketing.com/elite-expertise-expands-to-india-with-hyderabad-office/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3KOu5LDScZygtwFh2U3_kv",
+      "title": "UpGrad to acquire Unacademy in an all-stock deal of Rs 2,055 crore - BestMediaInfo.com",
+      "summary": "Strategically, the acquisition reflects a shift in the edtech sector as companies move away from high-growth, consumer-focused models. The combined&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bestmediainfo.com/mediainfo/mediainfo-marketing/upgrad-to-acquire-unacademy-in-an-all-stock-deal-of-rs-2055-crore-11800852&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0oM0-X1GffcOdRSayXrpCo",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-04T17:10:02Z",
-      "category": "Product"
-    },
-    {
-      "title": "ShinyHunters Claims Responsibility for Breach of EdTech Company Instructure",
-      "summary": "Instructure, an education technology company that offers the popular Canvas learning platform, is the latest victim of the prolific ShinyHunters&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/05/shinyhunters-claims-responsibility-for-breach-of-edtech-company-instructure/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-9NJU6Vx0LZdWzlM5mxzT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-04T14:22:10Z",
-      "category": "Product"
+      "published": "2026-05-05T10:38:23Z",
+      "category": "Acquisition"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
