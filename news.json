@@ -1,34 +1,26 @@
 {
-  "updated_at": "2026-05-06 10:13 UTC",
+  "updated_at": "2026-05-06 21:07 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 4,
+    "Acquisition": 3,
     "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "AI Genie Launches QuickHire - India's Pioneer IT Resource Platform to Place AI Trained Full ...",
+      "summary": "QuickHire supports eCommerce firms, startups, digital agencies, healthcare and EdTech platforms, enterprises, and SaaS companies that need&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswireindia.com/ai-genie-launches-quickhire-india%27s-pioneer-it-resource-platform-to-place-ai-trained-full-time-tech-talent-in-just-10-minutes-99951.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3dTDNyvODHzlk1afJnS88f",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-06T13:44:17Z",
+      "category": "Product"
+    },
     {
       "title": "Unacademy to be acquired by UpGrad - Dailyhunt",
       "summary": "UpGrad, an online skilling platform, is set to acquire edtech company Unacademy in an all-stock deal after months of negotiations.",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.dailyhunt.in/news/india/english/channeliam%2Benglish-epaper-chnlimen/unacademy%2Bto%2Bbe%2Bacquired%2Bby%2Bupgrad-newsid-n711128232&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fPUjVWKoM4ujw0s8k1MaK",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-06T01:37:51Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Edtech unicorn Preply launched an employee share buyback program even before the ... - dev.ua",
-      "summary": "Ukrainian-based edtech company Preply has bought back its employees' shares for the first time thanks to a stock buyback program introduced this&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.ua/en/news/preply-vpershe-vykupyv-aktsii-u-svoikh-spivrobitnykiv-1777970261&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2mjL018r2GsusJkMPuwF3g",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-05T11:24:27Z",
-      "category": "Product"
-    },
-    {
-      "title": "UpGrad to acquire Unacademy in an all-stock deal of Rs 2,055 crore - BestMediaInfo.com",
-      "summary": "Strategically, the acquisition reflects a shift in the edtech sector as companies move away from high-growth, consumer-focused models. The combined&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bestmediainfo.com/mediainfo/mediainfo-marketing/upgrad-to-acquire-unacademy-in-an-all-stock-deal-of-rs-2055-crore-11800852&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0oM0-X1GffcOdRSayXrpCo",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-05T10:38:23Z",
       "category": "Acquisition"
     },
     {
