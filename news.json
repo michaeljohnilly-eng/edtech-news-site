@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-05-05 20:58 UTC",
+  "updated_at": "2026-05-06 10:13 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
+    "Acquisition": 4,
     "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Unacademy to be acquired by UpGrad - Dailyhunt",
+      "summary": "UpGrad, an online skilling platform, is set to acquire edtech company Unacademy in an all-stock deal after months of negotiations.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.dailyhunt.in/news/india/english/channeliam%2Benglish-epaper-chnlimen/unacademy%2Bto%2Bbe%2Bacquired%2Bby%2Bupgrad-newsid-n711128232&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fPUjVWKoM4ujw0s8k1MaK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-06T01:37:51Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Edtech unicorn Preply launched an employee share buyback program even before the ... - dev.ua",
       "summary": "Ukrainian-based edtech company Preply has bought back its employees' shares for the first time thanks to a stock buyback program introduced this&nbsp;...",
