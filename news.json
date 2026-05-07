@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-06 21:07 UTC",
+  "updated_at": "2026-05-07 10:21 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 3,
+    "Acquisition": 2,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Outsourcing Data Processing For EdTech Platforms In 2026 - NASSCOM Community",
+      "summary": "The EdTech business is expanding quickly. There is a huge amount of info that comes with this growth. Every day, platforms now handle student&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://community.nasscom.in/communities/application/outsourcing-data-processing-edtech-platforms-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11KCxAcu-5MIL1PmY3mNkA",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-07T05:11:48Z",
+      "category": "Product"
+    },
+    {
+      "title": "Avantis Education receives King's Award for Enterprise - Installation-international",
+      "summary": "Welsh edtech company's ClassVR virtual and augmented reality platform, used in over 90 countries, has been recognised in the Innovation category&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.installation-international.com/technology/ar-vr/avantis-education-receives-kings-award-for-enterprise&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2JPFn9WiGEW_xgzknksSPQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-06T22:54:48Z",
+      "category": "Product"
+    },
     {
       "title": "AI Genie Launches QuickHire - India's Pioneer IT Resource Platform to Place AI Trained Full ...",
       "summary": "QuickHire supports eCommerce firms, startups, digital agencies, healthcare and EdTech platforms, enterprises, and SaaS companies that need&nbsp;...",
@@ -14,14 +30,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-06T13:44:17Z",
       "category": "Product"
-    },
-    {
-      "title": "Unacademy to be acquired by UpGrad - Dailyhunt",
-      "summary": "UpGrad, an online skilling platform, is set to acquire edtech company Unacademy in an all-stock deal after months of negotiations.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.dailyhunt.in/news/india/english/channeliam%2Benglish-epaper-chnlimen/unacademy%2Bto%2Bbe%2Bacquired%2Bby%2Bupgrad-newsid-n711128232&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fPUjVWKoM4ujw0s8k1MaK",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-06T01:37:51Z",
-      "category": "Acquisition"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
