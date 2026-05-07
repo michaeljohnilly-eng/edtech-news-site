@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-05-07 10:21 UTC",
+  "updated_at": "2026-05-07 21:01 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 5,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "The AI Startup Aiming to Help All Students Find Their Reading Mojo - The 74",
+      "summary": "... edtech companies. We may come back to that. I should say you both raised venture funding. Like, there's a lot of interesting things here&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.the74million.org/article/the-ai-startup-aiming-to-help-all-students-find-their-reading-mojo/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0eWxq1NumBJqqYAUGLTlDp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-07T18:09:56Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Claude Will Soon Be Able to 'Dream,' According to Anthropic - Tech.co",
+      "summary": "Edtech Company Instructure Confirms Data Breach. Adam Rowe - 3 days ago. Lovable Launches Vibe Coding App That Can Build Apps with AI. Conor Cawley&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.co/news/claude-to-dream-says-anthropic&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3pEileyOCQzAyM9HnI6Gz5",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-07T16:07:29Z",
+      "category": "Product"
+    },
+    {
+      "title": "Personalised phishing attacks likely after global Canvas hack - Times Higher Education (THE)",
+      "summary": "The platform's vendor, Utah-based edtech company Instructure, reported on 1 May that it had “experienced a cybersecurity incident perpetrated by a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.timeshighereducation.com/news/personalised-phishing-attacks-likely-after-global-canvas-hack&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2K2nh36bor4Ag2fNrzJYNO",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-07T09:58:43Z",
+      "category": "Product"
+    },
     {
       "title": "Outsourcing Data Processing For EdTech Platforms In 2026 - NASSCOM Community",
       "summary": "The EdTech business is expanding quickly. There is a huge amount of info that comes with this growth. Every day, platforms now handle student&nbsp;...",
@@ -21,14 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.installation-international.com/technology/ar-vr/avantis-education-receives-kings-award-for-enterprise&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2JPFn9WiGEW_xgzknksSPQ",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-06T22:54:48Z",
-      "category": "Product"
-    },
-    {
-      "title": "AI Genie Launches QuickHire - India's Pioneer IT Resource Platform to Place AI Trained Full ...",
-      "summary": "QuickHire supports eCommerce firms, startups, digital agencies, healthcare and EdTech platforms, enterprises, and SaaS companies that need&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswireindia.com/ai-genie-launches-quickhire-india%27s-pioneer-it-resource-platform-to-place-ai-trained-full-time-tech-talent-in-just-10-minutes-99951.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3dTDNyvODHzlk1afJnS88f",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-06T13:44:17Z",
       "category": "Product"
     },
     {
