@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-05-08 20:55 UTC",
+  "updated_at": "2026-05-09 09:15 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 7,
+    "Acquisition": 2,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "EdTech Platform Canvas Accused Of Lax Security After Breach - Law360",
+      "summary": "Several days later, on May 7, the company said it had found &quot;additional unauthorized activity&quot; tied to the same incident and temporarily took Canvas&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.law360.com/articles/2475354/edtech-platform-canvas-accused-of-lax-security-after-breach&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_p9XI8g3KfBolw2n7jfeq",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-09T03:56:36Z",
+      "category": "Product"
+    },
     {
       "title": "Digital Resilience for K–12: Planning for Cloud Outage Continuity | EdTech Magazine",
       "summary": "“Schools should not be looking at replicating these e-learning platforms locally,” explains Bill Erdman, director of business and channel development&nbsp;...",
@@ -21,38 +29,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.einpresswire.com/article/911292833/digital-education-market-to-reach-us-115-7-billion-by-2033-growing-at-22-1-cagr-2026-2033&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3JlKGE4rZEW12EB7mHhGzn",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-08T10:13:26Z",
-      "category": "Product"
-    },
-    {
-      "title": "upGrad Seeks CCI's Approval For Unacademy Acquisition - Inc42",
-      "summary": "However, amid all this, PhysicsWallah became the first major edtech company to list on the stock exchanges last year. Go Deeper On Unacademy With&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/upgrad-seeks-ccis-approval-for-unacademy-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2K26gsnyoRHZiePBx0uoxj",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-08T07:39:51Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Vi, PhysicsWallah launch connectivity, EdTech services bundle - Telecompaper",
-      "summary": "Indian mobile operator Vodafone Idea (Vi) has teamed up with education company PhysicsWallah (PW) to provide integrated digital learning support&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.telecompaper.com/news/vi-physicswallah-launch-connectivity-edtech-services-bundle--1570452&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2_58IDWEd2-Xj8Bv2C5SHD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-08T04:36:04Z",
-      "category": "Product"
-    },
-    {
-      "title": "EPFL's Marcel Salathe launches AI literacy audio app The Framework | ETIH EdTech News",
-      "summary": "EPFL AI Center co-director Marcel Salathe launches The Framework, an audio app with 50 lessons on AI literacy for non-technical learners.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/epfl-ai-center-co-director-marcel-salathe-launches-audio-app-for-building-ai-literacy-from-first-principles&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw21hSBVVTdlB-mY_QRok4_y",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-08T00:32:30Z",
-      "category": "Product"
-    },
-    {
-      "title": "TechChange and J&amp;J launch free AI literacy course for health workers | ETIH EdTech News",
-      "summary": "TechChange and Johnson and Johnson release a free AI literacy course for community health workers, co-designed with the Gates Foundation, PATH,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/techchange-and-johnson-and-johnson-launch-free-ai-literacy-course-for-community-health-workers-worldwide&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3FuM6Q7lqWP3a0S0iP3HNq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-08T00:02:39Z",
       "category": "Product"
     },
     {
