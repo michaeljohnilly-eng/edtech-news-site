@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-05-09 20:39 UTC",
+  "updated_at": "2026-05-10 09:25 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
-    {
-      "title": "EdTech Platform Canvas Accused Of Lax Security After Breach - Law360",
-      "summary": "Several days later, on May 7, the company said it had found &quot;additional unauthorized activity&quot; tied to the same incident and temporarily took Canvas&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.law360.com/articles/2475354/edtech-platform-canvas-accused-of-lax-security-after-breach&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_p9XI8g3KfBolw2n7jfeq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-09T03:56:36Z",
-      "category": "Product"
-    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
