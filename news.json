@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-12 10:28 UTC",
+  "updated_at": "2026-05-12 21:15 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 5,
-    "Startup": 3
+    "Product": 6,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "OpenAI Launches Company to Help Organizations Embed AI - Tech.co",
+      "summary": "OpenAI is launching a new company to help businesses embed AI into their systems — OpenAI Deployment Company. ... Edtech Company Instructure Confirms&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.co/news/openai-launches-new-deployment-company&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3msF_xCV9Ik7qsKRR0ptLR",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-12T15:56:42Z",
+      "category": "Product"
+    },
+    {
+      "title": "What Ed Tech Startups are Learning—and Teaching | Twin Cities Business",
+      "summary": "School's almost out, but several Minnesota startups in the education technology (ed tech) space are already preparing for the next school year.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tcbmag.com/what-ed-tech-startups-are-learning-and-teaching/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw09zVtnjpbg_8rCbGnETpoX",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-12T13:14:11Z",
+      "category": "Startup"
+    },
     {
       "title": "An EdTech Startup Made Its Presence Felt At A Fintech Awards Show. Here's Why eCampus ...",
       "summary": "There is something quietly audacious about an education technology company walking away with a trophy at Ghana's premier financial services awards&nbsp;...",
