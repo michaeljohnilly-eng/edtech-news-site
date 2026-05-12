@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-05-11 21:13 UTC",
+  "updated_at": "2026-05-12 10:28 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 2
+    "Product": 5,
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "ronniescrewvala #edtechindia #testprepobsession #unacademyupgrad #indiaeducation ... - LinkedIn",
-      "summary": "... EdTech crash. “20 investors backed companies that spent 90% on things that may not have put together.” From marketing-driven growth and funding&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/cnbc-tv18_ronniescrewvala-edtechindia-testprepobsession-activity-7459511191661445120-3w2U&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw17uBT2jjx2IlJba49XlJNV",
+      "title": "An EdTech Startup Made Its Presence Felt At A Fintech Awards Show. Here's Why eCampus ...",
+      "summary": "There is something quietly audacious about an education technology company walking away with a trophy at Ghana's premier financial services awards&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techlabari.com/an-edtech-startup-made-its-presence-felt-at-a-fintech-awards-show-heres-why-ecampus-has-moved-beyond-edtech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ja4WHIHULJvw9yLpsCFm_",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-11T08:00:52Z",
+      "published": "2026-05-12T09:48:35Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Google-backed edtech startup Adda247 cuts 20% workforce - Tech in Asia",
+      "summary": "The layoffs hit product and content teams, while the company said it made structural changes across the organization.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/googlebacked-edtech-startup-adda247-cuts-20-workforce&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3aDyMuIZOC_rzX59cwEBAj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-12T01:39:18Z",
+      "category": "Product"
+    },
+    {
+      "title": "Coursera and Udemy complete $2.5B merger creating skills platform | Let's Data Science",
+      "summary": "... company valued at about **$2.5 billion** and retaining the **COUR ... Funding &amp; Businesscourseraudemyedtechmerger. Coursera and Udemy complete&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://letsdatascience.com/news/coursera-and-udemy-complete-25b-merger-creating-skills-platf-f913e24a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1f2DtRCwhf568LXHol3Gd8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-11T21:29:46Z",
       "category": "Funding"
+    },
+    {
+      "title": "Adda247 Layoffs: Google-Backed Edtech Startup Cuts 20% of Workforce in Restructuring ...",
+      "summary": "Edtech platform Adda247 has reduced its workforce by 20%. This move comes as the company experiences slowing revenue growth. Adda247 is preparing&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ground.news/article/google-backed-adda247-cuts-20-workforce-amid-slowing-revenue&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3lTiCnCL57CRmoR_6ynrfT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-11T20:21:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "Google Reports a First: Hackers Used AI to Identify Security Flaw - Tech.co",
+      "summary": "Edtech Company Instructure Confirms Data Breach. Adam Rowe - 7 days ago. Lovable Launches Vibe Coding App That Can Build Apps with AI. Conor Cawley&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.co/news/google-hackers-ai-security-flaw%3FsessionId%3D39531ac-0e3b-47c0-bd97-d00ac6cce856&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3dgv1QyPgftFe2KG0IOurj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-11T20:03:37Z",
+      "category": "Product"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
