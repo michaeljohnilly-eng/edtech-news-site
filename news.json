@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-14 10:11 UTC",
+  "updated_at": "2026-05-14 21:06 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Novakid Announces Global Scaling of &quot;Social Helium&quot; Framework to Drive Enhanced ... - Newsfile",
+      "summary": "Novakid School is a global EdTech company specializing in online English language education for children aged 4 to 12. With a curriculum based on&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsfilecorp.com/release/297463/Novakid-Announces-Global-Scaling-of-Social-Helium-Framework-to-Drive-Enhanced-Student-Engagement-and-Retention&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1TYlaaFPlQFYM3rVOpc30w",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-14T17:37:32Z",
+      "category": "Product"
+    },
+    {
+      "title": "[VS Special] Escaping the Category in an Investment Ice Age... Startups Aiming for a ... - 벤처스퀘어",
+      "summary": "As investment enthusiasm waned and the era of generative AI dawned, the differentiators of existing edtech companies also began to waver. They found&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.venturesquare.net/en/1082338/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2rvOZ1_5TF_879o8yZU7Gl",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-14T13:59:31Z",
+      "category": "Funding"
+    },
     {
       "title": "Irish edtech start-up targets 'skills gap' with hands-on learning platform",
       "summary": "The company's main focus to date has been on bringing third-level colleges on board, but the platform will also work for industry. For example, a&nbsp;...",
