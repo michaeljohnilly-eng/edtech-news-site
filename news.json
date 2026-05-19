@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-05-18 21:07 UTC",
+  "updated_at": "2026-05-19 10:58 UTC",
   "summary": {
-    "Funding": 3,
-    "Acquisition": 2,
-    "Product": 3,
-    "Startup": 4
+    "Funding": 2,
+    "Acquisition": 3,
+    "Product": 5,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Unacademy cofounder Sumit Jain quits ahead of upGrad acquisition - The Economic Times",
+      "summary": "Jain, who had joined Unacademy in 2020 after the SoftBank-backed edtech bought Graphy, will continue as an advisor moving forward, the company's co-&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/technology/unacademy-cofounder-sumit-jain-quits-ahead-of-upgrad-acquisition/amp_articleshow/131192701.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Xc0Gg0CjObMsRojgpcODF",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-19T06:35:13Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Developer Platform Showcases User-Built Edtech Application - TipRanks.com",
+      "summary": "According to a recent LinkedIn post from Replit, the company is highlighting how its platform enables non-technical users to build mission-driven&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/developer-platform-showcases-user-built-edtech-application&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1r6TOWP-jcfhSRjBRjO9FA",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-19T06:10:00Z",
+      "category": "Product"
+    },
+    {
+      "title": "Microsoft Study and Learn Agent launches for education users | ETIH EdTech News",
+      "summary": "The tool sits alongside Teach, Microsoft's AI agent for educators, as part of the company's wider Copilot for education work. Teach is designed to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/microsoft-makes-study-and-learn-agent-generally-available-for-education-users&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3wDEXDqLllAMSTXF7lSZxG",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-19T05:35:49Z",
+      "category": "Product"
+    },
     {
       "title": "ZAWYA: UK edtech platform Edumentors crosses $4mln in sales with 1.8x growth",
       "summary": "DUBAI, UAE-- (BUSINESS WIRE)-- Edumentors (edumentors.co.uk), an AI-enabled online tutoring marketplace connecting students with tutors from elite&nbsp;...",
@@ -14,30 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-18T12:12:52Z",
       "category": "Product"
-    },
-    {
-      "title": "Best Learning Game Development Companies in 2026 - Programming Insider",
-      "summary": "They're flexible in a way bigger studios aren't, which makes them a fit for early-stage edtech startups and enterprise clients that need a partner who&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://programminginsider.com/best-learning-game-development-companies-in-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw270m0wqenQugKjGXPFttYO",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-18T11:30:09Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Top Child-Friendly App Development Companies in 2026 | Futurism - Vocal Media",
-      "summary": "If you're a publisher, school, edtech startup, or brand looking to outsource a kids game in 2026, the shortlist is shorter than the search results&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vocal.media/futurism/top-child-friendly-app-development-companies-in-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3FcWIyMmlTo79iPQg5JLaQ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-18T07:22:32Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Multiverse raises $70m for AI skills expansion | ETIH EdTech News",
-      "summary": "Multiverse targets Europe's AI skills gap with $70 million funding round &middot; The UK upskilling company has reached a $2.1 billion valuation as employers&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/multiverse-targets-europes-ai-skills-gap-with-70-million-funding-round&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0P3bV5xy64MQgEyZfuuzuY",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-18T07:10:38Z",
-      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
