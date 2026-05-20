@@ -1,35 +1,43 @@
 {
-  "updated_at": "2026-05-19 21:16 UTC",
+  "updated_at": "2026-05-20 10:46 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 3,
-    "Product": 4,
+    "Acquisition": 5,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "Unacademy CEO Sumit Jain To Depart Amid UpGrad Acquisition Talks - BW Disrupt",
-      "summary": "Unacademy CEO and co-founder Sumit Jain will step down from the edtech company at the end of June as upGrad moves ahead with plans to acquire the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bwdisrupt.com/article/unacademy-ceo-sumit-jain-to-depart-amid-upgrad-acquisition-talks-607428&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0GUhkIKkEFEdS0DUsNlfsL",
+      "title": "Blackboard wins Best Digital Learning Platform | ETIH EdTech News",
+      "summary": "Director, Global Communications at Blackboard, the connection between faculty efficiency and student engagement is central to the company's approach.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/etih-innovation-awards-winners-blackboard-wins-best-digital-learning-platform-for-higher-education&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Wrh6qkAKZt_GvdruVgqPg",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-19T11:56:33Z",
+      "published": "2026-05-20T02:32:47Z",
+      "category": "Product"
+    },
+    {
+      "title": "Chinese national political advisors discuss boost for education, technology and talent building",
+      "summary": "Canadian artificial intelligence company Cohere announced Tuesday that it has acquired the biomedical firm Reliant AI, a further expansion for the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://macaubusiness.com/chinese-national-political-advisors-discuss-boost-for-education-technology-and-talent-building/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0zGkjRUOK0yRVVjFv1QKD4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-20T00:03:50Z",
       "category": "Acquisition"
     },
     {
-      "title": "Unacademy co-founder Sumit Jain exit after six-year journey - BestMediaInfo.com",
-      "summary": "Jain, who currently leads Unacademy Centres, Online Test Prep, PrepLadder, and creator platform Graphy, reflected on his journey at the edtech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bestmediainfo.com/mediainfo/mediainfo-marketing/unacademy-co-founder-sumit-jain-exit-after-six-year-journey-11850877&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0H-8wzdCFGta8Izsip10LZ",
+      "title": "Sumit Jain to exit Unacademy ahead of upGrad acquisition - The Financial Express",
+      "summary": "Unacademy Test Prep CEO Sumit Jain will step down from his full-time role on June 30 ahead of the edtech company's proposed acquisition by upGrad&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/industry-sumit-jain-to-exit-unacademy-ahead-of-upgrad-acquisitionnbsp-4245311/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0vZzH8SdIEwiQmK39XKzO1",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-19T09:30:04Z",
-      "category": "Product"
+      "published": "2026-05-19T22:12:31Z",
+      "category": "Acquisition"
     },
     {
-      "title": "Bhanzu Emerging Rapidly as a Math Learning Platform in the EdTech Sector",
-      "summary": "The company was founded by renowned mathematics expert and “Human Calculator” Neelakantha Bhanu. Its aim is to remove the fear of mathematics among&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/bhanzu-emerging-rapidly-as-a-math-learning-platform-in-the-edtech-sector.60162&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3GPUf8tA1wxRkMCCg4lqXQ",
+      "title": "Unacademy Co-founder Sumit Jain to depart as upGrad acquisition nears - YourStory.com",
+      "summary": "Sumit Jain, who also heads Graphy, the creator-focused SaaS platform owned by Unacademy, was named a co-founder of the edtech firm in 2023 before&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/05/unacademy-sumit-jain-to-depart-upgrad-acquisition-nears&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1qzgDbzXH39ywQhKJUlL4o",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-19T09:14:01Z",
-      "category": "Product"
+      "published": "2026-05-19T22:07:20Z",
+      "category": "Acquisition"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
