@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-05-20 10:46 UTC",
+  "updated_at": "2026-05-20 21:48 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 5,
-    "Product": 3,
-    "Startup": 2
+    "Product": 4,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Google launches DeepMind Accelerator in Asia Pacific for AI climate projects",
+      "summary": "ETIH edtech news covers the AI for the Planet program for startups ... The company said green technologies are gaining momentum, but are not&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/google-launches-deepmind-accelerator-in-asia-pacific-for-ai-climate-projects&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3CZde9M8dzUKMt3vJueY7Q",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-20T11:32:35Z",
+      "category": "Product"
+    },
+    {
+      "title": "OpenAI Expands Global Education AI Push | StartupHub.ai",
+      "summary": "Indian edtech company providing online learning programs for K-12 students and competitive exam preparation. EdTech. E-learning. $9M. Visit website&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/artificial-intelligence/2026/openai-expands-global-education-ai-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jEGQpUSoxReW9M3ldfc0N",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-20T10:34:39Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Startup news and updates: daily roundup (May 19, 2026) - YourStory.com",
+      "summary": "Unacademy Co-founder Sumit Jain, who serves as chief executive officer of the company's test preparation business, is leaving the edtech firm as it&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-19-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0RpHLolNOXtU2TK5mvc-xy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-20T02:33:39Z",
+      "category": "Startup"
+    },
     {
       "title": "Blackboard wins Best Digital Learning Platform | ETIH EdTech News",
       "summary": "Director, Global Communications at Blackboard, the connection between faculty efficiency and student engagement is central to the company's approach.",
