@@ -1,18 +1,26 @@
 {
-  "updated_at": "2026-05-23 09:47 UTC",
+  "updated_at": "2026-05-23 20:43 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "Anoto Reenters EdTech With inq Platform and Ends KAIT License Deal",
-      "summary": "Anoto Group AB is a Swedish technology company listed on Nasdaq Stockholm that pioneered digital pen and dot pattern technology, offering smartpens,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2090277/anoto-reenters-edtech-with-inq-platform-and-ends-kait-license-deal/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1BwtJzyI7MYd1e1ZOqnYfd",
+      "title": "Edtech firm tackles learning gaps with tracking for parents - Vanguard News",
+      "summary": "The company said the platform was created to address a long-standing gap in communication between schools, tutors, and parents, where many&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vanguardngr.com/2026/05/edtech-firm-tackles-learning-gaps-with-tracking-for-parents/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0yJOfa0C0wE2IG9e_CyX-_",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-22T17:55:38Z",
+      "published": "2026-05-23T13:24:41Z",
+      "category": "Product"
+    },
+    {
+      "title": "Classover Enters into $100 Million Equity Purchase Facility Agreement and Announces ... - Finviz",
+      "summary": "(NASDAQ:KIDZ)(NASDAQ:KIDZW) (&quot;Classover&quot; or the &quot;Company&quot;), an AI-powered education technology company, today announced that it has entered into an&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finviz.com/news/356620/classover-enters-into-100-million-equity-purchase-facility-agreement-and-announces-expansion-into-ai-compute-infrastructure-and-cloud-services-platforms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0AR4SuuBmplL1YQuvU7Nhw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-22T16:27:13Z",
       "category": "Product"
     },
     {
