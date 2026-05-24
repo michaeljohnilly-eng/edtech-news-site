@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-05-24 09:50 UTC",
+  "updated_at": "2026-05-24 20:50 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
-    {
-      "title": "Edtech firm tackles learning gaps with tracking for parents - Vanguard News",
-      "summary": "The company said the platform was created to address a long-standing gap in communication between schools, tutors, and parents, where many&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vanguardngr.com/2026/05/edtech-firm-tackles-learning-gaps-with-tracking-for-parents/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0yJOfa0C0wE2IG9e_CyX-_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-23T13:24:41Z",
-      "category": "Product"
-    },
-    {
-      "title": "Classover Enters into $100 Million Equity Purchase Facility Agreement and Announces ... - Finviz",
-      "summary": "(NASDAQ:KIDZ)(NASDAQ:KIDZW) (&quot;Classover&quot; or the &quot;Company&quot;), an AI-powered education technology company, today announced that it has entered into an&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finviz.com/news/356620/classover-enters-into-100-million-equity-purchase-facility-agreement-and-announces-expansion-into-ai-compute-infrastructure-and-cloud-services-platforms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0AR4SuuBmplL1YQuvU7Nhw",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-22T16:27:13Z",
-      "category": "Product"
-    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
