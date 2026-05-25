@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-05-24 20:50 UTC",
+  "updated_at": "2026-05-25 11:50 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 2,
-    "Product": 2,
+    "Acquisition": 3,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "CEO acquires shares in eEducation Albert AB - TradingView",
+      "summary": "Fredrik Bengtsson, CEO of eEducation Albert AB, has during the period 21–25 May 2026 acquired a total of 22685 shares in the company at an average&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/modular_finance:98e8994c1e23a:0-ceo-acquires-shares-in-eeducation-albert-ab/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw02HLBh_t75tZ_EA1iCgWFc",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-25T07:50:35Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Beyond Devices: Why Ethiopia's EdTech Revolution Hinges on Teacher Capacity",
+      "summary": "... EdTech company. The conversation will focus on how real-time insights, including classroom observation tools and platform analytics, can enable&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://shega.co/news/beyond-devices-why-ethiopia-s-ed-tech-revolution-hinges-on-teacher-capacity&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2gIa_Vm58KfxhX-_YawbOQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-25T06:46:28Z",
+      "category": "Product"
+    },
+    {
+      "title": "ZAWYA: Classera launches global initiative to integrate AI into digital education in Saudi Arabia",
+      "summary": "... EdTech leader, has announced the signing of a strategic partnership ... About company. Who we are &middot; Space mission &middot; Blog &middot; Careers &middot; Media kit. Merch.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-05-25:newsml_Zaw6BdXr3:0-zawya-classera-launches-global-initiative-to-integrate-ai-into-digital-education-in-saudi-arabia/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1-QRnhuPkcG4qxYOMBJw6n",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-25T04:44:44Z",
+      "category": "Product"
+    },
+    {
+      "title": "Lancashire firm wins digital learning platform award",
+      "summary": "An education technology company has been named the winner of a top industry award. ... The company was also highly commended in the EdTech Company of&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lancashiretelegraph.co.uk/news/26120858.lancashire-firm-wins-digital-learning-platform-award/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw01CutrUl3CdXR7Zs28jpNJ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-25T04:05:35Z",
+      "category": "Product"
+    },
+    {
+      "title": "OpenAI launches S$300m Singapore AI partnership | ETIH EdTech News",
+      "summary": "OpenAI for Singapore will create more than 200 technical roles, establish the company's first Applied AI Lab outside the United States, and support&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-launches-singapore-partnership-backed-by-more-than-s300-million&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1DrCe3jxahs_7TXCJPlG81",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-24T23:03:48Z",
+      "category": "Product"
+    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
