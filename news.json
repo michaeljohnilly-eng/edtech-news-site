@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-05-25 11:50 UTC",
+  "updated_at": "2026-05-25 21:02 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 3,
-    "Product": 6,
+    "Product": 7,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Edtech Platform Great Learning Sees 66% AI Course Enrolments From Non-Tech ... - CIOL",
+      "summary": "The edtech company said a majority of these learners were experienced professionals, with nearly 64% having more than 12 years of work experience.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ciol.com/tech/great-learning-ai-enrolments-non-technical-professionals-fy26-11872955&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2LmjbIwkELBBFfH1Efrk2U",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-25T12:37:05Z",
+      "category": "Product"
+    },
     {
       "title": "CEO acquires shares in eEducation Albert AB - TradingView",
       "summary": "Fredrik Bengtsson, CEO of eEducation Albert AB, has during the period 21–25 May 2026 acquired a total of 22685 shares in the company at an average&nbsp;...",
