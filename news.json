@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-05-26 21:40 UTC",
+  "updated_at": "2026-05-27 11:34 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "From India's richest billionaire to Singapore jail sentence: Inside the final fall of Byju's ...",
+      "summary": "Edtech firm Byju's founder Raveendran has been handed a six-month jail ... At one point, his startup became the most famous ed-tech company.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.india.com/business/from-indias-richest-billionaire-to-singapore-jail-sentence-inside-the-final-fall-of-byjus-founder-byju-raveendran-8427587/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0xGkHuy1460desBC4JeNwN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-27T06:07:14Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Byju's Founder Sentenced: Inside The Crisis That Broke India's Edtech Giant - NDTV",
+      "summary": "At its peak in 2022, the company was valued at $22 billion and founder Byju Raveendran became one of India's most celebrated startup faces. Now&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ndtv.com/business-news/byjus-founder-raveendran-sentenced-singapore-court-crisis-timeline-india-edtech-11552723&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2TuFhTLWFHEDABHXueyzCu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-27T04:15:44Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Pelican Capital invests in teacher development platform Steplab | ETIH EdTech News",
+      "summary": "Pelican Capital said its backing will support Steplab's next phase while preserving the impact-driven culture behind the business. Steplab is a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/pelican-capital-invests-in-steplab-as-teacher-professional-development-platform-plans-expansion&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Z_m4pKcX4qBdZ7-xV9jmT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-27T02:03:32Z",
+      "category": "Product"
+    },
     {
       "title": "Startup news and updates: daily roundup (May 26, 2026) - YourStory.com",
       "summary": "The company attributed the achievement to multiple strategic initiatives, including strengthening its omnichannel business ... Edtech company Great&nbsp;...",
@@ -16,20 +40,12 @@
       "category": "Startup"
     },
     {
-      "title": "The Best US chess learning platforms are now expanding to Africa",
-      "summary": "Africa is attractive for chess learning platforms because the continent has three things edtech companies care about: youth, mobile access, and unmet&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://guardian.ng/education/the-best-us-chess-learning-platforms-are-now-expanding-to-africa/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wUxV5aY-BM5DoKovNtC1_",
+      "title": "upGrad ne naya CFO kiya appoint, Unacademy merger aur restructuring ki taiyari shuru!",
+      "summary": "Yeh move dikhata hai ki company Unacademy ko stock merger ke through absorb karne ki planning kar rahi hai. ... Edtech companies jo funding par depend&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/Hinglish/other/upGrad-Taps-New-CFO-for-Unacademy-Merger-and-Consolidation/6a155661b979113840cb14c7&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2E5IrPx50XLLQ1Deg1oOPV",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-05-26T08:38:59Z",
-      "category": "Product"
-    },
-    {
-      "title": "ChatGPT for PowerPoint enters beta for education, business, and individual users",
-      "summary": "AI in education and edtech AI tools move into Microsoft PowerPoint as OpenAI launches ChatGPT for PowerPoint in beta. ETIH edtech news looks at&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/chatgpt-for-powerpoint-enters-beta-for-education-business-and-individual-users&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw22AthoJzZ-FexaCq5WWVvb",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-26T01:33:58Z",
-      "category": "Product"
+      "published": "2026-05-26T09:08:19Z",
+      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
