@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-30 09:55 UTC",
+  "updated_at": "2026-05-30 20:51 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "The Spectacular Rise And Catastrophic Fall Of Byju's: Greed, Hubris, And The Unraveling Of ...",
+      "summary": "The fallout extends beyond one company. It has chilled investor sentiment in edtech, raised questions about startup valuations, and highlighted&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inventiva.co.in/trends/the-spectacular-rise-and-catastrophic-fall-of-byjus-greed-hubris-and-the-unraveling-of-indias-edtech-darling/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw03ri1WtbDcu8lyBD0ofBs2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-30T13:51:52Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Byju Raveendran's Crash Course in Arrogance, Debt, and VC Enabling - The Quint",
+      "summary": "As news came this week of a jail sentence for Byju Raveendran, founder and CEO of his messed-up education-technology startup, I was reminded of my&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thequint.com/opinion/byju-raveendran-startups-edtech-sector-vc-firms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-OX2EP7YfBWD7ZuiZFxjb",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-05-30T10:54:14Z",
+      "category": "Startup"
+    },
     {
       "title": "From SRK Ads And Messi Campaigns To Singapore Jail: How Byju's Founder Raveendran ... - Brut",
       "summary": "Byju's became one of the most-used edtech platforms globally. In 2022, the company claimed it had more than 150 million learners worldwide. Its&nbsp;...",
@@ -29,22 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/article/how-edtech-survives-reinvents-and-profits-after-funding-slowdown-nid-240860-cid-106.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw08yjvDhX9yexk9OCzAxkgk",
       "source": "Google Alert - Edtech Company",
       "published": "2026-05-29T17:06:55Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Leading Korean Digital Contents Companies Target Global Market at CommunicAsia 2026 ...",
-      "summary": "GLOBEPOINT is an EdTech company integrating AI and XR technologies to create immersive learning platforms and metaverse-based educational content&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/apac/news-releases/leading-korean-digital-contents-companies-target-global-market-at-communicasia-2026-k-digital-contents-pavilion-302785667.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1w6j75L2FV4I3EgC2X8KgR",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-29T13:36:18Z",
-      "category": "Product"
-    },
-    {
-      "title": "India's EdTech Boom Fades as Hundreds of Startups Shut Amid Funding Crunch",
-      "summary": "The edutech sector has been among the hardest hit, with several firms, including companies based in Gujarat, quietly closing down. Pandemic-era boom&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thelivenagpur.com/2026/05/29/indias-edtech-boom-fades-as-hundreds-of-startups-shut-amid-funding-crunch/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Ao5bS7LeQ5Y_8sOPMaizm",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-29T08:11:54Z",
       "category": "Funding"
     },
     {
