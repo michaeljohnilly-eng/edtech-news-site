@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-05-31 10:11 UTC",
+  "updated_at": "2026-05-31 20:54 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 2,
     "Acquisition": 2,
     "Product": 2,
-    "Startup": 3
+    "Startup": 2
   },
   "articles": [
-    {
-      "title": "The Spectacular Rise And Catastrophic Fall Of Byju's: Greed, Hubris, And The Unraveling Of ...",
-      "summary": "The fallout extends beyond one company. It has chilled investor sentiment in edtech, raised questions about startup valuations, and highlighted&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inventiva.co.in/trends/the-spectacular-rise-and-catastrophic-fall-of-byjus-greed-hubris-and-the-unraveling-of-indias-edtech-darling/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw03ri1WtbDcu8lyBD0ofBs2",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-30T13:51:52Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Byju Raveendran's Crash Course in Arrogance, Debt, and VC Enabling - The Quint",
-      "summary": "As news came this week of a jail sentence for Byju Raveendran, founder and CEO of his messed-up education-technology startup, I was reminded of my&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thequint.com/opinion/byju-raveendran-startups-edtech-sector-vc-firms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-OX2EP7YfBWD7ZuiZFxjb",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-05-30T10:54:14Z",
-      "category": "Startup"
-    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
