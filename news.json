@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-05-31 20:54 UTC",
+  "updated_at": "2026-06-01 13:32 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "ZAWYA: VIDEO: CEO of Alef Education explains how Alef platform is empowering ... - TradingView",
+      "summary": "... company's growth, the future of Edtech and responsible AI in education. Watch the Zawya video here:Disclaimer: This article is provided for&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-06-01:newsml_ZawbhPVRn:0-zawya-video-ceo-of-alef-education-explains-how-alef-platform-is-empowering-educators-and-students/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw19WEjPF_cfhNaWIsKSLg-S",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-01T11:57:27Z",
+      "category": "Product"
+    },
+    {
+      "title": "KIDZ AI Enters Exclusive Co-Development Partnership with ICreate Education Technology ...",
+      "summary": "KIDZ AI Enters Exclusive Co-Development Partnership with ICreate Education Technology to Launch AI-Native Robotics Learning Platform for North America.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/articles/kidz-ai-enters-exclusive-co-112500062.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0KedJfowPgPcnUFOI6q3I1",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-01T11:45:29Z",
+      "category": "Product"
+    },
+    {
+      "title": "Udemy CEO Hugo Sarrazin leaves for Avalara after AI reskilling push",
+      "summary": "He most recently served as President and Chief Executive Officer of Udemy, the global EdTech learning platform used by individual learners and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/udemy-ceo-hugo-sarrazin-leaves-for-avalara-after-ai-reskilling-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0NRE8Ouek4OPBn1R-WNvQP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-01T09:21:32Z",
+      "category": "Product"
+    },
+    {
+      "title": "Why PhysicsWallah believes it can beat OpenAI, Google in India's AI tutor race",
+      "summary": "The Noida-based edtech company plans to launch its AI tutor later this year and believes it has an advantage that even global AI giants such as&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/amp/technology/story/why-physicswallah-believes-it-can-beat-openai-google-in-indias-ai-tutor-race-534212-2026-06-01&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Qir7ATK_31guJKsPE9zBK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-01T06:43:08Z",
+      "category": "Product"
+    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
