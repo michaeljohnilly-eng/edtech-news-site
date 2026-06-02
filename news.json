@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-06-01 22:31 UTC",
+  "updated_at": "2026-06-02 12:01 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 11,
-    "Startup": 2
+    "Product": 8,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Edtech Startup ProLearn Bags ₹30 Cr To Tailor AI Learning For Students - Inc42",
+      "summary": "Emerging businesses in the segment are counting on building leaner business models, niche offerings, AI integration, clear paths for revenue and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/edtech-startup-prolearn-bags-%25E2%2582%25B930-cr-to-tailor-ai-learning-for-students/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3W0BeekcZbclFiMU2G3k46",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-02T10:11:34Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Tech skepticism grows among CMS parents as hundreds join petition - Charlotte Observer",
+      "summary": "Technology and transparency. CMS contracts with an edtech company called Curriculum Associates for use of a platform called i-Ready. It's designed to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.charlotteobserver.com/news/local/education/article315965133.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0hTfCLML1Kd0aedCd6nba_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-02T09:27:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "ProLearn raises Rs 30 Cr pre-seed round led by BEENEXT - Entrepreneur",
+      "summary": "Founded in April by former Vedantu executive Ravneet Singh, the company ... AI edtech,; Edtech startup,; Eximius Ventures,; Antler. Join the community&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/news/funding/prolearn-secures-rs-30-crore-pre-seed-funding-to-transform-k-12-education-with-ai/131459413&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3v23mkYDX6JrdFQaPVhfvb",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-02T09:05:41Z",
+      "category": "Funding"
+    },
     {
       "title": "Jianzhi Education Technology Announces Agreement with SeaArt AI, One of the World's Top ...",
       "summary": "Jianzhi Education Technology Group Company Limited (the &quot;Company&quot; or &quot;Jianzhi&quot;) (NASDAQ: JZ), a leading EdTech company in China, today announced&nbsp;...",
@@ -45,38 +69,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-06-01:newsml_ZawbhPVRn:0-zawya-video-ceo-of-alef-education-explains-how-alef-platform-is-empowering-educators-and-students/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw19WEjPF_cfhNaWIsKSLg-S",
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-01T11:57:27Z",
-      "category": "Product"
-    },
-    {
-      "title": "KIDZ AI Enters Exclusive Co-Development Partnership with ICreate Education Technology ...",
-      "summary": "KIDZ AI Enters Exclusive Co-Development Partnership with ICreate Education Technology to Launch AI-Native Robotics Learning Platform for North America.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/articles/kidz-ai-enters-exclusive-co-112500062.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0KedJfowPgPcnUFOI6q3I1",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-01T11:45:29Z",
-      "category": "Product"
-    },
-    {
-      "title": "VIDEO: CEO of Alef Education explains how Alef platform is empowering educators and students",
-      "summary": "... company's growth, the future of Edtech and responsible AI in education ... company's growth, the future of Edtech and responsible AI in education.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/multimedia/videos/video-ceo-of-alef-education-explains-how-alef-platform-is-empowering-educators-and-students-jxoao0e6&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1AH0d3_TrOaTNFwZ_FP-hD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-01T10:59:58Z",
-      "category": "Product"
-    },
-    {
-      "title": "Udemy CEO Hugo Sarrazin leaves for Avalara after AI reskilling push",
-      "summary": "He most recently served as President and Chief Executive Officer of Udemy, the global EdTech learning platform used by individual learners and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/udemy-ceo-hugo-sarrazin-leaves-for-avalara-after-ai-reskilling-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0NRE8Ouek4OPBn1R-WNvQP",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-01T09:21:32Z",
-      "category": "Product"
-    },
-    {
-      "title": "Why PhysicsWallah believes it can beat OpenAI, Google in India's AI tutor race",
-      "summary": "The Noida-based edtech company plans to launch its AI tutor later this year and believes it has an advantage that even global AI giants such as&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/amp/technology/story/why-physicswallah-believes-it-can-beat-openai-google-in-indias-ai-tutor-race-534212-2026-06-01&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Qir7ATK_31guJKsPE9zBK",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-01T06:43:08Z",
       "category": "Product"
     },
     {
