@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-06-05 21:21 UTC",
+  "updated_at": "2026-06-06 09:59 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 4,
+    "Acquisition": 3,
     "Product": 4,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "AI education startup Diotima spun off from Trinity University after an 18-month incubation period.",
+      "summary": "... edtech company supported by Enterprise Ireland. Ryan himself serves as ... Diotima, an AI education technology company founded by educators, has been&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/ai-education-startup-diotima-spun-off-from-trinity-university-after-18-month-incubation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3xaqPPBMHQ7Y2JDbzzARZ3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-06T04:46:15Z",
+      "category": "Startup"
+    },
     {
       "title": "B2B events company Hyve Group to be acquired in billion dollar deal",
       "summary": "Private equity takeover marks next growth phase for global events organiser behind edtech, fintech, healthcare exhibitions.",
@@ -38,22 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-05T05:42:09Z",
       "category": "Product"
-    },
-    {
-      "title": "Apartment Eleven Eleven acquires edtech player Byte Band Technologies - Mediabrief.com",
-      "summary": "The acquisition is a 100 percent buyout of Byte Band Technologies. As part of the transition, one of the company's co-founders will continue with the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mediabrief.com/apartment-eleven-eleven-acquires-byte-band-technologies/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0mNA2E3yuMHd2IGhubxgAi",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-05T00:11:03Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "10 MENA Startups Rebuilding Education Beyond the Degree - Cairo Scene",
-      "summary": "The Cairo-based EdTech company runs intensive bootcamp programs designed explicitly around employment outcomes with tight timelines, project-based&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cairoscene.com/Business/10-MENA-Startups-Rebuilding-Education-Beyond-the-Degree&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0xIoSV9DhgG58kr6bf2uDR",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-04T20:20:57Z",
-      "category": "Startup"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
