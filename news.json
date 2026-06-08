@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-06-08 12:24 UTC",
+  "updated_at": "2026-06-08 21:47 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 2
+    "Product": 2,
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "Why Legacy Student Platforms Are Failing EdTech - nerdbot",
-      "summary": "It often happens that managers of mid-sized EdTech companies describe their student system like this: “It works, but I'm scared to touch it.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nerdbot.com/2026/06/07/why-legacy-student-platforms-are-failing-edtech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32ErdMQJAWX4k3mCPeEJJI",
+      "title": "Stepful Announces $55M Series C to Scale Its AI-Powered Training Platform Across the ...",
+      "summary": "... company in the United States and among the Top 10 globally on TIME Magazine's 2025 World's Top EdTech Companies list, in collaboration with Statista.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260608013439/en/Stepful-Announces-%252455M-Series-C-to-Scale-Its-AI-Powered-Training-Platform-Across-the-Healthcare-Workforce&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0aqMKk3MFyr1_DANz4iACR",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-06-07T16:54:54Z",
-      "category": "Product"
+      "published": "2026-06-08T14:52:11Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Suniel Shetty-backed Edtech Startup Klassroom Receives In-principle Approval For IPO",
+      "summary": "Edtech company Fusion Klassroom has received in-principle approval from the Bombay Stock Exchange (BSE) for its proposed initial public offering&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bwdisrupt.com/article/sunil-shetty-backed-edtech-startup-klassroom-receives-in-principle-approval-for-ipo-609953&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3qfjjFh4_CKxxd6E4aYtZg",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-08T12:12:43Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Klassroom Eyes Going Public In Q2 FY27; Secures In-Principle Approval For SME IPO",
+      "summary": "Edtech startup Klassroom Klassroom An Edtech Funded Company Based Out Of Mumbai Sector Edtech Stage Pre-Series A Total Funding $2.13 Mn+ Powered&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/klassroom-eyes-going-public-in-q2-fy27-secures-in-principle-approval-for-sme-ipo/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ppxPTD9ekbU_mTHcwjCnn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-08T10:35:31Z",
+      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
