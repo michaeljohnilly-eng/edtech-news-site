@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-08 21:47 UTC",
+  "updated_at": "2026-06-09 10:56 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
+    "Funding": 5,
+    "Acquisition": 3,
     "Product": 2,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "ZAWYA: 19-year-old Jordanian founder sells AI EdTech startup NoNerds to JoAcademy in ...",
+      "summary": "Following the acquisition, NoNerds' AI infrastructure will be integrated into JoAcademy's ecosystem, supporting the company's broader strategy to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-06-09:newsml_Zaw575yTH:0-zawya-19-year-old-jordanian-founder-sells-ai-edtech-startup-nonerds-to-joacademy-in-140-000-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3wyd9gfoFzlEbcepaKZf0f",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-09T05:24:05Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Stepful Raises $55M Series C - The SaaS News",
+      "summary": "Stepful, a New York-based healthcare edtech startup that provides AI ... The company provides a school-as-a-service platform that trains&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/stepful-raises-55m-series-c/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3W-MNXhU3muqMR863ZOTtY",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-09T05:09:26Z",
+      "category": "Funding"
+    },
     {
       "title": "Stepful Announces $55M Series C to Scale Its AI-Powered Training Platform Across the ...",
       "summary": "... company in the United States and among the Top 10 globally on TIME Magazine's 2025 World's Top EdTech Companies list, in collaboration with Statista.",
