@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-09 21:44 UTC",
+  "updated_at": "2026-06-10 11:35 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 4,
+    "Funding": 3,
+    "Acquisition": 3,
     "Product": 3,
-    "Startup": 3
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "Multiverse opens Edinburgh AI tech hub | ETIH EdTech News",
+      "summary": "He has also founded his own business and worked through a startup exit. Colin Mackenzie, VP AI Engineering at Multiverse, says: &quot;AI is changing how&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/multiverse-opens-edinburgh-tech-hub-and-appoints-first-vp-ai-engineering&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_DNg-u3pHJNs_h0Yy6MPe",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-09T23:47:32Z",
+      "category": "Startup"
+    },
+    {
+      "title": "10 Fastest Growing Startups in 2026 - Business Model Analyst",
+      "summary": "Which edtech company accelerated fastest this year? 8. What retail startup is scaling quickest in 2026? 9. Which AI infrastructure startup is growing&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businessmodelanalyst.com/10-fastest-growing-startups-in-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw225CfDoteWRoAuvU8sdeW7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-09T19:03:05Z",
+      "category": "Startup"
+    },
     {
       "title": "Jordan's JoAcademy Acquires AI-Powered EdTech Startup NoNerds in a $140,000 Deal",
       "summary": "... education technology startup, in a deal valued at $140,000. The acquisition comes as regional edtech companies increasingly integrate generative&nbsp;...",
@@ -38,22 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-09T13:11:56Z",
       "category": "Startup"
-    },
-    {
-      "title": "ZAWYA: 19-year-old Jordanian founder sells AI EdTech startup NoNerds to JoAcademy in ...",
-      "summary": "Following the acquisition, NoNerds' AI infrastructure will be integrated into JoAcademy's ecosystem, supporting the company's broader strategy to&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-06-09:newsml_Zaw575yTH:0-zawya-19-year-old-jordanian-founder-sells-ai-edtech-startup-nonerds-to-joacademy-in-140-000-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3wyd9gfoFzlEbcepaKZf0f",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-09T05:24:05Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Stepful Raises $55M Series C - The SaaS News",
-      "summary": "Stepful, a New York-based healthcare edtech startup that provides AI ... The company provides a school-as-a-service platform that trains&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/stepful-raises-55m-series-c/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3W-MNXhU3muqMR863ZOTtY",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-09T05:09:26Z",
-      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
