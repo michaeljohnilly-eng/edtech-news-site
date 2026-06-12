@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-12 11:40 UTC",
+  "updated_at": "2026-06-12 21:28 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
     "Product": 2,
-    "Startup": 3
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "Singapore Keeps Byju Raveendran Out of Jail While His Creditors Close In - Startup Fortune",
+      "summary": "... edtech company has not eased. The stay, granted June 10 by the General Division of Singapore's High Court, keeps Raveendran out of jail for now&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/singapore-keeps-byju-raveendran-out-of-jail-while-his-creditors-close-in/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cV_6i2cak3Uu6dU3zbth-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-12T16:24:31Z",
+      "category": "Startup"
+    },
+    {
+      "title": "How Oda Class is defying India's edtech slowdown with AI - The Financial Express",
+      "summary": "Edtech startup Oda Class is approaching the chronic issue of online student engagement with a unique operational framework. Written by FE Business.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/industry-how-oda-class-is-defying-indias-edtech-slowdown-with-ai-4265987/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw39OfM_7JxEa6HWtyJoF9hM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-12T15:26:45Z",
+      "category": "Startup"
+    },
     {
       "title": "EdVentures, Mastercard Foundation select 13 Egyptian startups for 3rd EdTech Fellowship",
       "summary": "... EdTech Fellowship is an entrepreneurship acceleration programme designed to support promising, African ed-tech companies. Implemented in&nbsp;...",
