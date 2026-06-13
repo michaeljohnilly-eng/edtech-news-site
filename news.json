@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-06-12 21:28 UTC",
+  "updated_at": "2026-06-13 10:24 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 3,
     "Startup": 5
   },
   "articles": [
+    {
+      "title": "Industry Award Highlights PowerSchool's Schoology LMS Position in K-12 EdTech",
+      "summary": "According to a recent LinkedIn post from PowerSchool, the company is highlighting that its Schoology Learning platform has been recognized as the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/industry-award-highlights-powerschools-schoology-lms-position-in-k-12-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3gq6LpyRv35eU4aTh7sVrz",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-13T00:23:48Z",
+      "category": "Product"
+    },
     {
       "title": "Singapore Keeps Byju Raveendran Out of Jail While His Creditors Close In - Startup Fortune",
       "summary": "... edtech company has not eased. The stay, granted June 10 by the General Division of Singapore's High Court, keeps Raveendran out of jail for now&nbsp;...",
