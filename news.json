@@ -1,26 +1,42 @@
 {
-  "updated_at": "2026-06-13 21:10 UTC",
+  "updated_at": "2026-06-14 10:46 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 2
+    "Product": 3,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Google's investment in SpaceX jumps to over $140 billion after historic IPO - Jawlah",
+      "summary": "... company's IPO and a historic leap in its market value. Alphabet ... 13 Egyptian startups selected for the third cohort of the EdTech Fellowship program.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58563&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lBfpcTZgcEV316Mhtr6t3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-13T21:14:03Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Mistral targets up to €3B funding at €20B valuation - Jawlah",
+      "summary": "13 Egyptian startups selected for the third cohort of the EdTech Fellowship program ... company's valuation to around €20 billion. According to a report&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58556&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2rCboq1GgKJ1Df9W8gElQv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-13T19:53:48Z",
+      "category": "Funding"
+    },
+    {
+      "title": "13 Egyptian startups selected for the third cohort of the EdTech Fellowship program - Jawlah",
+      "summary": "Selected companies for the third cohort: Wisdom Education: Offers specialized digital learning experiences in medicine and dentistry. Hoopooh: An AI-&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58560&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xUcrsdF0r3L-yDkfuy3wz",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-13T19:53:45Z",
+      "category": "Startup"
+    },
     {
       "title": "Should I Buy KIDZ (KIDZ AI Inc.) | AI Analysis, Technical &amp; News Insights | Kavout",
       "summary": "KIDZ AI (NASDAQ:KIDZ) entered an exclusive co-development partnership with ICreate Education Technology to launch an AI-native robotics learning&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kavout.com/stocks/nasdaq-kidz/kidz-ai-inc&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IWluWLb_umu6uoJvBKent",
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-13T04:06:36Z",
-      "category": "Product"
-    },
-    {
-      "title": "Industry Award Highlights PowerSchool's Schoology LMS Position in K-12 EdTech",
-      "summary": "According to a recent LinkedIn post from PowerSchool, the company is highlighting that its Schoology Learning platform has been recognized as the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/industry-award-highlights-powerschools-schoology-lms-position-in-k-12-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3gq6LpyRv35eU4aTh7sVrz",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-13T00:23:48Z",
       "category": "Product"
     },
     {
