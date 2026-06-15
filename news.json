@@ -1,35 +1,51 @@
 {
-  "updated_at": "2026-06-14 21:06 UTC",
+  "updated_at": "2026-06-15 13:50 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 4,
+    "Startup": 4
   },
   "articles": [
     {
-      "title": "Google's investment in SpaceX jumps to over $140 billion after historic IPO - Jawlah",
-      "summary": "... company's IPO and a historic leap in its market value. Alphabet ... 13 Egyptian startups selected for the third cohort of the EdTech Fellowship program.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58563&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lBfpcTZgcEV316Mhtr6t3",
+      "title": "Sirius Game closes €1.3M round to expand game-based learning - Tech.eu",
+      "summary": "Edtech startup Sirius Game has closed a €1.3 million funding round led ... The company's game-based learning model, grounded in scientific&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.eu/2026/06/15/sirius-game-closes-eur13-million-round-to-expand-game-based-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xLfpsBQRIJCwt34Mlunve",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-06-13T21:14:03Z",
+      "published": "2026-06-15T08:46:06Z",
       "category": "Funding"
     },
     {
-      "title": "Mistral targets up to €3B funding at €20B valuation - Jawlah",
-      "summary": "13 Egyptian startups selected for the third cohort of the EdTech Fellowship program ... company's valuation to around €20 billion. According to a report&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58556&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2rCboq1GgKJ1Df9W8gElQv",
+      "title": "SA ed-tech startup Inclusive Solutions developing home-language learning tool for early ...",
+      "summary": "Passionate about the vibrant tech startups scene in Africa, Tom can usually be found sniffing out the continent's most exciting new companies and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://disruptafrica.com/2026/06/15/sa-ed-tech-startup-inclusive-solutions-developing-home-language-learning-tool-for-early-years-foundation-phase/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1GeFPFUn3oUyDbjnzxRhh7",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-06-13T19:53:48Z",
-      "category": "Funding"
-    },
-    {
-      "title": "13 Egyptian startups selected for the third cohort of the EdTech Fellowship program - Jawlah",
-      "summary": "Selected companies for the third cohort: Wisdom Education: Offers specialized digital learning experiences in medicine and dentistry. Hoopooh: An AI-&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jawlah.co/en/58560&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xUcrsdF0r3L-yDkfuy3wz",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-13T19:53:45Z",
+      "published": "2026-06-15T08:07:50Z",
       "category": "Startup"
+    },
+    {
+      "title": "Edtech company Physics Wallah has partnered with telecom operator Vodafone Idea #news ...",
+      "summary": "Edtech company Physics Wallah has partnered with telecom operator Vodafone Idea to launch what is being described as India's first telecom-edtech&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DKE-PtFUxm04&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw05GJW_DWwF4a1P3WozloOA",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-15T05:39:20Z",
+      "category": "Product"
+    },
+    {
+      "title": "Edtech startup UNIVO appoints Nitin Golani as CEO to expand growth in online higher ...",
+      "summary": "UNIVO Education works with select universities and business enterprises to enable them to offer what it calls high-quality online degrees,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/edtech-startup-univo-appoints-nitin-golani-as-ceo-to-expand-growth-in-online-higher-education-ecosystem-12039089&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3IPpyMoM4LGIo7jkhd4_Xu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-15T05:05:48Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Vasco Audience Wins EdTech Award Amid Demand for Multilingual Outreach - MyChesCo",
+      "summary": "The company also noted that the platform offers post-event transcripts and supports customized glossaries for education-specific terminology. EdTech&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mychesco.com/%3Fp%3D670485&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jf-NFhQ7g-n4ffNVibltC",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-15T02:17:07Z",
+      "category": "Product"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
