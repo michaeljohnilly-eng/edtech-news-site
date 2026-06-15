@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-15 13:50 UTC",
+  "updated_at": "2026-06-15 22:15 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 6,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "CodePath Partners With Anthropic to Launch Claude Corps | Built In",
+      "summary": "... company's launch of its Claude Corps fellowship program. CodePath will ... 27 Edtech Companies&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://builtin.com/articles/codepath-anthropic-claude-corps-20260615&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0incqLiVaYGcbXmzeTQxSQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-15T21:37:03Z",
+      "category": "Product"
+    },
+    {
+      "title": "Solutions Review Launches New EdTech Site on the Future of AI &amp; Learning",
+      "summary": "is an independent media company focused on enterprise technology, artificial intelligence, data management, cybersecurity, cloud computing, and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://solutionsreview.com/edtech/2026/06/15/solutions-review-launches-new-edtech-site-on-the-future-of-ai-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2b86GyPlVIAoBUW5gySm8c",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-15T14:49:15Z",
+      "category": "Product"
+    },
     {
       "title": "Sirius Game closes €1.3M round to expand game-based learning - Tech.eu",
       "summary": "Edtech startup Sirius Game has closed a €1.3 million funding round led ... The company's game-based learning model, grounded in scientific&nbsp;...",
