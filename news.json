@@ -1,27 +1,35 @@
 {
-  "updated_at": "2026-06-17 12:12 UTC",
+  "updated_at": "2026-06-17 21:57 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 3,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 2
+    "Product": 3,
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "IIT Roorkee &amp; TeamLease EdTech launch executive programme in AI for e-commerce ...",
-      "summary": "IIT Roorkee &amp; TeamLease EdTech launch executive ... UPES collaborates with Harvard Business Impact to prepare future-ready business leaders&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/jobscareers/iit-roorkee-teamlease-edtech-launch-executive-programme-in-ai-for-e-commerce-quick-commerce/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw25P_aZr2WRG0sd1PrI0_41",
+      "title": "'Wake up call' over AI era from Harrogate tech consultant who made his name in billion ...",
+      "summary": "After more than two years at the British EdTech company, which was valued at $2.1bn in its most recent funding round, Ascough decided to launched his&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.harrogateadvertiser.co.uk/news/people/wake-up-call-over-ai-era-from-harrogate-tech-consultant-who-made-his-name-in-billion-pound-london-tech-world-8745567&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw21oh89OADehcHz90LWEZ09",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-06-16T14:45:58Z",
+      "published": "2026-06-17T16:00:24Z",
+      "category": "Funding"
+    },
+    {
+      "title": "How Agentic AI Is Moving Beyond Chatbots and Assistants - Nasscom Community",
+      "summary": "The EdTech business is expanding quickly. There is a huge amount of info that comes with this growth. Every day, platforms now handle student&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://community.nasscom.in/communities/edtech/how-agentic-ai-moving-beyond-chatbots-and-assistants&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lM4MbUdQ9jitdx3n15flO",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-17T14:31:28Z",
       "category": "Product"
     },
     {
-      "title": "IIT Roorkee &amp; TeamLease EdTech launch executive programme in AI for e-commerce ...",
-      "summary": "Soumitra Satapathi, Coordinator - Continuing Education Centre, IIT Roorkee, said, “The growth of e-commerce and quick commerce is reshaping business&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/jobscareers/iit-roorkee-teamlease-edtech-launch-executive-programme-in-ai-for-e-commerce-quick-commerce&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw30qG7NV0JXYN1c7YE7dulV",
+      "title": "Great Learning co-founder says management control shielded it from Byju's downfall hit",
+      "summary": "Topics. #Edtech. Meet the Author. Salman SH. Salman S.H. is an Assistant Editor with Mint in Bengaluru, where he covers startups, venture capitalRead&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/companies/great-learning-co-founder-byju-s-downfall-edtech-learning-courses-acquisitions-upskilling-ai/amp-11781614628891.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1hG7ijWwfHgirsaXlJEslr",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-06-16T14:13:05Z",
-      "category": "Product"
+      "published": "2026-06-17T07:35:29Z",
+      "category": "Startup"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
