@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-06-20 21:12 UTC",
+  "updated_at": "2026-06-21 11:12 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "The Top 10 EdTech SMEs Specializing in Synchronous Teaching Tools in India - Editorialge",
+      "summary": "Classplus is one of India's best-known educator business platforms, designed mainly for coaching institutes, tutors, and education creators who want&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://editorialge.com/edtech-smes-synchronous-teaching-tools-india/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cdnVWkrc1ZdHAYns0EGr0",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-20T20:02:48Z",
+      "category": "Product"
+    },
     {
       "title": "ADDING MULTIMEDIA Learning Math with Robotics™: Barobo Expands TK–12 ... - Business Wire",
       "summary": "Barobo was ranked #11 out of 250 companies on TIME Magazine's list of America's Top EdTech Companies of 2026. The RoboBlocky platform supports&nbsp;...",
