@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-22 21:59 UTC",
+  "updated_at": "2026-06-23 10:58 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 5,
+    "Product": 7,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Tutoring platform Edumentors crosses $4 Million in sales as Yazan Al Homsi backs AI ...",
+      "summary": "... business from both. It's a UK EdTech company focused on academic tutoring. It has nothing to do with healthcare, telemedicine, or clinical AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://usa.inquirer.net/201425/tutoring-platform-edumentors-crosses-4-million-in-sales-as-yazan-al-homsi-backs-ai-augmented-elite-university-model%3Futm_source%3Dusa_gallery_feat_story&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2aAlbCU1aW5cFuHuhRix20",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-23T02:49:56Z",
+      "category": "Product"
+    },
+    {
+      "title": "OpenAI links AI safety to societal resilience after G7 talks | ETIH EdTech News",
+      "summary": "Lehane cited OpenAI's practice of launching products &quot;early and often&quot; to give &quot;society and the technology time to co-evolve.&quot; That deployment model&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-puts-societal-resilience-at-center-of-ai-safety-argument-after-g7-discussions&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qMly_HkVwjADH5Tb24H2x",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-22T23:07:38Z",
+      "category": "Product"
+    },
     {
       "title": "&quot;Ugandan teachers use it for free&quot;… Freewillin unveils Africa elementary math platform 'OpenFlat'",
       "summary": "Edtech company Freewillin announced on the 12th that its artificial intelligence (AI) math courseware 'Polyschool' was finally selected as the AI&nbsp;...",
