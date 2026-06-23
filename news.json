@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-23 10:58 UTC",
+  "updated_at": "2026-06-23 21:28 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 2,
     "Acquisition": 2,
-    "Product": 7,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Xello Named Finalist in Two 2026 EdTech CODiE Award Categories - Rutland Herald",
+      "summary": "TORONTO--(BUSINESS WIRE)--Jun 23, 2026--. Xello, a leading K–12 college and career readiness (CCR) platform, announced it has been named a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rutlandherald.com/news/business/xello-named-finalist-in-two-2026-edtech-codie-award-categories/article_04af69f4-ed48-5cc7-9a3c-d2bab5000555.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2h6YpUv9Zin9HOchQVAr6S",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-23T14:04:08Z",
+      "category": "Product"
+    },
+    {
+      "title": "Norwegian government bans AI use in schools for children aged 6 to 13 - Crypto Briefing",
+      "summary": "For the EdTech sector, companies building AI-powered learning platforms ... The company is targeting roughly $1 billion in proceeds at a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cryptobriefing.com/norway-bans-ai-schools-children/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jtLUGBDCVMOknpGI8qH6z",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-23T06:51:55Z",
+      "category": "Product"
+    },
     {
       "title": "Tutoring platform Edumentors crosses $4 Million in sales as Yazan Al Homsi backs AI ...",
       "summary": "... business from both. It's a UK EdTech company focused on academic tutoring. It has nothing to do with healthcare, telemedicine, or clinical AI&nbsp;...",
@@ -21,46 +37,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-puts-societal-resilience-at-center-of-ai-safety-argument-after-g7-discussions&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qMly_HkVwjADH5Tb24H2x",
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-22T23:07:38Z",
-      "category": "Product"
-    },
-    {
-      "title": "&quot;Ugandan teachers use it for free&quot;… Freewillin unveils Africa elementary math platform 'OpenFlat'",
-      "summary": "Edtech company Freewillin announced on the 12th that its artificial intelligence (AI) math courseware 'Polyschool' was finally selected as the AI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.venturesquare.net/en/1092818/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1qGu2jGS7TehyeTU_wCiRq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-22T19:02:48Z",
-      "category": "Product"
-    },
-    {
-      "title": "Edtech co Convegenius raises $7-M led by UBS Optimus Foundation, Mount Judi Ventures",
-      "summary": "Noida-based edtech company ConveGenius has raised USD 7 million (about INR 58 crore) in a Series A round co-led by UBS Optimus Foundation and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ventureintelligence.com/private-equity/edtech-co-convegenius-raises-%25247-m-led-by-ubs-optimus-foundation%252C-mount-judi-ventures&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3MVaBDLd88ylq4eGxmfQ07",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-22T13:47:57Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Cred's Kunal Shah to be WhatsApp global head; Coursera CTO on edtech's AI challenge",
-      "summary": "Cred's Kunal Shah to be WhatsApp global head; Coursera CTO on edtech's ... The company last raised Rs 617 crore at a valuation of $3.5 billion.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/newsletters/tech-top-5/creds-kunal-shah-to-be-whatsapp-global-head-coursera-cto-on-edtechs-ai-challenge/articleshow/131910222.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2cm61ir9RxVGnVSnfwlzdt",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-22T13:43:50Z",
-      "category": "Funding"
-    },
-    {
-      "title": "BIT Mesra and IIT Kharagpur Sign MoU for Joint Research and Academic Collaboration",
-      "summary": "... company has built a strong presence in the international education ecosystem. MSM Unify is a global EdTech and international education platform&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/bit-mesra-and-iit-kharagpur-sign-mou-for-joint-research-and-academic-collaboration.60412&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3a7KklIM-l6HwoY-Cy-xbZ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-22T08:41:20Z",
-      "category": "Product"
-    },
-    {
-      "title": "ZAWYA: LEORON Institute appoints Lule Bunjaku Karapinar as CEO, GCC Markets and ...",
-      "summary": "... EdTech provider, announces the appointment of Lule Bunjaku ... About LEORON: LEORON is the leading corporate training and EdTech company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-06-22:newsml_Zaw5hN4yl:0-zawya-leoron-institute-appoints-lule-bunjaku-karapinar-as-ceo-gcc-markets-and-executive-education/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uUbs21oY7JQsanu-3YXEG",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-22T07:29:11Z",
       "category": "Product"
     },
     {
