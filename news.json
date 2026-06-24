@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-06-24 10:44 UTC",
+  "updated_at": "2026-06-24 21:19 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 6,
-    "Startup": 2
+    "Product": 5,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "A 19-year-old Jordanian founder who sold his AI startup is already building his next company",
+      "summary": "Mohammad Alsufi sold his AI edtech startup NoNerds to JoAcademy in a $140000 deal. He founder says the decision was about reach, not riches.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabianbusiness.com/abnews/mohammad-alsufi-nonerds&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Drlz7zJuj9FUBTVjwrhiT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-24T10:55:22Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Bloemfontein edtech startup makes global AWS accelerator cohort - Bizcommunity",
+      "summary": "AWS runs the accelerator in partnership with Deloitte to support mission-driven organisations through technical training, business planning and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/bloemfontein-edtech-startup-makes-global-aws-accelerator-cohort-953544a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2wZgt3UXPUja4NeVu0ssw8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-24T09:19:17Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Best 8+ Education App Development Companies in USA (2026) - WhaTech",
+      "summary": "Best 8+ education app development companies in USA helping schools, edtech startups, and training platforms build scalable learning apps with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.whatech.com/og/mobile-apps/blog/1015183-best-8-education-app-development-companies-in-usa-2026.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0iL6DziBSVPmMw0Okt6woH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-24T08:07:01Z",
+      "category": "Product"
+    },
     {
       "title": "Customer Adoption of Integrated Platform Highlights PowerSchool's K-12 EdTech Positioning",
       "summary": "The company's LinkedIn post highlights that the school shifted to a single connected PowerSchool ecosystem to address these issues. The post suggests&nbsp;...",
@@ -21,22 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.barchart.com/story/news/2614752/inside-koreas-largest-edtech-design-rollout-380-000-korean-teachers-now-use-miricanvas-ai-to-create-classroom-materials&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lVY-LxGTENzXiXPGXkY8X",
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-23T22:52:04Z",
-      "category": "Product"
-    },
-    {
-      "title": "Xello Named Finalist in Two 2026 EdTech CODiE Award Categories - Rutland Herald",
-      "summary": "TORONTO--(BUSINESS WIRE)--Jun 23, 2026--. Xello, a leading K–12 college and career readiness (CCR) platform, announced it has been named a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rutlandherald.com/news/business/xello-named-finalist-in-two-2026-edtech-codie-award-categories/article_04af69f4-ed48-5cc7-9a3c-d2bab5000555.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2h6YpUv9Zin9HOchQVAr6S",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-23T14:04:08Z",
-      "category": "Product"
-    },
-    {
-      "title": "Norwegian government bans AI use in schools for children aged 6 to 13 - Crypto Briefing",
-      "summary": "For the EdTech sector, companies building AI-powered learning platforms ... The company is targeting roughly $1 billion in proceeds at a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cryptobriefing.com/norway-bans-ai-schools-children/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jtLUGBDCVMOknpGI8qH6z",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-23T06:51:55Z",
       "category": "Product"
     },
     {
