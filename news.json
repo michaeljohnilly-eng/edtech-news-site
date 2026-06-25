@@ -1,12 +1,68 @@
 {
-  "updated_at": "2026-06-25 10:38 UTC",
+  "updated_at": "2026-06-25 21:27 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 4
+    "Product": 8,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Pearl Education Launches GRADE, an Open Benchmark for Evaluating AI on Education ...",
+      "summary": "The U.S.-based education technology company serves as the trusted ... Recognized by TIME as one of the Top EdTech Companies of 2025, Pearl&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.einnews.com/pr_news/921958846/pearl-education-launches-grade-an-open-benchmark-for-evaluating-ai-on-education-program-data&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qvRe6LLgXDAtjc31PLgEH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T13:04:04Z",
+      "category": "Product"
+    },
+    {
+      "title": "Nigerian Startup StudyCrew Bets on AI and Gamification to Boost Student Engagement",
+      "summary": "StudyCrew is an edtech platform developed by a Nigerian startup. The company designed the platform to make learning more interactive, collaborative&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.wearetech.africa/en/fils-uk/solutions/nigerian-startup-studycrew-bets-on-ai-and-gamification-to-boost-student-engagement&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2C2sUegT6ZbOewsmlzPgf2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T12:41:16Z",
+      "category": "Product"
+    },
+    {
+      "title": "LEIFRAS Co., Ltd. Explores Link Between Sports Engagement, Non-Cognitive Skills, and ...",
+      "summary": "LEIFRAS Co., Ltd. Explores Link Between Sports Engagement, Non-Cognitive Skills, and Academic Achievement via Proprietary EdTech Platform &quot;Milabo&quot;&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/leifras-co-ltd-explores-link-between-sports-engagement-non-cognitive-skills-and-academic-achievement-via-proprietary-edtech-platform-milabo-302807997.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0hIgHbv1ax-kHVK2P6tPX8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T12:32:57Z",
+      "category": "Product"
+    },
+    {
+      "title": "eEducation Albert sharpens its focus on mathematics, launches a new AI venture and ...",
+      "summary": "The Company is launching a new, standalone AI venture that brings ... Few edtech companies operate at the intersection of home and school the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/modular_finance:91f8a09302134:0-eeducation-albert-sharpens-its-focus-on-mathematics-launches-a-new-ai-venture-and-explores-strategic-options-for-swedish-film/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11zRSrc6GiltYKl6cfmNKO",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T08:47:36Z",
+      "category": "Product"
+    },
+    {
+      "title": "Best 12+ Tutor App Development Companies in Canada (2026) - WhaTech",
+      "summary": "Best 12+ tutor app development companies in Canada (2026) helping edtech startups, tutors, and learning platforms build scalable, user-friendly&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.whatech.com/og/mobile-apps/blog/1015245-best-12-tutor-app-development-companies-in-canada-2026.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1E1MnU9oq2-P7WUv3YM7IG",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T08:03:55Z",
+      "category": "Product"
+    },
+    {
+      "title": "Six tech companies gear up for Knoxville Entrepreneur Center's WORKS Accelerator",
+      "summary": "... EdTech, and Storage Unit Management. Over 100 companies have participated in KEC accelerator programs and have raised over $160 million in private&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.teknovation.biz/six-tech-companies-selected-for-knoxville-entrepreneur-centers-works-accelerator-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2lW5-TiuyA0FqRMZLyIJng",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T05:17:59Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Speexx named “Professional Development Platform of the Year”",
+      "summary": "... educational technology products, companies ... Speexx is a Time Magazine Top Edtech company and the leading platform for people development in the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.speexx.com/newsroom/speexx-named-professional-development-platform-of-the-year-in-2026-edtech-breakthrough-awards/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0q4aoaiAGg4zT2dRGl3UC4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-25T03:23:32Z",
+      "category": "Product"
+    },
     {
       "title": "Toddle eyes up to $100 million in one of India's biggest edtech fundraises since downturn",
       "summary": "MUMBAI: B2B edtech platform Toddle has launched a ... The Bengaluru-based company has hired US investment bank Brown Gibbons Lang &amp; Company&nbsp;...",
@@ -14,30 +70,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-25T02:55:32Z",
       "category": "Funding"
-    },
-    {
-      "title": "A 19-year-old Jordanian founder who sold his AI startup is already building his next company",
-      "summary": "Mohammad Alsufi sold his AI edtech startup NoNerds to JoAcademy in a $140000 deal. He founder says the decision was about reach, not riches.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabianbusiness.com/abnews/mohammad-alsufi-nonerds&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Drlz7zJuj9FUBTVjwrhiT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-24T10:55:22Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Bloemfontein edtech startup makes global AWS accelerator cohort - Bizcommunity",
-      "summary": "AWS runs the accelerator in partnership with Deloitte to support mission-driven organisations through technical training, business planning and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/bloemfontein-edtech-startup-makes-global-aws-accelerator-cohort-953544a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2wZgt3UXPUja4NeVu0ssw8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-24T09:19:17Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Best 8+ Education App Development Companies in USA (2026) - WhaTech",
-      "summary": "Best 8+ education app development companies in USA helping schools, edtech startups, and training platforms build scalable learning apps with&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.whatech.com/og/mobile-apps/blog/1015183-best-8-education-app-development-companies-in-usa-2026.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0iL6DziBSVPmMw0Okt6woH",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-24T08:07:01Z",
-      "category": "Product"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
