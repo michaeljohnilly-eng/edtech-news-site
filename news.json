@@ -1,50 +1,58 @@
 {
-  "updated_at": "2026-06-30 10:53 UTC",
+  "updated_at": "2026-06-30 21:24 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
+    "Funding": 3,
+    "Acquisition": 3,
     "Product": 5,
-    "Startup": 2
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "DC edtech startup Plan Forward acquired after 'frozen market' shifts strategy - Technical.ly",
+      "summary": "A DC edtech startup is being acquired for its data and analytics platform aimed at school administrators. LinkIt, a NYC-based tech company with a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technical.ly/entrepreneurship/plan-forward-linkit-edtech-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3UdbjDMszCRaHb9VRnuyR2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T16:17:47Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Edtech platform YoLearn ai raises pre-seed round - Entrackr",
+      "summary": "Voice-first AI tutoring platform YoLearn.ai has raised $500000 in a pre-seed funding round at a valuation of $5 million, co-led by DataAlpha.ai&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/snippets/edtech-platform-yolearn-ai-raises-pre-seed-round-12120052&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0u92hDXZ9WRT6tIDVuOmas",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T15:35:54Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Ukiyo launches Global Student Support Platform to tackle youth unemployment",
+      "summary": "South African edtech company Ukiyo has unveiled the Global Student Support Platform (GSSP), a mobile app designed to bridge critical gaps in how&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://innovation-village.com/ukiyo-launches-global-student-support-platform-to-tackle-youth-unemployment/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw15L5KJOXqSE7Uek3sFyqYd",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T14:30:30Z",
+      "category": "Product"
+    },
+    {
+      "title": "Global hiring startup wins pitch competition - Taproot Edmonton",
+      "summary": "... edtech company Steminai, and Joshua Arome of EV platform SmartHub Innovations. The summit aimed to explore how to ensure that the AI revolution&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edmonton.taproot.news/briefs/2026/06/30/global-hiring-startup-wins-pitch-competition&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2SanvLkZjk-uobUHaaqpTN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T13:02:52Z",
+      "category": "Product"
+    },
+    {
+      "title": "Kenyan edtech Craydel expands into Ghana, its eighth African market - TechCabal",
+      "summary": "Kenyan education technology startup Craydel has expanded into Ghana, extending its footprint to eight African markets as it builds a business helping&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcabal.com/2026/06/30/kenyan-edtech-craydel-expands-into-ghana/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3JYH3bG9V577_-Yc7s46PU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T12:42:50Z",
+      "category": "Startup"
+    },
     {
       "title": "PowerSchool Launches Education Podcast to Expand EdTech Thought Leadership",
       "summary": "According to a recent LinkedIn post from PowerSchool, the company is producing initial episodes of its new “Stronger School” podcast while&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/powerschool-launches-education-podcast-to-expand-edtech-thought-leadership&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ckLb-bouX4dtciZb57pjy",
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-30T00:10:38Z",
-      "category": "Product"
-    },
-    {
-      "title": "Lytmus AI raises ₹5 crore pre-seed round led by Boundless Ventures - Entrepreneur",
-      "summary": "The company said the system allows its AI mentors to provide ... Edtech startups in India,; AI-led learning,; NEET,; Exam preparation platform&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/lytmus-ai-secures-5-crore-in-pre-seed-funding-to-revolutionize-edtech-with-ai-mentorship/132070108&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0f7G1eFJxsRAJE4Zp7_G5U",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T17:20:07Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Jamf launches New EdTech Marketplace to Expand Impact in Education - Yahoo Finance",
-      "summary": "MINNEAPOLIS, June 29, 2026--(BUSINESS WIRE)--Jamf, the standard in managing and securing Apple in education, today announced the launch of its new&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/articles/jamf-launches-edtech-marketplace-expand-130000040.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Izup-3KvLdSAwyA9XwpJx",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T13:27:27Z",
-      "category": "Product"
-    },
-    {
-      "title": "BYJU'S raises $800 million funding round led by founder, valuation reaches $22 billion",
-      "summary": "The funding valued the company at approximately $22 billion, making it one of the world's most valuable edtech firms at the time. The fresh capital&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitallearning.eletsonline.com/2026/06/byjus-raises-800-million-funding-round-led-by-founder-valuation-reaches-22-billion/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1zCkx_DcYl7wO4qmpXXVaG",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T12:21:42Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Student privacy in the digital age: Why schools need stronger safeguards | Tech News",
-      "summary": "The growing use of third-party edtech platforms has expanded the student data ecosystem. Speaking to Business Standard, Ravindra Baviskar, Director,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/technology/tech-news/student-privacy-in-the-digital-age-why-schools-need-stronger-safeguards-126062900568_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lZw-6DLJ4gW24srvRCdWd",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T10:42:34Z",
       "category": "Product"
     },
     {
