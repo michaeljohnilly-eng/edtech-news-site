@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-06-29 21:21 UTC",
+  "updated_at": "2026-06-30 10:53 UTC",
   "summary": {
-    "Funding": 6,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "PowerSchool Launches Education Podcast to Expand EdTech Thought Leadership",
+      "summary": "According to a recent LinkedIn post from PowerSchool, the company is producing initial episodes of its new “Stronger School” podcast while&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/powerschool-launches-education-podcast-to-expand-edtech-thought-leadership&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ckLb-bouX4dtciZb57pjy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-06-30T00:10:38Z",
+      "category": "Product"
+    },
     {
       "title": "Lytmus AI raises ₹5 crore pre-seed round led by Boundless Ventures - Entrepreneur",
       "summary": "The company said the system allows its AI mentors to provide ... Edtech startups in India,; AI-led learning,; NEET,; Exam preparation platform&nbsp;...",
@@ -38,22 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-06-29T10:42:34Z",
       "category": "Product"
-    },
-    {
-      "title": "Lytmus AI Raises ₹5Cr Pre-seed - The SaaS News",
-      "summary": "Bengaluru-based ed-tech startup Lytmus AI has raised ₹5 crore in a pre-seed funding round. The company, which specializes in AI-powered learning&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/lytmus-ai-raises-5cr-pre-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3yMwJp-3jo4xITFu22u6oW",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T04:28:17Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Andhra Pradesh: Nellore poised to get first multi-company AI park - The New Indian Express",
-      "summary": "... EdTech, hospitality and supply chain management. With global technology companies, international investment, AI research and startup incubation&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newindianexpress.com/states/andhra-pradesh/2026/Jun/29/andhra-pradesh-nellore-poised-to-get-first-multi-company-ai-park&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2DkM35xHtwTWTE0BuIj9Vy",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-06-29T02:55:43Z",
-      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
