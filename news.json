@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-04 10:04 UTC",
+  "updated_at": "2026-07-04 20:51 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Edtech Firm ProjKonnect Unveils AI-powered Academic Platform Gemnex App - Tech",
+      "summary": "According to him, the company believes many students have the intellectual capacity to excel but are constrained by inadequate access to learning&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techeconomy.ng/edtech-firm-projkonnect-unveils-ai-powered-academic-platform-gemnex-app/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Snvg9r0Ya-fHd6m2zvqnF",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-04T15:32:48Z",
+      "category": "Product"
+    },
+    {
+      "title": "PhysicsWallah introduces incentive programme for new faculty - Elets digitalLEARNING",
+      "summary": "... edtech platform. The programme is designed to support the company's ongoing expansion in India's highly competitive coaching ecosystem, where&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitallearning.eletsonline.com/2026/07/physicswallah-introduces-incentive-programme-for-new-faculty/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jcHymzzDulOB2DxPN8Tx9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-04T10:06:43Z",
+      "category": "Product"
+    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
