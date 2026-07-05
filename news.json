@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-07-04 20:51 UTC",
+  "updated_at": "2026-07-05 10:07 UTC",
   "summary": {
     "Funding": 2,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "[AI Revolution](205) Masspresso: &quot;QANDA for Teachers Too... Teacher AI Agent to Launch in ...",
+      "summary": "Founded in 2015, Masspresso is an edtech company operating the QANDA learning platform. It made headlines as the first Korean startup to receive&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/2026070510404671177&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1rCyCvirnvqC7Y74MI8QjU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-05T01:51:00Z",
+      "category": "Product"
+    },
     {
       "title": "Edtech Firm ProjKonnect Unveils AI-powered Academic Platform Gemnex App - Tech",
       "summary": "According to him, the company believes many students have the intellectual capacity to excel but are constrained by inadequate access to learning&nbsp;...",
