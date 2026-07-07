@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-07-06 21:25 UTC",
+  "updated_at": "2026-07-07 10:51 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 3,
-    "Product": 4,
+    "Acquisition": 4,
+    "Product": 8,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Teen entrepreneur from Rajouri puts J&amp;K on global AI map with EdTech startup",
+      "summary": "... EdTech with his AI-powered learning platform Lagnever AI ... The company's flagship product, Lagnever AI, has crossed over 10,000 downloads.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseai.economictimes.indiatimes.com/news/industry/teen-entrepreneur-from-rajouri-makes-global-waves-with-ai-powered-edtech-startup/132233364&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1HeYf5zmJivj-3XXjeyXtW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-07T07:39:23Z",
+      "category": "Product"
+    },
+    {
+      "title": "Teen entrepreneur from Rajouri puts J&amp;K on global AI map with EdTech startup",
+      "summary": "The company's flagship product, Lagnever AI, has crossed over 10,000 downloads. The AI-powered learning platform is made with the aim of making&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/teen-entrepreneur-from-rajouri-makes-global-waves-with-ai-powered-edtech-startup/132233364&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32YuGea-6GnyXM7KH1mer8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-07T07:26:59Z",
+      "category": "Product"
+    },
+    {
+      "title": "52 Education Industry Financing Deals in H1 2026: 7 Companies Advancing Toward IPO",
+      "summary": "During the first half of the year, there were a total of 52 financing, merger and acquisition events in the global education and edtech sectors.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/3884251152412929&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Bk8FFtRKIFZJNIagZhg1m",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-07T00:43:13Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Explorance launches AI model for NSS feedback | ETIH EdTech News",
+      "summary": "ETIH edtech news covers the NSS 2026 timing, student feedback ... Microsoft puts $2.5B and 6,000 experts behind Frontier Company. 3 July&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/explorance-launches-ai-model-to-help-universities-analyze-nss-feedback&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3qrROeq_ltlHdTjBNnlNFn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-07T00:19:33Z",
+      "category": "Product"
+    },
+    {
+      "title": "Aston and Capgemini launch AI business transformation MSc | ETIH EdTech News",
+      "summary": "AI in education: Aston Business School and Capgemini launch a new MSc AI for Business Transformation. ETIH edtech news looks at the September 2026&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/aston-business-school-and-capgemini-sign-agreement-for-new-ai-business-transformation-msc&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0K1NQEk6uPii-IGHIxZbGp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-06T23:49:56Z",
+      "category": "Product"
+    },
     {
       "title": "Info Edge to acquire edtech platform Coding Ninjas - The Economic Times",
       "summary": "Following its board meeting held on Monday, the company said it will acquire the entire remaining shareholding of Sunrise Mentors, which operates&nbsp;...",
