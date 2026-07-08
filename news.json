@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-07-07 21:19 UTC",
+  "updated_at": "2026-07-08 10:12 UTC",
   "summary": {
     "Funding": 3,
-    "Acquisition": 8,
-    "Product": 4,
+    "Acquisition": 6,
+    "Product": 3,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Edupoint's Synergy Education Platform Named &quot;Next-Gen School Solution of the Year&quot; in ...",
+      "summary": "The EdTech Breakthrough Awards program recognizes standout educational technology products and companies across the global edtech market. In its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/edupoints-synergy-education-platform-named-165000000.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0AXL2S2jdg0gjRgCT8ri6v",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-08T02:53:40Z",
+      "category": "Product"
+    },
     {
       "title": "CCI approves upGrad's acquisition of Unacademy - Entrackr",
       "summary": "Ronnie Screwvala-led upGrad has received approval from the Competition Commission of India (CCI) for its proposed acquisition of edtech unicorn&nbsp;...",
@@ -54,38 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-07T13:43:12Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Noon Academy acquires Almakhfi to strengthen Saudi edtech offering - Wamda",
-      "summary": "Saudi edtech company Noon Academy has acquired Almakhfi, a digital platform specialising in preparation for the Qudurat and Tahsili examinations&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wamda.com/2026/07/noon-academy-acquires-almakhfi-strengthen-saudi-edtech-offering&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2gLL8MhSDclHPmj0WbNjwo",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-07T10:41:40Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Noon Education Acquires Almakhfi to Expand its Exam Preparation Offering - WAYA Media",
-      "summary": "... EdTech platform focused on Qudrat and Tahsili exam preparation. This comes as the company continues to broaden its portfolio of educational&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://waya.media/noon-education-acquires-almakhfi-to-expand-its-exam-preparation-offering/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3EvQPOgFs1hd1Vfr-0sn1e",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-07T10:38:29Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Teen entrepreneur from Rajouri puts J&amp;K on global AI map with EdTech startup",
-      "summary": "... EdTech with his AI-powered learning platform Lagnever AI ... The company's flagship product, Lagnever AI, has crossed over 10,000 downloads.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseai.economictimes.indiatimes.com/news/industry/teen-entrepreneur-from-rajouri-makes-global-waves-with-ai-powered-edtech-startup/132233364&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1HeYf5zmJivj-3XXjeyXtW",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-07T07:39:23Z",
-      "category": "Product"
-    },
-    {
-      "title": "Teen entrepreneur from Rajouri puts J&amp;K on global AI map with EdTech startup",
-      "summary": "The company's flagship product, Lagnever AI, has crossed over 10,000 downloads. The AI-powered learning platform is made with the aim of making&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/teen-entrepreneur-from-rajouri-makes-global-waves-with-ai-powered-edtech-startup/132233364&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32YuGea-6GnyXM7KH1mer8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-07T07:26:59Z",
-      "category": "Product"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
