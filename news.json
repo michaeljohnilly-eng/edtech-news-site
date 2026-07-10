@@ -1,50 +1,34 @@
 {
-  "updated_at": "2026-07-10 10:48 UTC",
+  "updated_at": "2026-07-10 21:02 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 2,
-    "Product": 6,
-    "Startup": 3
+    "Acquisition": 3,
+    "Product": 4,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "The NBA partners with Teladoc, HHS looks to make hospital food healthier, Noon Academy ...",
+      "summary": "Saudi edtech company Noon Academy acquired Almakhfi, a digital platform specialising in preparation for the Qudurat and Tahsili examinations, in a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vator.tv/the-nba-partners-with-teladoc-hhs-looks-to-make-hospital-food-healthier-noon-academy-acquires-almakhfi/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw13L5qQVXLZe_p8pHOdmdSW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-10T19:31:23Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "GALVOC Launches an AI Ecosystem Designed to Give Indian SMBs C-Suite-Level ...",
+      "summary": "... company's routine workflows is supported by its Agentic AI ecosystem, with ... SaaS companies, IT firms, EdTech businesses, restaurant chains&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bignewsnetwork.com/news/279179330/galvoc-launches-an-ai-ecosystem-designed-to-give-indian-smbs-c-suite-level-intelligence-without-enterprise-sized-teams&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jKd7JlpJ3PhPE0Uy88bah",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-10T14:37:44Z",
+      "category": "Product"
+    },
     {
       "title": "Coda becomes Superhuman Docs with new AI features | ETIH EdTech News",
       "summary": "The company described the update as “Coda 5.0” for existing users, rather than a break with the original platform. Existing Coda documents will&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/coda-becomes-superhuman-docs-as-ai-collaboration-features-roll-out&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iSyWPcRj7FaHIITzmtqjA",
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-09T23:49:03Z",
-      "category": "Product"
-    },
-    {
-      "title": "LearnLaunch Fund + Accelerator Announces 2026 Breakthrough to Scale Cohort",
-      "summary": "... edtech startups tackling challenges across the full learning journey ... He will work closely with LearnLaunch founders on company-building, go-to-&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.einnews.com/amp/pr_news/925333453/learnlaunch-fund-accelerator-announces-2026-breakthrough-to-scale-cohort&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nyJ9UUqmquIAYgIvfTZss",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-09T13:13:05Z",
-      "category": "Product"
-    },
-    {
-      "title": "ContentCal founder launches AcademyAI to measure workforce AI capability",
-      "summary": "ETIH edtech news covers AI training, workplace skills ... The company was co-founded in June 2026 by Andy Lambert, who previously&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/contentcal-founder-launches-academyai-to-measure-workforce-ai-capability&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3FVbfyIXQsDvqCLPF6RA0S",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-09T12:02:27Z",
-      "category": "Product"
-    },
-    {
-      "title": "Border teen builds Rs 5-Crore AI startup | Brighter Kashmir - PressReader",
-      "summary": "A Class 12 student, Imran founded Lagnever Technologies Private Limited, an EdTech company that uses artificial intelligence to make learning more&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/india/brighter-kashmir/20260709/281960319500857&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw28gAyoaCH2tpX3vrFyP4R2",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-09T09:04:21Z",
-      "category": "Startup"
-    },
-    {
-      "title": "AT 17, J&amp;K STUDENT CREATES RS 5 CR AI EDTECH VENTURE - PressReader",
-      "summary": "... edtech startup that leverages AI to make learning more personalised and accessible for students. According to the company, its flagship product&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/india/millennium-post/20260709/282192247734934&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3f3hy6VxrOk_tJF8jgkJ2S",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-09T08:11:23Z",
       "category": "Product"
     },
     {
