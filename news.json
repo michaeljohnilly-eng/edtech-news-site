@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-07-13 10:55 UTC",
+  "updated_at": "2026-07-13 20:53 UTC",
   "summary": {
-    "Funding": 2,
+    "Funding": 6,
     "Acquisition": 2,
     "Product": 3,
-    "Startup": 2
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "PhysicsWallah Grants Over 223,000 Stock Options Under 2025 ESOP - The Globe and Mail",
-      "summary": "PhysicsWallah Limited is an India-based education technology company ... The company operates in the edtech sector, leveraging its platform and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3244664/physicswallah-grants-over-223-000-stock-options-under-2025-esop/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3pkU7Zu4i1UJFJFsRosk8I",
+      "title": "Edtech startup Sortmyprep secures $350000 pre-seed funding to expand vertical AI learning platform",
+      "summary": "The fresh capital will be utilised to strengthen the company's vertical AI infrastructure, expand curriculum coverage, and accelerate its expansion&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/start-ups/edtech-startup-sortmyprep-secures-350000-pre-seed-funding-to-expand-vertical-ai-learning-platform/4290577/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0kt71sVr9TFYU-PJo7CKog",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-12T17:16:48Z",
+      "published": "2026-07-13T17:04:38Z",
+      "category": "Funding"
+    },
+    {
+      "title": "EdTech Startup Secures UNDP Acceleration, Pivots to B2B AI Frameworks for Local Businesses",
+      "summary": "The company's strategic shift relies heavily on data collected across multiple top-tier African startup programs, which helped replace initial&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.naijapreneur.com/edtech-startup-secures-undp-acceleration-pivots-to-b2b-ai-frameworks-for-local-businesses/%3Famp%3D1&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iTBQi4ErEPTUCsZx4BE6I",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-13T15:15:36Z",
+      "category": "Startup"
+    },
+    {
+      "title": "BITS Pilani backed sortmyprep raises $350000 in pre seed funding to expand AI education platform",
+      "summary": "The company, which operates under ZKAP Edtech Service Private Limited, currently focuses on international school curricula and offers 'sorty', a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/amp/industry/story/bits-pilani-backed-sortmyprep-raises-350000-in-pre-seed-funding-to-expand-ai-education-platform-542664-2026-07-13&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1KpDUPvHavuBL0ENNLevdk",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-13T14:50:04Z",
+      "category": "Funding"
+    },
+    {
+      "title": "BITS Pilani backed sortmyprep raises $350000 in pre seed funding to expand AI education platform",
+      "summary": "The company, which operates under ZKAP Edtech Service Private Limited ... Commenting on the investment, boAt co-founder Sameer Mehta said the company's&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.in/industry/story/bits-pilani-backed-sortmyprep-raises-350000-in-pre-seed-funding-to-expand-ai-education-platform-542664-2026-07-13&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0j_GEYp7iH8JVX0aeWPZw_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-13T14:50:03Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Vasco Audience Wins Education Technology Award at ISTELive - MyChesCo",
+      "summary": "... company's position in the growing market for language-access technology used by K-12 school districts. The web-based platform won in the Secondary&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mychesco.com/a/news/regional/vasco-audience-wins-education-technology-award-at-istelive/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1bAWo9aFw_EfLFbtsDyaP7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-13T14:26:52Z",
       "category": "Product"
+    },
+    {
+      "title": "BITS Pilani-backed AI edtech startup Sortmyprep raises $350,000 in funding",
+      "summary": "The company said it will deploy the fresh capital to strengthen its vertical AI infrastructure, expand curriculum coverage and accelerate growth&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/startup/bits-pilani-backed-ai-edtech-startup-sortmyprep-raises-350-000-in-funding-13972727.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2T_miP-MTf38jFX5hMX1Iw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-13T11:45:55Z",
+      "category": "Funding"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
