@@ -1,66 +1,58 @@
 {
-  "updated_at": "2026-07-17 09:52 UTC",
+  "updated_at": "2026-07-17 20:49 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 4,
-    "Product": 3,
-    "Startup": 3
+    "Acquisition": 2,
+    "Product": 5,
+    "Startup": 2
   },
   "articles": [
     {
-      "title": "Her startup needed a user test lab: Access to KC's World Cup marketplace opened door to ...",
-      "summary": "The edtech startup wrapped its FIFA World Cup ... They were about figuring out how people wanted to discover an educational technology company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startlandnews.com/2026/07/codealgo-academy-city-of-entrepreneurs/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2NILBxEx1hekAY7P7ZOIP1",
+      "title": "Digital health startups raise $7.4B in H1, Salamanca City Central puts AI in the classroom ...",
+      "summary": "... Company, funds and accounts advised by T. Rowe Price Associates, Inc ... Edtech: DeweyLearn, a multimodal AI platform that combines audio&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vator.tv/digital-health-startups-raise-7-4b-in-h1-salamanca-city-central-puts-ai-in-the-classroom-western-governors-university-partners-with-anthropic/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0XqTGCfnlX2ZkgI4z2ZCI6",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T19:30:52Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Physicswallah to acquire additional 11% stake in Sarrthi IAS for ₹72 crore - CNBC TV18",
-      "summary": "Edtech company Physicswallah Ltd on Thursday (July 16) said its board has approved the acquisition of an additional 11% stake in Guiding Light&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/market/stocks/physicswallah-share-price-to-acquire-additional-11-stake-in-sarrthi-ias-for-rs-72-crore-19947618.htm&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0QeD0cQTdPHTRzy85l9ocz",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T17:51:42Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "PhysicsWallah Takes Control of Sarrthi IAS, Raises Stake to 51% in UPSC Expansion",
-      "summary": "Edtech firm PhysicsWallah (PW) has acquired a majority stake in Sarrthi ... The company has built a strong reputation in the UPSC coaching&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.outlookbusiness.com/corporate/physicswallah-takes-control-of-sarrthi-ias-raises-stake-to-51-in-upsc-expansion&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2XIti5ln0mfjH3z0F-17fb",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T16:33:13Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "PhysicsWallah Acquires Majority Stake In Sarrthi IAS For ₹72 Cr - Inc42",
-      "summary": "Listed edtech major PhysicsWallah PhysicsWallah An Edtech Funded Company Based Out Of Noida Sector Edtech Stage Undisclosed Total Funding $486.36&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/physicswallah-acquires-majority-stake-in-sarrthi-ias-for-%25E2%2582%25B972-cr/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0kDlLgqTsKzrhX0loQLSTz",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T16:30:15Z",
-      "category": "Funding"
-    },
-    {
-      "title": "PhysicsWallah to buy additional 11% in UPSC platform Sarrthi IAS for Rs 71.81 crore",
-      "summary": "Edtech company PhysicsWallah has approved the purchase of an additional 11% stake in civil services coaching platform Sarrthi IAS for Rs 71.81&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/physicswallah-to-buy-additional-11-in-upsc-platform-sarrthi-ias-for-rs-7181-crore-12171569&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0bQ8pciN-vzdSEsvAnWV_c",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T16:29:14Z",
+      "published": "2026-07-17T20:07:19Z",
       "category": "Product"
     },
     {
-      "title": "PhysicsWallah acquires controlling stake in Sarrthi IAS with Rs 71.8 Cr investment - Entrackr",
-      "summary": "Edtech company PhysicsWallah (PW) has approved an investment of Rs 71.8 crore in UPSC coaching platform Sarrthi IAS. The transaction will increase&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/news/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-cr-investment-12171448&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1_SCbMiDAHiAGA3hZE4LKo",
+      "title": "BITS Pilani-Backed Edtech Startup sortmyprep Raises USD 350,000 in Pre-Seed Funding",
+      "summary": "The startup, sortmyprep, is an edtech platform that uses artificial intelligence (AI) to support students in their studies. The company said the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.shiksha.com/news/engineering-bits-pilani-backed-edtech-startup-sortmyprep-raises-usd-350-000-in-pre-seed-funding-blogId-236285&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1GoFRDBkSkWSHP5bg1LECy",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T15:12:04Z",
+      "published": "2026-07-17T19:14:41Z",
       "category": "Funding"
     },
     {
-      "title": "DeweyLearn Secures $5 Million in Series A Funding to Scale AI That Assesses Real-World ...",
-      "summary": "SJF Ventures invests in EdTech company that uses AI to observe real ... companies as the top education technology startup in the world.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/deweylearn-secures-5-million-in-series-a-funding-to-scale-ai-that-assesses-real-world-skill-at-expert-level-302827161.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0xW3KUI9gVxVg7UnJAmmWy",
+      "title": "OpenAI launches policy agenda covering youth safety, AI literacy and workforce transition",
+      "summary": "AI policy and AI in education: OpenAI has set out proposals for youth safety, teacher training, AI literacy and workforce skills. ETIH edtech news&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-launches-policy-agenda-covering-youth-safety-ai-literacy-and-workforce-transition&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0YVuM3yehsORJaNPhONTEo",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-16T13:02:32Z",
+      "published": "2026-07-17T11:05:24Z",
+      "category": "Product"
+    },
+    {
+      "title": "From European EdTech Founder to AI Workforce Builder, Jaka Bavdek Prepares 8x for Rapid Growth",
+      "summary": "The 8x Social co-founder is developing a platform that coordinates trained human contributors for the workflows AI companies still need people to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dispatch.com/press-release/story/213871/from-european-edtech-founder-to-ai-workforce-builder-jaka-bavdek-prepares-8x-for-rapid-growth/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2wydMDf4x3p4BN24Lh8l9D",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-17T07:00:36Z",
+      "category": "Product"
+    },
+    {
+      "title": "PhysicsWallah Increases Stake in Sarrthi IAS with ₹72 Crore Investment",
+      "summary": "EdTech company PhysicsWallah (PW) has invested approximately ₹72 crore (₹71.81 crore) in leading UPSC coaching platform Sarrthi IAS,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/physicswallah-increases-stake-in-sarrthi-ias-with-72-crore-investment.60601&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RFnRIATJkkg6QLa0eAUVS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-17T06:37:25Z",
+      "category": "Funding"
+    },
+    {
+      "title": "PhysicsWallah Acquires Controlling Stake in Sarrthi IAS with Rs 71.8 Crore Investment",
+      "summary": "Edtech company PhysicsWallah has increased its stake in UPSC coaching platform Sarrthi IAS from 40 percent to...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/news/startups/physicswallah-acquires-controlling-stake-in-sarrthi-ias-with-rs-718-crore-investment-nid-241544-cid-19.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw19r5wgme3PAnRk-xFt1sUe",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-17T04:25:27Z",
       "category": "Funding"
     },
     {
