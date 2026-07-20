@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-19 20:40 UTC",
+  "updated_at": "2026-07-20 10:46 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "University of Toronto partners with Cohere on AI platform | ETIH EdTech News",
+      "summary": "The AI Kitchen was one of the central recommendations made by a university task force established in spring 2024. Kidwell co-sponsors the initiative&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/university-of-toronto-partners-with-cohere-on-enterprise-wide-ai-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2JT3QJvvuiEzg58af8ZOf3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-19T23:33:24Z",
+      "category": "Product"
+    },
+    {
+      "title": "Doubtnut — Funding, Investors &amp; Company Profile (2026) - Lapaas Voice",
+      "summary": "Startup Atlas · EdTech. Doubtnut Acquired. ○ Gurugram, Haryana ... Aditya Shankar · Co-Founder &amp; CEO Tanushree Nagori · Co-Founder Sonia Sinha&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://voice.lapaas.com/startup/doubtnut/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2PWSIUiuYwjpg4qjI0y8JD",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-19T20:24:50Z",
+      "category": "Funding"
+    },
     {
       "title": "Leverage Edu — Funding, Investors &amp; Company Profile (2026) - Lapaas Voice",
       "summary": "Leverage Edu. Leverage EdTech Pvt Ltd ○ Noida, Uttar Pradesh ○ Founded 2017 ○ leverageedu.",
@@ -22,14 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-19T07:49:47Z",
       "category": "Funding"
-    },
-    {
-      "title": "Electus Global Education Co. Joins Embarc Collective, Florida's Premier Tech Startup Community",
-      "summary": "“As a Tampa Bay-rooted EdTech and FinTech social enterprise, being surrounded by top-tier entrepreneurial talent and world-class coaching will&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.desmoinesregister.com/press-release/story/100112/electus-global-education-co-joins-embarc-collective-floridas-premier-tech-startup-community/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0erhuV1DNBZMPo_DpEHIOV",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-18T16:35:41Z",
-      "category": "Startup"
     },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
