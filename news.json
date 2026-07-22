@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-07-21 21:02 UTC",
+  "updated_at": "2026-07-22 10:21 UTC",
   "summary": {
     "Funding": 2,
-    "Acquisition": 2,
-    "Product": 2,
+    "Acquisition": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Latest AI Track Ranking Released: 4 Education Products Make Global Top 100 Growth List",
+      "summary": "Alice is an edtech company headquartered in Copenhagen ... edtech company, but an AI learning product launched by Saudi edtech company Shaguf.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/3905456263910788&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0m-kPmCfQk00bNtTZ900r8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-21T23:42:55Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech Marketplace aims to unify IT solutions in schools as Jamf expands its platform",
+      "summary": "The company has also promoted engagement at JNUC, an annual event for Apple IT professionals, which is set to return to Kansas City this September&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/companies/show/2741974-jamf-edtech-marketplace/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Sibkq7X-tRtdA8NaX-Wei",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-21T20:34:33Z",
+      "category": "Product"
+    },
+    {
+      "title": "Paytm's AI bet; TCS-OpenAI deal takes shape - The Economic Times",
+      "summary": "The company is building AI tools for merchant acquisition, customer service ... Edtech companies are expanding into colleges, offering AI and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/newsletters/tech-top-5/paytms-ai-bet-tcs-openai-deal-takes-shape/articleshow/132537920.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw07QZxKXoYiZvFMtBX2PQyb",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-21T13:48:38Z",
+      "category": "Acquisition"
+    },
     {
       "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
       "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
