@@ -1,42 +1,34 @@
 {
-  "updated_at": "2026-07-22 21:01 UTC",
+  "updated_at": "2026-07-23 10:16 UTC",
   "summary": {
-    "Funding": 2,
-    "Acquisition": 4,
-    "Product": 4,
+    "Funding": 4,
+    "Acquisition": 3,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Sortmyprep Raises $350K Pre-Seed Funding to Expand AI-Powered Exam Preparation Platform",
+      "summary": "The company operates under ZKAP Edtech Service Private Limited. It is currently focused on international curricula and offers “sorty”, a board&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dailypioneer.com/news/slug-lite/edtech-startup-sortmyprep-raises-350000-in-pre-seed-funding%3Fyear%3D2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1aZPs4Dco9IxX2_AVqayoB",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-23T03:33:06Z",
+      "category": "Funding"
+    },
+    {
+      "title": "'K-Pop EdTech' company Hallim World secures 200 million won in seed funding from ...",
+      "summary": "Hallim World, a global K-pop EdTech company led by CEO Lee Se-yong, said Wednesday it has secured seed investment worth 200 million won from&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kspost.biz/en-us/articles/2752&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ir2cpV8nfx7qsxdQ5CyN_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-23T00:43:00Z",
+      "category": "Funding"
+    },
     {
       "title": "12,000 Customers Migrate From Vimeo to Gumlet Following Bending Spoons Acquisition",
       "summary": "... EdTech companies, course creators, LMS providers, and OTT operators to prevent video piracy and protect premium content. The company is backed by&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.einnews.com/pr_news/928551848/12-000-customers-migrate-from-vimeo-to-gumlet-following-bending-spoons-acquisition&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw00EiAxEMhaTxHw2DNFyWkd",
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-22T14:34:31Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Latest AI Track Ranking Released: 4 Education Products Make Global Top 100 Growth List",
-      "summary": "Alice is an edtech company headquartered in Copenhagen ... edtech company, but an AI learning product launched by Saudi edtech company Shaguf.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/3905456263910788&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0m-kPmCfQk00bNtTZ900r8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-21T23:42:55Z",
-      "category": "Product"
-    },
-    {
-      "title": "EdTech Marketplace aims to unify IT solutions in schools as Jamf expands its platform",
-      "summary": "The company has also promoted engagement at JNUC, an annual event for Apple IT professionals, which is set to return to Kansas City this September&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/companies/show/2741974-jamf-edtech-marketplace/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Sibkq7X-tRtdA8NaX-Wei",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-21T20:34:33Z",
-      "category": "Product"
-    },
-    {
-      "title": "Paytm's AI bet; TCS-OpenAI deal takes shape - The Economic Times",
-      "summary": "The company is building AI tools for merchant acquisition, customer service ... Edtech companies are expanding into colleges, offering AI and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/newsletters/tech-top-5/paytms-ai-bet-tcs-openai-deal-takes-shape/articleshow/132537920.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw07QZxKXoYiZvFMtBX2PQyb",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-21T13:48:38Z",
       "category": "Acquisition"
     },
     {
