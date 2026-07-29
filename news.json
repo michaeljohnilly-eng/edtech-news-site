@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-07-28 21:02 UTC",
+  "updated_at": "2026-07-29 10:34 UTC",
   "summary": {
-    "Funding": 5,
-    "Acquisition": 5,
+    "Funding": 4,
+    "Acquisition": 3,
     "Product": 4,
-    "Startup": 3
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Exclusive: Andrew Ng's new AI-powered ed tech startup gets $100 million - Yahoo Finance",
+      "summary": "Coursera is putting $100 million into LearnVector, a new AI education company founded by Andrew Ng, a pioneer in AI and Coursera's chairman and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/exclusive-andrew-ngs-ai-powered-200505507.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1eBDHeH3o1aSbghSGRU3rT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-28T20:52:42Z",
+      "category": "Startup"
+    },
     {
       "title": "KIDZ AI Announces Expansion of Existing Share Repurchase Program by 50% to $3.0 Million",
       "summary": "... Company&quot;), an education technology company advancing AI infrastructure and GPU compute initiatives alongside its core EdTech operations, today&nbsp;...",
@@ -38,30 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-28T09:36:36Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Dachepalli Publishers signs MoU to acquire Hara Communications - ScanX",
-      "summary": "The acquisition aims to boost the company's edtech offerings and school solutions. ... educational technology business and enhancing technology&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://scanx.trade/stock-market-news/companies/dachepalli-publishers-signs-mou-to-acquire-hara-communications/46695318&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Bwy-iFr0NWdsAFWuORel9",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-28T06:31:56Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Farrer &amp; Co advises Inspera on EdTech acquisition",
-      "summary": "Leading independent law firm Farrer &amp; Co is delighted to have advised Inspera, a leading provider of digital assessment solutions,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.farrer.co.uk/news-and-insights/farrer--co-advises-inspera-on-edtech-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2CP6D7XaZQ1efnZcDFX3Q8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-28T03:48:12Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Startup news and updates: daily roundup (July 27, 2026) - YourStory.com",
-      "summary": "Bengaluru-based edtech company 90+ My Tuition App has received a strategic investment from Equity Intelligence, led by investor Porinju Veliyath.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-27-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3a2PwoqBaAW-Amg344SAcN",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-28T02:10:42Z",
-      "category": "Funding"
     },
     {
       "title": "Edtech Startup Imagi Raises US$4.5 Million to Help Students Learn AI-Powered Coding",
