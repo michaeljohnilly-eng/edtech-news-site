@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-29 20:50 UTC",
+  "updated_at": "2026-07-30 10:20 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 5,
-    "Startup": 4
+    "Product": 7,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Samsung unveils digital classroom solution for Kenyan schools",
+      "summary": "Samsung Electronics East Africa has launched a new education technology solution, Samsung Digital Classroom, aimed at helping Kenyan schools&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://africabusinesscommunities.com/tech-24/samsung-unveils-digital-classroom-solution-for-kenyan-schools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2rO2sJ30ANPrT_dBbuZwxI",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-30T06:22:56Z",
+      "category": "Product"
+    },
+    {
+      "title": "iHUB, Mastercard Foundation back 12 Kenyan EdTech startups",
+      "summary": "Since launching in Kenya in 2023, the Fellowship has supported 36 EdTech companies that have reached more than 700,000 learners and trained over&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://africabusinesscommunities.com/tech-24/ihub-mastercard-foundation-back-12-kenyan-edtech-startups/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0YK_Ul1hLNYDDdri2mKVLf",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-30T06:02:15Z",
+      "category": "Product"
+    },
     {
       "title": "Several schools to install pepper-spraying drones to respond to school shootings",
       "summary": "According to the company, which manufactures its own aircraft and ... Coursera investing $100 million in Andrew Ng's new edtech startup &middot; Axios&nbsp;...",
@@ -46,14 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-07-29T12:42:15Z",
       "category": "Product"
-    },
-    {
-      "title": "Exclusive: Andrew Ng's new AI-powered ed tech startup gets $100 million - Yahoo Finance",
-      "summary": "Coursera is putting $100 million into LearnVector, a new AI education company founded by Andrew Ng, a pioneer in AI and Coursera's chairman and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/exclusive-andrew-ngs-ai-powered-200505507.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1eBDHeH3o1aSbghSGRU3rT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-28T20:52:42Z",
-      "category": "Startup"
     },
     {
       "title": "Covista Names Emily C. Chiu and Leslie Storms to its Board of Directors | Morningstar",
