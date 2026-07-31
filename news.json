@@ -1,27 +1,35 @@
 {
-  "updated_at": "2026-07-30 21:02 UTC",
+  "updated_at": "2026-07-31 10:33 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 2
+    "Product": 2,
+    "Startup": 4
   },
   "articles": [
     {
-      "title": "Samsung unveils digital classroom solution for Kenyan schools",
-      "summary": "Samsung Electronics East Africa has launched a new education technology solution, Samsung Digital Classroom, aimed at helping Kenyan schools&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://africabusinesscommunities.com/tech-24/samsung-unveils-digital-classroom-solution-for-kenyan-schools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2rO2sJ30ANPrT_dBbuZwxI",
+      "title": "Klassroom IPO: Issue Subscribed 40% On Day 1 So Far - Inc42",
+      "summary": "Edtech startup Klassroom's initial public offering (IPO) saw robust ... The edtech company's public issue comprises a fresh issue of up to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/klassroom-ipo-issue-subscribed-40-on-day-1-so-far/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0ddYf4_KrLaF0XLnC1Rry2",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-30T06:22:56Z",
-      "category": "Product"
+      "published": "2026-07-31T08:08:22Z",
+      "category": "Startup"
     },
     {
-      "title": "iHUB, Mastercard Foundation back 12 Kenyan EdTech startups",
-      "summary": "Since launching in Kenya in 2023, the Fellowship has supported 36 EdTech companies that have reached more than 700,000 learners and trained over&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://africabusinesscommunities.com/tech-24/ihub-mastercard-foundation-back-12-kenyan-edtech-startups/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0YK_Ul1hLNYDDdri2mKVLf",
+      "title": "Edtech Startup Klassroom Raises Rs 11.08 Cr From Anchor Investors, SME IPO Opens Today",
+      "summary": "According to a BSE circular, the Mumbai-based edtech company allotted more than 6.96 lakh equity shares to six anchor investors at ₹159 per share.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bwdisrupt.com/article/edtech-startup-klassroom-raises-rs-11-08-cr-from-anchor-investors-sme-ipo-opens-today-617403&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3X1ylGdQTqhHaU9PO436Zp",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-07-30T06:02:15Z",
-      "category": "Product"
+      "published": "2026-07-31T04:33:52Z",
+      "category": "Startup"
+    },
+    {
+      "title": "EdTech startups secure Sh155m to boost learning innovation - Standard Newspaper",
+      "summary": "Each startup will receive $100,000 (Sh12.9 million) in equity-free funding, alongside an 18-month programme offering business advisory, mentorship,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.standardmedia.co.ke/business/enterprise/article/2001554193/edtech-startups-secure-sh155m-to-boost-learning-innovation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2hfP9y2e0xN_28aBdL7HeR",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-07-30T19:43:42Z",
+      "category": "Funding"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
