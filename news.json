@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-01 20:44 UTC",
+  "updated_at": "2026-08-02 09:51 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 4
+    "Product": 5,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "EdTech Software Development Services: Building the Future of Digital Learning",
+      "summary": "Corporate training departments have similar needs. A company onboarding new employees across multiple countries requires a platform that supports&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techbullion.com/edtech-software-development-services-building-the-future-of-digital-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw15kODKchFettNe_ZDbk7m4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-02T05:04:50Z",
+      "category": "Product"
+    },
     {
       "title": "Week in Edtech 7/15/26: NYC Pauses AI Procurement, Anthropic Launches Claude for ...",
       "summary": "... ed tech company or buying one contact Tuck advisors now. Every year, K-12 districts and higher ed institutions spend over half a trillion dollars&nbsp;...",
@@ -30,14 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-01T02:57:47Z",
       "category": "Product"
-    },
-    {
-      "title": "Lena Enters Race for $100,000 Mastercard Foundation EdTech Fellowship - Arbiterz",
-      "summary": "Lagos edtech startup Lena has entered the race for the $100000 Mastercard Foundation EdTech Fellowship led by co-founder Faruk Bilesanmi.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://arbiterz.com/lena-enters-race-for-100000-mastercard-foundation-edtech-fellowship/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ie3LnHtqoBxnuA_GHxkFR",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-07-31T21:48:38Z",
-      "category": "Startup"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
