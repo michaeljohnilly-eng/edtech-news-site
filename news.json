@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-04 21:06 UTC",
+  "updated_at": "2026-08-05 10:29 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "name.com adds domains to five AI building platforms | ETIH EdTech News",
+      "summary": "... management inside AI and developer workflows. The edtech story examines early usage figures and the limits of the company's supporting survey data.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/namecom-embeds-domain-registration-in-five-ai-and-developer-platforms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ynbocUV4-bpCEgW88g3Np",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-04T23:47:48Z",
+      "category": "Product"
+    },
     {
       "title": "How one major airport is solving the skilled trades shortage with immersive virtual training",
       "summary": "Interplay was recently named one of TIME's 2026 America's Top EdTech Companies and Forbes 2026 America's Best Startup Employers. This report was&nbsp;...",
