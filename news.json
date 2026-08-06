@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-08-05 21:02 UTC",
+  "updated_at": "2026-08-06 10:33 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 5,
-    "Startup": 4
+    "Product": 4,
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "MagicSchool Raises $45M Series B - The SaaS News",
+      "summary": "MagicSchool, based in the United States, is an AI-powered edtech platform designed to support educators and students. The company has raised $45&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/magicschool-raises-45m-series-b/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0J9MjTmtb6PhrKsk5YPwqm",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-06T06:41:16Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Indigenous edtech platform championed at TechDiversity 2026 Awards - Forbes Australia",
+      "summary": "Cultural Competency that Closes the Digital Divide program also won in the Business and Tech for Good categories. The 2026 TechDiversity Awards&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com.au/news/entrepreneurs/indigenous-edtech-platform-championed-at-techdiversity-2026-awards/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1pRzNHP7amdotMw-g_1-KA",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-05T21:41:05Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdX founder Anant Agarwal discusses his new AI grading startup - Boston Business Journal",
+      "summary": "Anant Agarwal, founder of edX, is CEO of a new AI education company. He says it is the future of education technology. Gary Higgins / Boston Business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/boston/news/2026/08/05/edx-founder-ceo-startup-acquisition.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1il4gF4WN4KxJIdTAX926r",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-05T20:49:44Z",
+      "category": "Startup"
+    },
     {
       "title": "CcHUB, Mastercard Foundation select 12 startups for fourth EdTech Fellowship cohort",
       "summary": "Co-creation HUB (CcHUB) has selected 12 Nigerian startups for the fourth cohort of the Mastercard Foundation EdTech Fellowship.",
@@ -29,22 +53,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://techrseries.com/learning-and-development/lingoace-launches-tutor-luna-an-ai-native-english-learning-platform-designed-to-personalize-every-childs-learning-journey/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1UfMfw8DHoUMn8cnGdk2sU",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-05T14:24:24Z",
-      "category": "Product"
-    },
-    {
-      "title": "Gur Sikhi Edtech launches Sikh-Pro for Indian diaspora",
-      "summary": "Today that promise is kept,” said Hitesh Singh, Co-founder of Gur Sikhi Edtech LLP. “Sikh-Pro is not trying to replace the Gurdwara or the physical&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://theindianeye.com/2026/08/05/gur-sikhi-edtech-launches-sikh-pro-for-indian-diaspora/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2i1J5x6iaKXaeiiVIX2uGf",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-05T12:46:24Z",
-      "category": "Product"
-    },
-    {
-      "title": "MagicSchool AI raises nearly $63 million as educator-founded edtech platform scales in K-12",
-      "summary": "Khan describes the company as a vertical AI provider for K-12, positioned to give school districts a safer and more controlled environment for&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/financial-news/show/2907751-magicschool-ai-raises-63m-edtech-k12/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1FNDQue6Z8Ce_x_SRRtPQn",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-05T11:16:26Z",
       "category": "Product"
     },
     {
