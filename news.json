@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-07 00:51 UTC",
+  "updated_at": "2026-08-07 08:53 UTC",
   "summary": {
-    "Funding": 3,
-    "Acquisition": 0,
-    "Product": 0,
-    "Startup": 0
+    "Funding": 7,
+    "Acquisition": 2,
+    "Product": 2,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Wild Zebra Raises $6M Seed - The SaaS News",
+      "summary": "Founded in 2024 by CEO Edan Shahar and CTO Erik Selberg, Wild Zebra is an edtech company that provides an AI powered learning platform for&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/wild-zebra-raises-6m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2j4YOJv8EI2SPaB24CsqU6",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-07T07:21:15Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Edtech Klassroom's Shares List At 7% Premium To Issue Price - Inc42",
+      "summary": "The listing offers a fresh test of public market appetite for edtech companies, a sector that has seen limited IPO activity amid funding slowdowns and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/edtech-klassrooms-shares-list-at-7-premium-to-issue-price/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0pYjRdk0xVljxkhWsfnAxn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-07T05:55:15Z",
+      "category": "Funding"
+    },
     {
       "title": "The SA EdTech that beat Silicon Valley. Plus: Nedbank's quiet comeback - YouTube",
       "summary": "... EdTech list, via a Silicon Valley startup that lost to TikTok and taught ... Company. Norges Bank Investment Management•757K views &middot; 40:46. Go to&nbsp;...",
@@ -24,12 +40,76 @@
       "category": "Funding"
     },
     {
-      "title": "MagicSchool Raises $45M Series B - The SaaS News",
-      "summary": "MagicSchool, based in the United States, is an AI-powered edtech platform designed to support educators and students. The company has raised $45&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/magicschool-raises-45m-series-b/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0J9MjTmtb6PhrKsk5YPwqm",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-06T06:41:16Z",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
+      "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
       "category": "Funding"
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "category": "Funding"
+    },
+    {
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Sun, 15 Mar 2026 17:19:47 +0000",
+      "category": "Acquisition"
+    },
+    {
+      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
+      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Thu, 15 Jan 2026 00:04:46 +0000",
+      "category": "Funding"
+    },
+    {
+      "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
+      "summary": "Coursera and Udemy, two of the biggest names in online learning, are combining platforms next year.",
+      "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 17 Dec 2025 15:58:22 +0000",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks",
+      "summary": "Unacademy's valuation has dropped by over 85% from its pandemic-era peak price tag of $3.5 billion, its founder said.",
+      "link": "https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 10 Dec 2025 14:29:12 +0000",
+      "category": "Startup"
+    },
+    {
+      "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
+      "summary": "Nick Gross says that Find Your Grind gives students the tools to explore what careers are out there and what paths suit their strengths, interests, and visions for what they want their futures to look like.",
+      "link": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Tue, 25 Nov 2025 18:49:20 +0000",
+      "category": "Product"
+    },
+    {
+      "title": "Physics Wallah enjoys a rosy IPO day, bucking the broader slowdown in Indian edtech",
+      "summary": "The Indian edtech startup ended its first day as a public company on a high, with its shares closing 44% higher than they were listed for, indicating that the country's edtech sector may still recover after years of...",
+      "link": "https://techcrunch.com/2025/11/18/physics-wallah-enjoys-a-rosy-ipo-day-bucking-the-broader-slowdown-in-indian-edtech/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Tue, 18 Nov 2025 15:36:09 +0000",
+      "category": "Startup"
+    },
+    {
+      "title": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
+      "summary": "Oboe is a new AI-powered learning platform that lets you create personalized courses on any topic with a prompt.",
+      "link": "https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 10 Sep 2025 14:27:55 +0000",
+      "category": "Product"
     }
   ]
 }
