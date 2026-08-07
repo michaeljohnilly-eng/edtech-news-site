@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-07 08:53 UTC",
+  "updated_at": "2026-08-07 20:35 UTC",
   "summary": {
-    "Funding": 7,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Andrew Ng's Kira Learning puts AI agents in K-12 classrooms | AI Weekly",
+      "summary": "Ng has tried out this edtech, data, AI and platforms business model for years now: &quot;Kira's business model banks on classrooms' growing embrace of not&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/alerts/andrew-ngs-kira-learning-puts-ai-agents-in-k-12-classrooms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1fZNYDgc-YU5mABYb9i20W",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-07T17:43:51Z",
+      "category": "Product"
+    },
+    {
+      "title": "9IX Stock Price Quote | Morningstar",
+      "summary": "eEducation Albert AB is an application-based education platform for children. The company develops and sells edtech products for schools and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/stocks/xfra/9-ix/quote&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11W0SrBGFwPBLP8Xv9CkE_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-07T09:01:22Z",
+      "category": "Product"
+    },
     {
       "title": "Wild Zebra Raises $6M Seed - The SaaS News",
       "summary": "Founded in 2024 by CEO Edan Shahar and CTO Erik Selberg, Wild Zebra is an edtech company that provides an AI powered learning platform for&nbsp;...",
@@ -29,14 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DWCjdQJQ3Osc&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0e4dglROTouqRd63dG2HJz",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-06T22:02:45Z",
-      "category": "Funding"
-    },
-    {
-      "title": "This startup just raised $6M for an AI tutor that helps kids figure it out themselves - GeekWire",
-      "summary": "The idea is “to catch kids being good, too,” said edtech veteran Edan Shahar, the company's CEO and co-founder. Latest funding: The oversubscribed&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geekwire.com/2026/this-startup-just-raised-6m-for-an-ai-tutor-that-helps-kids-figure-it-out-themselves/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2AZInn9SF2mhI4umntVZil",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-06T14:14:48Z",
       "category": "Funding"
     },
     {
