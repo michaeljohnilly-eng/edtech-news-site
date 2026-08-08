@@ -1,27 +1,19 @@
 {
-  "updated_at": "2026-08-08 08:34 UTC",
+  "updated_at": "2026-08-08 20:23 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "Andrew Ng's Kira Learning puts AI agents in K-12 classrooms | AI Weekly",
-      "summary": "Ng has tried out this edtech, data, AI and platforms business model for years now: &quot;Kira's business model banks on classrooms' growing embrace of not&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/alerts/andrew-ngs-kira-learning-puts-ai-agents-in-k-12-classrooms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1fZNYDgc-YU5mABYb9i20W",
+      "title": "Growth Sense's first investment goes public as Klassroom Edutech lists on BSE SME platform",
+      "summary": "Mumbai-based edtech company Klassroom Edutech got listed on the BSE SME platform on August 7, marking its entry into the public markets. The stock&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/growth-senses-first-investment-goes-public-as-klassroom-edutech-lists-on-bse-sme-platform-12242788&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lZVXXBXHDM_k6L8k8SZ6J",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-07T17:43:51Z",
-      "category": "Product"
-    },
-    {
-      "title": "9IX Stock Price Quote | Morningstar",
-      "summary": "eEducation Albert AB is an application-based education platform for children. The company develops and sells edtech products for schools and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/stocks/xfra/9-ix/quote&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11W0SrBGFwPBLP8Xv9CkE_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-07T09:01:22Z",
-      "category": "Product"
+      "published": "2026-08-08T14:16:24Z",
+      "category": "Funding"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
