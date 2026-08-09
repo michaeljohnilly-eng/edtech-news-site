@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-09 08:35 UTC",
+  "updated_at": "2026-08-09 20:26 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "How to Build an Education Platform That Supports People Through Different Stages of Life",
+      "summary": "In this interview, Timur Ibragimov explains why the future of education extends far beyond individual courses, how the role of edtech companies is&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackernoon.com/how-to-build-an-education-platform-that-supports-people-through-different-stages-of-life&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1uIIeGM2l30g1NQ5pjvtAu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-09T15:08:43Z",
+      "category": "Product"
+    },
     {
       "title": "Klassroom Edutech Lists on BSE SME at 7% Premium - Whalesbook",
       "summary": "The company raised Rs 39.04 crore to fund ... Investors are now tracking how the company manages growth in the highly competitive edtech sector.",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.whalesbook.com/news/English/technology/Klassroom-Edutech-Lists-on-BSE-SME-at-7percent-Premium/6a773fb74f43536819729392&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0O-0vKQbzzSTMe_Ms-7c_e",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-08T20:49:17Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Growth Sense's first investment goes public as Klassroom Edutech lists on BSE SME platform",
-      "summary": "Mumbai-based edtech company Klassroom Edutech got listed on the BSE SME platform on August 7, marking its entry into the public markets. The stock&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/growth-senses-first-investment-goes-public-as-klassroom-edutech-lists-on-bse-sme-platform-12242788&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1lZVXXBXHDM_k6L8k8SZ6J",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-08T14:16:24Z",
       "category": "Funding"
     },
     {
