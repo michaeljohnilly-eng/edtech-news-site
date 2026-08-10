@@ -1,18 +1,42 @@
 {
-  "updated_at": "2026-08-10 09:14 UTC",
+  "updated_at": "2026-08-10 20:36 UTC",
   "summary": {
-    "Funding": 3,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 2
+    "Product": 4,
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "How to Build an Education Platform That Supports People Through Different Stages of Life",
-      "summary": "In this interview, Timur Ibragimov explains why the future of education extends far beyond individual courses, how the role of edtech companies is&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackernoon.com/how-to-build-an-education-platform-that-supports-people-through-different-stages-of-life&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1uIIeGM2l30g1NQ5pjvtAu",
+      "title": "UMAMI backs new AI learning platform with $1M in Egypt edtech push | Dealroom.co",
+      "summary": "What's the deal? Egypt-based edtech company UMAMI E-Learning Sol…",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/umami-backs-new-ai-learning-platform-with-1m-in-egypt-edtech-push&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0o4VLYc8HOJMRc_9AZMwce",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-09T15:08:43Z",
+      "published": "2026-08-10T16:55:56Z",
+      "category": "Product"
+    },
+    {
+      "title": "SYA Reports 94% Satisfaction Rate, Reaffirms No-AI Writing Policy - citybuzz -",
+      "summary": "The company, which serves students at institutions including the ... EdTech, education, Houston, TX, science and technology, Startups, Texas&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybuzz.co/2026/08/10/sya-reports-94-satisfaction-rate-reaffirms-no-ai-writing-policy/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fiyl9BvZn0L-srikCpbPE",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-10T15:07:51Z",
+      "category": "Startup"
+    },
+    {
+      "title": "UMAMI invests $1 million in new AI-powered learning platform - Wamda",
+      "summary": "Egypt-based edtech company UMAMI E-Learning Solutions has launched LOS (Learning Operating System), backed by a phased investment plan...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wamda.com/2026/08/umami-invests-1-million-new-ai-powered-learning-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2n4qcVNMAsglBzd4pPYNla",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-10T13:02:42Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Freshers Hiring Intent Touches 75% in HY2 2026, Though Growth Remains Uneven Across ...",
+      "summary": "TeamLease EdTech is India's leading Learning and Employability solutions company. It helps Higher Education Institutions (HEIs) launch, run, and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiaeducationdiary.in/freshers-hiring-intent-touches-75-in-hy2-2026-though-growth-remains-uneven-across-industries-teamlease-edtech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1GsUiY2JBFIrJ00Q74GPVB",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-10T08:38:48Z",
       "category": "Product"
     },
     {
