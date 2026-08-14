@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-14 09:02 UTC",
+  "updated_at": "2026-08-14 20:25 UTC",
   "summary": {
-    "Funding": 5,
-    "Acquisition": 2,
-    "Product": 5,
+    "Funding": 4,
+    "Acquisition": 3,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Jianzhi Education Technology launches $5.4M ADS offering to fund operations",
+      "summary": "The China-based edtech company plans to use the net proceeds for working capital and general corporate purposes. This includes supporting business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/jianzhi-education-technology-launches-5-4m-ads-offering-to-fund-operations&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw108bL7UFOJTgti_Wr7XvF9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-14T13:25:10Z",
+      "category": "Product"
+    },
     {
       "title": "Rejected by Investors Nearly 100 Times: This Education AI Company Secures $63 Million in Funding",
       "summary": "This experience once confused Khan. At that time, some edtech companies of similar size to MagicSchool had received millions of dollars in seed&nbsp;...",
@@ -16,36 +24,12 @@
       "category": "Funding"
     },
     {
-      "title": "Airability secures KRW 3 billion in upfront funding to build AI interceptors for “10% the price ...",
-      "summary": "... company. Such fast growth has been driven by the capabilities of a ... 'K-Pop EdTech' company Hallim World secures 200 million won in seed&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kspost.biz/en-us/articles/2835&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3uAcS6Xk8oLKiAr6COfxn0",
+      "title": "Company Adit EdTech Acquisition Corp. CBOE - MarketScreener",
+      "summary": "Adit EdTech Acquisition Corp.: Company profile, business summary, shareholders, managers, financial ratings, industry, sector and market&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketscreener.com/quote/stock/ADIT-EDTECH-ACQUISITION-C-117540801/company/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw33g1vp7NLHdeYBjsvUOZid",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-13T14:32:21Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Cengage Expands Higher Education Learning Platforms with Integrated AI Capabilities to ...",
-      "summary": "BOSTON--(BUSINESS WIRE)--Aug 13, 2026--. Cengage, a global edtech company, today announced new capabilities across its Higher Education learning&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.caledonianrecord.com/cengage-expands-higher-education-learning-platforms-with-integrated-ai-capabilities-to-strengthen-career-ready-learning/article_f61e1a79-37ee-5898-99c8-8ec8b3654ea6.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2MUwgoxZ2ndsLR6_GrAC99",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-13T12:58:45Z",
-      "category": "Product"
-    },
-    {
-      "title": "Cengage Expands Higher Education Learning Platforms with Integrated AI Capabilities to ...",
-      "summary": "BOSTON--(BUSINESS WIRE)--Aug 13, 2026--. Cengage , a global edtech company, today announced new capabilities across its Higher Education learning&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://lasvegassun.com/news/2026/aug/13/cengage-expands-higher-education-learning-platform/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3CPhOL_UVE7j5X7NllffG4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-13T12:35:04Z",
-      "category": "Product"
-    },
-    {
-      "title": "Cengage Expands Higher Education Learning Platforms with Integrated AI Capabilities to ...",
-      "summary": "BOSTON--(BUSINESS WIRE)--Cengage, a global edtech company, today announced new capabilities across its Higher Education learning platforms that&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260813073117/en/Cengage-Expands-Higher-Education-Learning-Platforms-with-Integrated-AI-Capabilities-to-Strengthen-Career-Ready-Learning&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3ncTdqZeDcine64u1jovio",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-13T12:33:59Z",
-      "category": "Product"
+      "published": "2026-08-13T16:34:55Z",
+      "category": "Acquisition"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
