@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-13 20:37 UTC",
+  "updated_at": "2026-08-14 09:02 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 2,
     "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Rejected by Investors Nearly 100 Times: This Education AI Company Secures $63 Million in Funding",
+      "summary": "This experience once confused Khan. At that time, some edtech companies of similar size to MagicSchool had received millions of dollars in seed&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/3937907925040262&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3ZUgSITHzlkru8kPoS8YLK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-14T03:15:46Z",
+      "category": "Funding"
+    },
     {
       "title": "Airability secures KRW 3 billion in upfront funding to build AI interceptors for “10% the price ...",
       "summary": "... company. Such fast growth has been driven by the capabilities of a ... 'K-Pop EdTech' company Hallim World secures 200 million won in seed&nbsp;...",
