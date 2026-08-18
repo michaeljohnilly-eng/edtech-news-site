@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-17 20:20 UTC",
+  "updated_at": "2026-08-18 08:30 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 3,
-    "Product": 4,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "daylight AG Unveils Advanced Course Management Software Features for Swiss Schools",
+      "summary": "... educational technology company, unveils new features within its integrated software platform that address evolving administrative requirements for&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.desmoinesregister.com/press-release/story/112872/daylight-ag-unveils-advanced-course-management-software-features-for-swiss-schools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw39AhFcQAYJxlriLwtWbPNy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-17T21:01:06Z",
+      "category": "Product"
+    },
     {
       "title": "Mattilda Targets US$40 Million Revenue to Scale EdTech Platform - Mexico Business News",
       "summary": "—— &middot; Jesús Lanza, Chief Executive Officer and Co-Founder, Mattilda, emphasized the company's evolution from a specialized tuition financing provider&nbsp;...",
