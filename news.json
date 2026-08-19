@@ -1,26 +1,34 @@
 {
-  "updated_at": "2026-08-18 20:17 UTC",
+  "updated_at": "2026-08-19 08:31 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 2,
     "Product": 4,
-    "Startup": 2
+    "Startup": 3
   },
   "articles": [
     {
-      "title": "Neo4j Startup Program Powers India's Next Wave of AI-Native Startups - Deccan Chronicle",
-      "summary": "... edtech, and sports technology building their next-generation products on its platform. ... Launched as part of the company's $100 million&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/technology/neo4j-startup-program-powers-indias-next-wave-of-ai-native-startups-1980068&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0h0f3ahcEYoAznaW2WOwSQ",
+      "title": "Edcafe AI Review: The Teacher Tool That'll Save Your Sunday - Unite.AI",
+      "summary": "Built by Inknoe, an EdTech company with over a decade of classroom experience rather than a brand new startup with no track record. Complies with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.unite.ai/edcafe-ai-review/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw35pENW9pfQQMY8XjnZFUN-",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-18T06:21:14Z",
+      "published": "2026-08-19T03:14:38Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Synap adds AI-assisted proctoring to its online exam platform - EdTech Innovation Hub",
+      "summary": "Leeds-based edtech company Synap has released Synoptic, an integrated online exam proctoring system combining configurable monitoring, AI-assisted&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/synap-adds-ai-assisted-proctoring-to-its-online-exam-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jH1vE0AmEH_uX8O2UXUHg",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-18T23:47:23Z",
       "category": "Product"
     },
     {
-      "title": "daylight AG Unveils Advanced Course Management Software Features for Swiss Schools",
-      "summary": "... educational technology company, unveils new features within its integrated software platform that address evolving administrative requirements for&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.desmoinesregister.com/press-release/story/112872/daylight-ag-unveils-advanced-course-management-software-features-for-swiss-schools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw39AhFcQAYJxlriLwtWbPNy",
+      "title": "LPT EdTech Announces Free Coaching for BPL, EBC &amp; Needy Students, Supporting PM ...",
+      "summary": "ANI will not be responsible in any way for the content of the same.) Disclaimer: No Business Standard Journalist was involved in creation of this&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/content/press-releases-ani/lpt-edtech-announces-free-coaching-for-bpl-ebc-needy-students-supporting-pm-modi-s-red-fort-announcement-126081900007_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw06RoqlzwXZ12BqYAekmyxB",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-17T21:01:06Z",
+      "published": "2026-08-18T19:16:22Z",
       "category": "Product"
     },
     {
