@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-19 08:31 UTC",
+  "updated_at": "2026-08-19 20:20 UTC",
   "summary": {
-    "Funding": 3,
-    "Acquisition": 2,
-    "Product": 4,
+    "Funding": 5,
+    "Acquisition": 3,
+    "Product": 5,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Johns Hopkins Engineering, Great Learning Launch Agentic AI Certificate Program | citybiz",
+      "summary": "Johns Hopkins Whiting School of Engineering and global edtech company ... The collaboration comes as companies explore moving generative AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybiz.co/article/891791/johns-hopkins-engineering-great-learning-launch-agentic-ai-certificate-program/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2hVlnjsyzsIIUnwBJm81Q3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T20:01:04Z",
+      "category": "Product"
+    },
+    {
+      "title": "Vistria-backed Risepoint acquires healthcare edtech Keypath's North American operations",
+      "summary": "Risepoint, an edtech company that's backed by The Vistria Group, has acquired healthcare-focused firm Keypath Education's North American&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pehub.com/vistria-backed-risepoint-acquires-healthcare-edtech-keypaths-north-american-operations/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3SsydLZQ00nkE6pkp9NtzP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T17:00:21Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Saudi EdTech Startup Raises $3 Million Pre-Series A Led by Rua Growth Fund",
+      "summary": "Saudi education technology company AILA has raised $3 million in a Pre-Series A funding round.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fintechgate.net/249412&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Dleqlj-s-kNLX0xI-eDRt",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T10:24:49Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Saudi EdTech company AILA raises $3mln in pre-series A funding | ZAWYA",
+      "summary": "RIYADH, SAUDI ARABIA: AILA, a Saudi education technology company focused on AI-powered personalized learning, has raised US$3 million in a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/companies-news/saudi-edtech-company-aila-raises-3mln-in-pre-series-a-funding-460943&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw396KkNETqasSxW2Az5tI1r",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T09:34:53Z",
+      "category": "Funding"
+    },
     {
       "title": "Edcafe AI Review: The Teacher Tool That'll Save Your Sunday - Unite.AI",
       "summary": "Built by Inknoe, an EdTech company with over a decade of classroom experience rather than a brand new startup with no track record. Complies with&nbsp;...",
