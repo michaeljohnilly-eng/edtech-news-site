@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-19 20:20 UTC",
+  "updated_at": "2026-08-20 08:31 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 7,
     "Acquisition": 3,
-    "Product": 5,
-    "Startup": 3
+    "Product": 4,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Johns Hopkins Whiting School of Engineering Collaborates With Great Learning To Launch ...",
+      "summary": "Baltimore, MARYLAND, Aug. 19, 2026 (GLOBE NEWSWIRE) -- Great Learning, a leading global edtech company, has launched a Certificate Program in Ag..",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/johns-hopkins-whiting-school-of-engineering-collaborates-with-great-learning-to-launch-certificate-program-in-agentic-ai-1036476043&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3me-rFPa13JTIbHvM5HIgR",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T20:25:34Z",
+      "category": "Product"
+    },
     {
       "title": "Johns Hopkins Engineering, Great Learning Launch Agentic AI Certificate Program | citybiz",
       "summary": "Johns Hopkins Whiting School of Engineering and global edtech company ... The collaboration comes as companies explore moving generative AI&nbsp;...",
@@ -16,12 +24,28 @@
       "category": "Product"
     },
     {
+      "title": "Saudi's AILA Raises USD 3M to Scale AI-Driven EdTech - WAYA Media",
+      "summary": "The Saudi EdTech company will use the funding to expand into new markets and develop its AI powered personalized learning platform.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://waya.media/saudis-aila-raises-usd-3m-to-scale-ai-driven-edtech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0yTN3p_Wh8fWP40-lY0Rg1",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T19:00:57Z",
+      "category": "Funding"
+    },
+    {
       "title": "Vistria-backed Risepoint acquires healthcare edtech Keypath's North American operations",
       "summary": "Risepoint, an edtech company that's backed by The Vistria Group, has acquired healthcare-focused firm Keypath Education's North American&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pehub.com/vistria-backed-risepoint-acquires-healthcare-edtech-keypaths-north-american-operations/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3SsydLZQ00nkE6pkp9NtzP",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-19T17:00:21Z",
       "category": "Acquisition"
+    },
+    {
+      "title": "Saudi EdTech Company AILA Raises US$3 Million in Pre-Series A Funding | إنت عربي",
+      "summary": "AILA, a Saudi education technology company focused on Al-powered personalized learning, has raised US$3 million in a Pre-Series A funding round.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/08/saudi-edtech-company-aila-raises-us3-million-in-pre-series-a-funding/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xY0EI9viKbJeuqrEvilSt",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-19T11:31:32Z",
+      "category": "Funding"
     },
     {
       "title": "Saudi EdTech Startup Raises $3 Million Pre-Series A Led by Rua Growth Fund",
@@ -38,30 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-19T09:34:53Z",
       "category": "Funding"
-    },
-    {
-      "title": "Edcafe AI Review: The Teacher Tool That'll Save Your Sunday - Unite.AI",
-      "summary": "Built by Inknoe, an EdTech company with over a decade of classroom experience rather than a brand new startup with no track record. Complies with&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.unite.ai/edcafe-ai-review/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw35pENW9pfQQMY8XjnZFUN-",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-19T03:14:38Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Synap adds AI-assisted proctoring to its online exam platform - EdTech Innovation Hub",
-      "summary": "Leeds-based edtech company Synap has released Synoptic, an integrated online exam proctoring system combining configurable monitoring, AI-assisted&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/synap-adds-ai-assisted-proctoring-to-its-online-exam-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0jH1vE0AmEH_uX8O2UXUHg",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-18T23:47:23Z",
-      "category": "Product"
-    },
-    {
-      "title": "LPT EdTech Announces Free Coaching for BPL, EBC &amp; Needy Students, Supporting PM ...",
-      "summary": "ANI will not be responsible in any way for the content of the same.) Disclaimer: No Business Standard Journalist was involved in creation of this&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/content/press-releases-ani/lpt-edtech-announces-free-coaching-for-bpl-ebc-needy-students-supporting-pm-modi-s-red-fort-announcement-126081900007_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw06RoqlzwXZ12BqYAekmyxB",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-18T19:16:22Z",
-      "category": "Product"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
