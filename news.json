@@ -1,67 +1,27 @@
 {
-  "updated_at": "2026-08-21 08:34 UTC",
+  "updated_at": "2026-08-21 20:19 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 3,
-    "Product": 4,
-    "Startup": 5
+    "Acquisition": 2,
+    "Product": 3,
+    "Startup": 2
   },
   "articles": [
     {
-      "title": "upGrad set to close acquisition of edtech rival Unacademy in ₹1,955 crore deal shortly",
-      "summary": "Temasek, SoftBank, Tiger Global — everyone wanted in. Valuation: $3.44 billion. Fast forward to 2026. The same company is being absorbed for roughly&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fenado.ai/articles/upgrad-set-to-close-acquisition-of-edtech-rival-unacademy-in-1955-crore-deal-shortly&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3SL2I8q0LRscEoS0j9LbqR",
+      "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools - Inc42",
+      "summary": "... edtech companies in India. App Launched. Over the longer term, the integration of such features into widely used Google products could influence&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/google-rolls-out-ai-powered-jee-neet-preparation-tools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11L2daITHU5TDVjel4i3M6",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-20T11:42:01Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Education Technology Market Shifts From Niche Demand - openPR.com",
-      "summary": "The company's platform strategy illustrates the growing importance of measurable learner activity and institution wide visibility in software&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4608469/education-technology-market-shifts-from-niche-demand&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Vb95CZkPsdapBdGU3HKa-",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-20T10:05:02Z",
+      "published": "2026-08-21T12:01:10Z",
       "category": "Product"
     },
     {
-      "title": "Saudi EdTech AILA Raises $3 Million Pre-Series A Round - Cairo Scene",
-      "summary": "Saudi education technology company AILA has raised $3 million in a Pre-Series A round led by Rua Growth Fund, with participation from Jo Academy,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cairoscene.com/Business/Saudi-EdTech-AILA-Raises-3-Million-Pre-Series-A-Round&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0_MGQ9Tfg6vyNAGiEV38vp",
+      "title": "Swiss edtech Studyond raises $2.3M to connect students with companies | Dealroom.co",
+      "summary": "Swiss startup Studyond has raised 2 million Swiss francs in a new funding round. The company, which spun out from the University of St. Gallen and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/swiss-edtech-studyond-raises-2-3m-to-connect-students-with-companies&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0vOV2PcFsiAsINAwsJNOHv",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-20T01:03:06Z",
+      "published": "2026-08-21T08:39:00Z",
       "category": "Funding"
-    },
-    {
-      "title": "Neo4j Powers India's Next Wave of AI-Native Startups Through Its Program - Siliconindia",
-      "summary": "... companies across fintech, healthtech, legaltech, edtech, compliance, and sports technology ... The company's strategy has gained additional&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/news/general/neo4j-powers-indias-next-wave-of-ainative-startups-through-its-program-nid-241973-cid-1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3VbZrMcQhnDBVwACQbZ4PM",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-20T01:02:18Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Top 5 EdTech Startups in Africa 2026 - Techeconomy",
-      "summary": "Founded in Lagos in 2022, Codar has grown from a small technology-training centre into a major African tech education brand. The company says it has&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techeconomy.ng/top-5-edtech-startups-in-africa&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0YU5qX7tIiM-_eQU02MEmT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-19T22:19:04Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Johns Hopkins Whiting School of Engineering Collaborates With Great Learning To Launch ...",
-      "summary": "... Learning, a leading global edtech company, has launched a Certificate Program in Agentic AI in collaboration w.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.finance.yahoo.com/news/johns-hopkins-whiting-school-engineering-194500019.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3KzNIlpSxcGX_ofx7giIjU",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-19T19:54:40Z",
-      "category": "Product"
-    },
-    {
-      "title": "Building an AI-Ready Bharat: Edtech Startup UNIVO Education Joins PM's Vision to Skill 10 ...",
-      "summary": "The company also plans to expand its therapist training programme. Get SET Early is an eye-tracking autism screening technology for which Butterfly&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/building-an-ai-ready-bharat-edtech-startup-univo-education-joins-pms-vision-to-skill-10-million-youth.60837&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0qhkcbir8JGfZ1npqlTE1V",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-19T12:52:48Z",
-      "category": "Startup"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
