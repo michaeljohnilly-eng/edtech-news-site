@@ -1,34 +1,66 @@
 {
-  "updated_at": "2026-08-22 08:22 UTC",
+  "updated_at": "2026-08-22 20:16 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 2,
-    "Product": 3,
+    "Acquisition": 5,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Startup Wrap: MENA founders secure millions as new growth capital enters the market",
+      "summary": "Saudi edtech AILA raises $3 million. Education technology company AILA has raised $3 million in a pre-series A round led by Rua Growth Fund, with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/node/2655509/amp&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0paIPG39ivKP_qeLuzfWXo",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T13:26:16Z",
+      "category": "Funding"
+    },
+    {
+      "title": "PhysicsWallah to launch personal AI tutoring services by next quarter - MediaNama",
+      "summary": "It is to be noted that the edtech company already offers in-batch AI tutoring alongside faculty via AI Guru. With the new offering, PhysicsWallah&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw02tf7oI7YdGXHsRkLi6o5d",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T11:39:28Z",
+      "category": "Product"
+    },
+    {
+      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ...",
+      "summary": "... EdTech startup – Digital Benchers. Infonative Solutions is a BSE-listed Learning Transformation company that provides solutions to large&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/ptiprnews/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3jpQoxX_0-oghg2116MJUw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T10:44:23Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ... - PTI",
+      "summary": "... Companies in India. INFONATIVE SOLUTIONS LIMITED ANNOUNCED THAT IT HAS ACQUIRED A MAJORITY STAKE IN THE FAST-GROWING EDTECH STARTUP – DIGITAL BENCHERS&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ptinews.com/story/business/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india/3993209&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw18KRlhNPYR7LPL687VxbMS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T10:30:24Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ...",
+      "summary": "New Delhi [India], August 22: Infonative Solutions Limited announced that it has acquired a majority stake in the fast-growing EdTech startup&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/content/press-releases-ani/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india-126082200512_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw23jarzb6yrksVVjWGyUhXq",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T10:13:27Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Digital Question Paper Security: How EdTech Is Transforming University Exams",
+      "summary": "... company. Such systems aim to protect question papers from preparation ... Universities turn to secure digital question papers:EdTech platforms use&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bhaskarenglish.in/career/news/universities-secure-digital-question-papers-edtech-encryption-authentication-examination-security-distributed-centres-138800612.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3F1G3jwJanwFYlRxItSrBk",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T06:51:37Z",
+      "category": "Product"
+    },
     {
       "title": "Why K–12 Leaders Should Be Advocating for E-Rate Funding Now | EdTech Magazine",
       "summary": "The primary federal funding source for district connectivity is under review, and it's time for districts to speak up. ... Amy Passow is a business&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/08/why-every-k-12-leader-should-be-paying-attention-e-rate-funding-right-now&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ai1HSyZx4e_A6M6VK_6wm",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-21T20:11:48Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools - Inc42",
-      "summary": "... edtech companies in India. App Launched. Over the longer term, the integration of such features into widely used Google products could influence&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/google-rolls-out-ai-powered-jee-neet-preparation-tools/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11L2daITHU5TDVjel4i3M6",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-21T12:01:10Z",
-      "category": "Product"
-    },
-    {
-      "title": "Swiss edtech Studyond raises $2.3M to connect students with companies | Dealroom.co",
-      "summary": "Swiss startup Studyond has raised 2 million Swiss francs in a new funding round. The company, which spun out from the University of St. Gallen and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/swiss-edtech-studyond-raises-2-3m-to-connect-students-with-companies&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0vOV2PcFsiAsINAwsJNOHv",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-21T08:39:00Z",
       "category": "Funding"
     },
     {
