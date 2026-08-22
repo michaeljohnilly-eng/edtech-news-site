@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-21 20:19 UTC",
+  "updated_at": "2026-08-22 08:22 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 2,
     "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Why K–12 Leaders Should Be Advocating for E-Rate Funding Now | EdTech Magazine",
+      "summary": "The primary federal funding source for district connectivity is under review, and it's time for districts to speak up. ... Amy Passow is a business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/08/why-every-k-12-leader-should-be-paying-attention-e-rate-funding-right-now&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ai1HSyZx4e_A6M6VK_6wm",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-21T20:11:48Z",
+      "category": "Funding"
+    },
     {
       "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools - Inc42",
       "summary": "... edtech companies in India. App Launched. Over the longer term, the integration of such features into widely used Google products could influence&nbsp;...",
