@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-22 20:16 UTC",
+  "updated_at": "2026-08-23 08:23 UTC",
   "summary": {
-    "Funding": 5,
-    "Acquisition": 5,
+    "Funding": 4,
+    "Acquisition": 6,
     "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ... - News",
+      "summary": "New Delhi [India], August 22: Infonative Solutions Limited announced that it has acquired a majority stake in the fast-growing EdTech startup -&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.webindia123.com/news/Articles/Business/20260822/4489683.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wUlVfQLX8sbrLqtE063la",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-22T15:28:34Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Startup Wrap: MENA founders secure millions as new growth capital enters the market",
       "summary": "Saudi edtech AILA raises $3 million. Education technology company AILA has raised $3 million in a pre-series A round led by Rua Growth Fund, with&nbsp;...",
@@ -54,14 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-22T06:51:37Z",
       "category": "Product"
-    },
-    {
-      "title": "Why K–12 Leaders Should Be Advocating for E-Rate Funding Now | EdTech Magazine",
-      "summary": "The primary federal funding source for district connectivity is under review, and it's time for districts to speak up. ... Amy Passow is a business&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/08/why-every-k-12-leader-should-be-paying-attention-e-rate-funding-right-now&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ai1HSyZx4e_A6M6VK_6wm",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-21T20:11:48Z",
-      "category": "Funding"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
