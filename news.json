@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-23 08:23 UTC",
+  "updated_at": "2026-08-23 20:16 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 6,
-    "Product": 4,
+    "Acquisition": 3,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Aramco Ventures Co-Leads Twin1 AI's USD 20M Seed Round - WAYA Media",
+      "summary": "The Saudi EdTech company will use the funding to expand into new markets and develop its AI powered personalized learning platform. Saudi education&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://waya.media/aramco-ventures-co-leads-twin1-ais-usd-20m-seed-round/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2UksZwJhpON2Na-Nh4MYeQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-23T10:48:34Z",
+      "category": "Funding"
+    },
     {
       "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ... - News",
       "summary": "New Delhi [India], August 22: Infonative Solutions Limited announced that it has acquired a majority stake in the fast-growing EdTech startup -&nbsp;...",
@@ -14,54 +22,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-22T15:28:34Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Startup Wrap: MENA founders secure millions as new growth capital enters the market",
-      "summary": "Saudi edtech AILA raises $3 million. Education technology company AILA has raised $3 million in a pre-series A round led by Rua Growth Fund, with&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/node/2655509/amp&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0paIPG39ivKP_qeLuzfWXo",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T13:26:16Z",
-      "category": "Funding"
-    },
-    {
-      "title": "PhysicsWallah to launch personal AI tutoring services by next quarter - MediaNama",
-      "summary": "It is to be noted that the edtech company already offers in-batch AI tutoring alongside faculty via AI Guru. With the new offering, PhysicsWallah&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw02tf7oI7YdGXHsRkLi6o5d",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T11:39:28Z",
-      "category": "Product"
-    },
-    {
-      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ...",
-      "summary": "... EdTech startup – Digital Benchers. Infonative Solutions is a BSE-listed Learning Transformation company that provides solutions to large&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/ptiprnews/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3jpQoxX_0-oghg2116MJUw",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T10:44:23Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ... - PTI",
-      "summary": "... Companies in India. INFONATIVE SOLUTIONS LIMITED ANNOUNCED THAT IT HAS ACQUIRED A MAJORITY STAKE IN THE FAST-GROWING EDTECH STARTUP – DIGITAL BENCHERS&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ptinews.com/story/business/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india/3993209&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw18KRlhNPYR7LPL687VxbMS",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T10:30:24Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Infonative Solutions Acquires Digital Benchers, Infonative Becomes One of the Best Small ...",
-      "summary": "New Delhi [India], August 22: Infonative Solutions Limited announced that it has acquired a majority stake in the fast-growing EdTech startup&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/content/press-releases-ani/infonative-solutions-acquires-digital-benchers-infonative-becomes-one-of-the-best-small-cap-e-learning-companies-in-india-126082200512_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw23jarzb6yrksVVjWGyUhXq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T10:13:27Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Digital Question Paper Security: How EdTech Is Transforming University Exams",
-      "summary": "... company. Such systems aim to protect question papers from preparation ... Universities turn to secure digital question papers:EdTech platforms use&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bhaskarenglish.in/career/news/universities-secure-digital-question-papers-edtech-encryption-authentication-examination-security-distributed-centres-138800612.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3F1G3jwJanwFYlRxItSrBk",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-22T06:51:37Z",
-      "category": "Product"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
