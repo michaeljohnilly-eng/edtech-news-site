@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-08-24 08:41 UTC",
+  "updated_at": "2026-08-24 20:24 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 9,
     "Acquisition": 2,
     "Product": 2,
     "Startup": 2
   },
   "articles": [
     {
+      "title": "Finding Funding for Network Modernization in K–12 Schools - EdTech Magazine",
+      "summary": "Amy Passow is a business development manager for K–12 at CDW•G. Listen Pause. 00&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/08/finding-funding-network-modernization-k-12-schools&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0_bPjeBWCKvWp6KQHert_e",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T16:31:56Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Hungarian EdTech BOOKR Raises €6.1M Series A to Expand Global Reach",
+      "summary": "The Hungarian edtech company BOOKR has raised €6.1 million in a Series A funding round led by TCEE Fund IV, advised by 3TS Capital Partners, with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therecursive.com/hungarian-edtech-bookr-raises-eur6-1m-series-a-to-expand-global-reach/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0doHUyg82FwiWjgjFINeuy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T14:27:24Z",
+      "category": "Funding"
+    },
+    {
+      "title": "BOOKR Kids raises €6.1M Series A to push literacy platform into Asia and beyond",
+      "summary": "Hungarian edtech BOOKR Kids has raised €6.1 million in a Series A round ... The company also intends to roll out its Teacher Dashboard and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/bookr-kids-raises-6-1m-series-a-to-push-literacy-platform-into-asia-and-beyond&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2CpFrmmDNRpiI65L799nr_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T09:38:31Z",
+      "category": "Funding"
+    },
+    {
+      "title": "BOOKR Raises €6.1M Series A - The SaaS News",
+      "summary": "Budapest-based edtech company BOOKR has raised €6.1 million in a Series A funding round to support its international expansion and product development&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/bookr-raises-6-1m-series-a/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3GF1BkwPSUE2I6nXkSjm9o",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T09:23:04Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Hungarian edtech BOOKR raises $6.9M Series A to scale literacy platform to millions of ...",
+      "summary": "Hungarian edtech company BOOKR has raised €6.1 million in a Series A round led by TCEE Fund IV, advised by 3TS Capital Partners.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/hungarian-edtech-bookr-raises-6-9m-series-a-to-scale-literacy-platform-to-millions-of-students-globally&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ofcDuPuOBYJaIPysFMj8g",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T08:54:20Z",
+      "category": "Funding"
+    },
+    {
       "title": "Startup Investments Decline to $9.25 Million as AI Leads the Scene | إنت عربي | entARABI",
       "summary": "AILA, a Saudi EdTech company, closed a $3 million Pre-Seed funding round to provide AI-powered educational &middot; solutions.",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/08/startup-investments-decline-to-9-25-million-as-ai-leads-the-scene/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1YIZBXL2Y14LaTXjRyaypB",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-23T23:50:50Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Aramco Ventures Co-Leads Twin1 AI's USD 20M Seed Round - WAYA Media",
-      "summary": "The Saudi EdTech company will use the funding to expand into new markets and develop its AI powered personalized learning platform. Saudi education&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://waya.media/aramco-ventures-co-leads-twin1-ais-usd-20m-seed-round/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2UksZwJhpON2Na-Nh4MYeQ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-23T10:48:34Z",
       "category": "Funding"
     },
     {
