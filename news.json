@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-25 08:35 UTC",
+  "updated_at": "2026-08-25 20:22 UTC",
   "summary": {
-    "Funding": 8,
+    "Funding": 4,
     "Acquisition": 3,
-    "Product": 2,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Boxlight launches platform for education technology resellers - Investing.com",
+      "summary": "... company's education technology solutions. The platform connects stages of the customer process from solution design and proposal development&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/news/company-news/boxlight-launches-platform-for-education-technology-resellers-93CH-4875462&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2yogns_3L8azxWzd9knNmK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-25T14:02:46Z",
+      "category": "Product"
+    },
+    {
+      "title": "Hungary's BOOKR Kids closes €6.1 million Series A for global EdTech expansion",
+      "summary": "BOOKR Kids, a Budapest-based EdTech company behind BOOKR Class, has completed a €6.1 million Series A raise to develop their learning platform&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eu-startups.com/2026/08/hungarys-bookr-kids-closes-e6-1-million-series-a-for-global-edtech-expansion/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1WIbSy2T9QQHEwGsWmjnc6",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-25T07:44:02Z",
+      "category": "Funding"
+    },
     {
       "title": "Edtech exec named higher education commissioner amid college closures - Boston ...",
       "summary": "More than 2,000 Massachusetts students are finding new schools following three college closures. Santos led 2U Inc., which acquired edtech company edX&nbsp;...",
@@ -14,46 +30,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-24T20:44:57Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Finding Funding for Network Modernization in K–12 Schools - EdTech Magazine",
-      "summary": "Amy Passow is a business development manager for K–12 at CDW•G. Listen Pause. 00&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/08/finding-funding-network-modernization-k-12-schools&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0_bPjeBWCKvWp6KQHert_e",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T16:31:56Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Hungarian EdTech BOOKR Raises €6.1M Series A to Expand Global Reach",
-      "summary": "The Hungarian edtech company BOOKR has raised €6.1 million in a Series A funding round led by TCEE Fund IV, advised by 3TS Capital Partners, with&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therecursive.com/hungarian-edtech-bookr-raises-eur6-1m-series-a-to-expand-global-reach/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0doHUyg82FwiWjgjFINeuy",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T14:27:24Z",
-      "category": "Funding"
-    },
-    {
-      "title": "BOOKR Kids raises €6.1M Series A to push literacy platform into Asia and beyond",
-      "summary": "Hungarian edtech BOOKR Kids has raised €6.1 million in a Series A round ... The company also intends to roll out its Teacher Dashboard and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/bookr-kids-raises-6-1m-series-a-to-push-literacy-platform-into-asia-and-beyond&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2CpFrmmDNRpiI65L799nr_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T09:38:31Z",
-      "category": "Funding"
-    },
-    {
-      "title": "BOOKR Raises €6.1M Series A - The SaaS News",
-      "summary": "Budapest-based edtech company BOOKR has raised €6.1 million in a Series A funding round to support its international expansion and product development&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/bookr-raises-6-1m-series-a/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3GF1BkwPSUE2I6nXkSjm9o",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T09:23:04Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Hungarian edtech BOOKR raises $6.9M Series A to scale literacy platform to millions of ...",
-      "summary": "Hungarian edtech company BOOKR has raised €6.1 million in a Series A round led by TCEE Fund IV, advised by 3TS Capital Partners.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/hungarian-edtech-bookr-raises-6-9m-series-a-to-scale-literacy-platform-to-millions-of-students-globally&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ofcDuPuOBYJaIPysFMj8g",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T08:54:20Z",
-      "category": "Funding"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
