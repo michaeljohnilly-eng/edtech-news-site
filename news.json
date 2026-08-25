@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-24 20:24 UTC",
+  "updated_at": "2026-08-25 08:35 UTC",
   "summary": {
-    "Funding": 9,
-    "Acquisition": 2,
+    "Funding": 8,
+    "Acquisition": 3,
     "Product": 2,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Edtech exec named higher education commissioner amid college closures - Boston ...",
+      "summary": "More than 2,000 Massachusetts students are finding new schools following three college closures. Santos led 2U Inc., which acquired edtech company edX&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/boston/news/2026/08/24/santos-higher-education-commission-2u-exec.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nt4KAvO2JynOLG_Bws1Q9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-24T20:44:57Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Finding Funding for Network Modernization in K–12 Schools - EdTech Magazine",
       "summary": "Amy Passow is a business development manager for K–12 at CDW•G. Listen Pause. 00&nbsp;...",
@@ -45,14 +53,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/hungarian-edtech-bookr-raises-6-9m-series-a-to-scale-literacy-platform-to-millions-of-students-globally&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ofcDuPuOBYJaIPysFMj8g",
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-24T08:54:20Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Startup Investments Decline to $9.25 Million as AI Leads the Scene | إنت عربي | entARABI",
-      "summary": "AILA, a Saudi EdTech company, closed a $3 million Pre-Seed funding round to provide AI-powered educational &middot; solutions.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/08/startup-investments-decline-to-9-25-million-as-ai-leads-the-scene/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1YIZBXL2Y14LaTXjRyaypB",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-23T23:50:50Z",
       "category": "Funding"
     },
     {
