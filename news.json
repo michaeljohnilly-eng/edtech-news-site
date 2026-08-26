@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-25 20:22 UTC",
+  "updated_at": "2026-08-26 08:37 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 3,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Physicswallah Block Deal: 1.6% equity worth ₹550 crore changes hands - CNBC TV18",
+      "summary": "Last month, the edtech company's board approved the acquisition of an additional 11% stake in Guiding Light Education Technologies Pvt Ltd&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/market/physicswallah-share-price-equity-worth-rs-550-crore-changes-hands-19977205.htm&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw34cCiJkiUFWWXU7vnh37bD",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-26T03:44:29Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Efekta reaches 5 million learners after three years | ETIH EdTech News",
+      "summary": "Efekta Education has passed five million active learners just three years after launch, as the UK-based AI education company expands its work with&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/efekta-reaches-five-million-learners-three-years-after-launch&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3VB5F8lkA9WM2nLySo2u_3",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-26T00:03:01Z",
+      "category": "Product"
+    },
     {
       "title": "Boxlight launches platform for education technology resellers - Investing.com",
       "summary": "... company's education technology solutions. The platform connects stages of the customer process from solution design and proposal development&nbsp;...",
@@ -22,14 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-25T07:44:02Z",
       "category": "Funding"
-    },
-    {
-      "title": "Edtech exec named higher education commissioner amid college closures - Boston ...",
-      "summary": "More than 2,000 Massachusetts students are finding new schools following three college closures. Santos led 2U Inc., which acquired edtech company edX&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/boston/news/2026/08/24/santos-higher-education-commission-2u-exec.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nt4KAvO2JynOLG_Bws1Q9",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-24T20:44:57Z",
-      "category": "Acquisition"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
