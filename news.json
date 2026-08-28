@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-28 03:59 UTC",
+  "updated_at": "2026-08-28 19:50 UTC",
   "summary": {
     "Funding": 3,
-    "Acquisition": 3,
-    "Product": 3,
+    "Acquisition": 2,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "NetDragon Announces 2026 Interim Financial Results - Macau Business",
+      "summary": "... Company”; Hong Kong ... For more than a decade, NetDragon has also achieved success with its EdTech business both domestically and globally.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://macaubusiness.com/netdragon-announces-2026-interim-financial-results/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2pVRFKzfnKWncX8sgZqrG_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-28T10:50:47Z",
+      "category": "Product"
+    },
     {
       "title": "NetDragon Announces 2026 Interim Financial Results - Thailand Business News",
       "summary": "NetDragon's overseas edtech business entity, currently a U.S.-listed subsidiary named Mynd.ai, is a global leader in interactive technology and its&nbsp;...",
@@ -16,12 +24,12 @@
       "category": "Product"
     },
     {
-      "title": "Infonative Solutions Acquires Digital Benchers - PRLog",
-      "summary": "... EdTech startup – Digital Benchers. - PR13167123. ... Infonative Solutions is a BSE-listed Learning Transformation company that provides solutions to&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prlog.org/13167123-infonative-solutions-acquires-digital-benchers.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1N-Q_GuA943pa4fQczAoM-",
+      "title": "Wayground Aligns K-12 Assessment Platform With Federal Edtech Guidance - TipRanks",
+      "summary": "A LinkedIn post from Wayground (formerly Quizizz) discusses how the company aligns its K-12 assessment platform with recent U.S. Department of&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/private-companies/wayground-aligns-k-12-assessment-platform-with-federal-edtech-guidance&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1nVyxsLXPWbBvElS0Wo42L",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-08-27T11:37:10Z",
-      "category": "Acquisition"
+      "published": "2026-08-27T06:53:25Z",
+      "category": "Product"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
