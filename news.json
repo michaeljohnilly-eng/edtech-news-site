@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-08-27 18:46 UTC",
+  "updated_at": "2026-08-28 03:59 UTC",
   "summary": {
     "Funding": 3,
     "Acquisition": 3,
-    "Product": 2,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "NetDragon Announces 2026 Interim Financial Results - Thailand Business News",
+      "summary": "NetDragon's overseas edtech business entity, currently a U.S.-listed subsidiary named Mynd.ai, is a global leader in interactive technology and its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thailand-business-news.com/pr-news/netdragon-announces-2026-interim-financial-results&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3iX09Kr9BTTVi5jg_Fo1pw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-27T23:20:45Z",
+      "category": "Product"
+    },
     {
       "title": "Infonative Solutions Acquires Digital Benchers - PRLog",
       "summary": "... EdTech startup – Digital Benchers. - PR13167123. ... Infonative Solutions is a BSE-listed Learning Transformation company that provides solutions to&nbsp;...",
