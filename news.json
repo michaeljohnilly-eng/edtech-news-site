@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-31 15:46 UTC",
+  "updated_at": "2026-08-31 23:34 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Houston edtech startup Progress Report launches pilot to identify learning gaps",
+      "summary": "That's why co-founders Alapati “Al” Ware and Estela Montanez launched Progress Report, a Houston-built K-12 learning-intelligence platform designed to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://houston.innovationmap.com/progress-report-edtech-pilot-2677798935.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2OrJInRv9ryB4J2YY1c52f",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-31T17:40:16Z",
+      "category": "Product"
+    },
+    {
+      "title": "Lightspeed's Rush Exit From PhysicsWallah After Byju's Bet Raises Edtech Revival Questions",
+      "summary": "Lightspeed had already seen the other side of the edtech cycle. It was an early backer of Byju's, investing in the company's 2016 funding round.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/markets/lightspeeds-rush-exit-from-physicswallah-after-byjus-bet-raises-edtech-revival-questions-11981068&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0hGuqHHpZ7hfHvFMna1_tc",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-08-31T10:53:21Z",
+      "category": "Funding"
+    },
     {
       "title": "Arvel Systems Announces Expansion of AI, Education Technology and Open-Source ...",
       "summary": "Founded by software engineer and technology entrepreneur Odiri Teddie Adamu, Arvel Systems operates under the registered business name Arvel Systems&nbsp;...",
