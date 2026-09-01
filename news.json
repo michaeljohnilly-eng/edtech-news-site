@@ -1,12 +1,92 @@
 {
-  "updated_at": "2026-08-31 23:34 UTC",
+  "updated_at": "2026-09-01 13:00 UTC",
   "summary": {
     "Funding": 6,
-    "Acquisition": 2,
-    "Product": 5,
-    "Startup": 2
+    "Acquisition": 8,
+    "Product": 3,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "UpGrad completes $200 million-plus acquisition of Unacademy - afaqs!",
+      "summary": "Unacademy was valued at $3.4 billion in 2021, after which the Indian edtech sector went through a period of cost-cutting, business exits and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.afaqs.com/news/mktg/upgrad-completes-200-million-plus-acquisition-of-unacademy-12479747&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3G9odujLwsGLKr8vu3XUtH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:28:06Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Premia Raises R$5M in Funding - The SaaS News",
+      "summary": "Premia Raises R$5M in Funding. Premia, an edtech company based in Brazil that develops AI-driven learning management solutions, has raised R$5&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/premia-raises-r5m-first-investment/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0G4IkBJtkLLdEMdtrVGoKh",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:27:43Z",
+      "category": "Funding"
+    },
+    {
+      "title": "We Raised At A Peak, But Sold At A Fraction: Gaurav Munjal On Unacademy's Valuation Steep Fall",
+      "summary": "Unacademy co-founder and CEO Gaurav Munjal has acknowledged the stark valuation reset accompanying the edtech company's acquisition by upGrad,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bwdisrupt.com/article/we-raised-at-a-peak-but-sold-at-a-fraction-gaurav-munjal-on-unacademy-s-valuation-steep-fall-621750&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1MplJcEGe5IMhOGDFsSGEj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:15:20Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Left IAS, built Unacademy: How Roman Saini co-founded edtech firm now acquired by ...",
+      "summary": "Unacademy's acquisition by Ronnie Screwvala-led upGrad has brought the edtech company's growth journey back into focus, while also turning&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/business/markets/left-ias-built-unacademy-how-roman-saini-co-founded-edtech-firm-now-acquired-by-upgrad-for-200-million-14019888.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw06djOvGFFCTuphaQi2ge4Y",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:05:43Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Unacademy's $3.44 billion valuation to $200 million acquisition by upGrad: Gaurav Munjal ... - Mint",
+      "summary": "Edtech company upGrad, led by Ronnie Screwvala, completed its buyout of Unacademy for over $200 million, as per the former's co-founder and CEO&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/companies/news/unacademys-3-44-billion-valuation-to-200-million-acquisition-by-upgrad-gaurav-munjal-reflects-on-journey-11788243091634.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3S9BjWQ31TQ-rLx1fTXZjY",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:01:03Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Unacademy acquired by upGrad for just over $200 million; Munjal says 'we raised at a peak ...",
+      "summary": "... edtech companies. Unacademy co-founder and CEO Gaurav Munjal confirmed the closure in a post on X on Tuesday. “Six years ago today, Unacademy&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fortuneindia.com/business-news/unacademy-acquired-by-upgrad-for-just-over-200-million-munjal-says-we-raised-at-a-peak-but-sold-at-a-fraction/156831&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IBvmQQifIl2dIDk75RMNP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T09:00:43Z",
+      "category": "Funding"
+    },
+    {
+      "title": "upGrad completes Unacademy acquisition for just over $200 million - India Today",
+      "summary": "Ronnie Screwvala-led upGrad has completed its acquisition of edtech company Unacademy for just over $200 million, marking a sharp reset from the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indiatoday.in/amp/business/story/upgrad-completes-unacademy-acquisition-just-over-200-million-gaurav-munjal-2984411-2026-09-01&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2s5oo1qTSi2AXbCCLvwiIZ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T08:37:17Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Edtech Platform Abwaab Acquires Egypt's Eduact in Bid to Consolidate Fragmented Market",
+      "summary": "Abwaab, the Middle East and North Africa edtech platform, has acquired Egyptian software provider Eduact, a move aimed at expanding the company's&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://launchbaseafrica.com/2026/09/01/edtech-platform-abwaab-acquires-egypts-eduact-in-bid-to-consolidate-fragmented-market/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fSR4cr2meV1uNCy1P3esN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T08:10:35Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "upGrad wraps up Unacademy acquisition at $200M - YourStory.com",
+      "summary": "The M&amp;A transaction, which brings together two major edtech businesses, gives upGrad an entry into the online test-preparation segment.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/09/upgrad-unacademy-acquisition-usd-200-m-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0okJH6RbaGWIzHPdMFuHky",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T08:00:52Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Exclusive: MS Dhoni Joins Edtech Startup SpeakX's Cap Table - Inc42",
+      "summary": "On the financial front, Mittal claims that the startup became EBITDA profitable in FY26. While the company's top line touched the ₹45 Cr mark in the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3Pbb4c1nbLH8nT5QHNk1E-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-01T01:11:01Z",
+      "category": "Startup"
+    },
     {
       "title": "Houston edtech startup Progress Report launches pilot to identify learning gaps",
       "summary": "That's why co-founders Alapati “Al” Ware and Estela Montanez launched Progress Report, a Houston-built K-12 learning-intelligence platform designed to&nbsp;...",
@@ -14,46 +94,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-08-31T17:40:16Z",
       "category": "Product"
-    },
-    {
-      "title": "Lightspeed's Rush Exit From PhysicsWallah After Byju's Bet Raises Edtech Revival Questions",
-      "summary": "Lightspeed had already seen the other side of the edtech cycle. It was an early backer of Byju's, investing in the company's 2016 funding round.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ndtvprofit.com/markets/lightspeeds-rush-exit-from-physicswallah-after-byjus-bet-raises-edtech-revival-questions-11981068&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0hGuqHHpZ7hfHvFMna1_tc",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-31T10:53:21Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Arvel Systems Announces Expansion of AI, Education Technology and Open-Source ...",
-      "summary": "Founded by software engineer and technology entrepreneur Odiri Teddie Adamu, Arvel Systems operates under the registered business name Arvel Systems&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techpoint.africa/brandpress/arvel-systems-announces-expansion-of-ai-education-technology-and-open-source-software-initiatives/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1tMrh3v061KfXj8hIxvTkc",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-31T09:03:36Z",
-      "category": "Product"
-    },
-    {
-      "title": "Yugank Vishnoi - Student enterpreneur builds EdTech Platform Dreamplays HQ entirely on ...",
-      "summary": "Yugank Vishnoi, the co-founder of Dreamplays HQ, has developed a complete digital learning ecosystem without using a laptop or computer. Dreamplays HQ&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.issuewire.com/yugank-vishnoi-student-enterpreneur-builds-edtech-platform-dreamplays-hq-entirely-on-mobile-phone-1874911279737061&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw17RzGVJXGJmUz85gbe5Kzr",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-31T08:17:50Z",
-      "category": "Product"
-    },
-    {
-      "title": "After Byju's fiasco, edtech finds a new growth model | Financial Express Delhi - Magzter",
-      "summary": "THE EDTECH SECTOR is beginning to recover from the funding-led boom and bust of the Byju's era, but the companies emerging stronger are following a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.magzter.com/stories/newspaper/Financial-Express-Delhi/AFTER-BYJUS-FIASCO-EDTECH-FINDS-A-NEW-GROWTH-MODEL&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0BO0mWaivpNr6KQFfB0QBw",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-31T03:35:30Z",
-      "category": "Funding"
-    },
-    {
-      "title": "After Byju's, edtech finds a new growth model - Business News | The Financial Express",
-      "summary": "The edtech sector is beginning to recover from the funding-led boom and bust of the Byju's era, but the companies emerging stronger are following&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/news/after-byjus-edtech-finds-a-new-growth-model/4328555/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0KqKCmkIJW50gyl-7Sro8Z",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-08-31T00:47:13Z",
-      "category": "Funding"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
