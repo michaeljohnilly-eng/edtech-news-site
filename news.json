@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-01 22:20 UTC",
+  "updated_at": "2026-09-02 12:28 UTC",
   "summary": {
-    "Funding": 8,
-    "Acquisition": 9,
-    "Product": 3,
-    "Startup": 5
+    "Funding": 7,
+    "Acquisition": 6,
+    "Product": 4,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "upGrad completes Unacademy acquisition in major EdTech consolidation - Digital Learning",
+      "summary": "Indian edtech company upGrad has completed its acquisition of Unacademy for just over $200 million, bringing together two prominent players in the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitallearning.eletsonline.com/2026/09/upgrad-completes-unacademy-acquisition-in-major-edtech-consolidation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zxRa3MYaTeCRkCU7liKbu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T07:16:03Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Top 10 Most Valuable Startups In India Right Now (2026)",
+      "summary": "The ten companies here span fintech, quick commerce, online gaming, hospitality, edtech, and enterprise AI, so this isn't a single-sector comparison.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessoutreach.in/most-valuable-startups-in-india/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2mQMm1xjbnoFatJnQ592rU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T06:20:24Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Unacademy Sold For $200 Million, Samay Raina's Message To Gaurav Munjal Is Brutal",
+      "summary": "Comedian Samay Raina has taken a playful dig at Unacademy co-founder Gaurav Munjal after the edtech company was acquired by upGrad for just over $200&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/amp/viral/who-needs-enemies-when-you-have-such-friends-unacademy-sold-for-200-million-samay-rainas-message-to-gaurav-munjal-is-brutal-ws-l-10305429.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IJob-Tn_9nqbSjBSyEGDm",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T04:54:37Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Tatweer Bets On In-House AI, Integrated Platforms To Expand Edtech Business - Mena FN",
+      "summary": "The company currently has operations outside Egypt, including in Saudi Arabia, and is seeking to expand its presence in education technology, digital&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://menafn.com/1111609763/Tatweer-Bets-On-In-House-AI-Integrated-Platforms-To-Expand-Edtech-Business&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0QzErC8G1EjPuiY_aesuPJ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T03:07:41Z",
+      "category": "Product"
+    },
+    {
+      "title": "India's upGrad acquires Unacademy in $206m deal - Tech in Asia",
+      "summary": "India's upGrad, a Mumbai-based higher education and skilling company, acquired Bengaluru-based edtech startup Unacademy in an all-stock deal&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/indias-upgrad-acquires-unacademy-206m-deal&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3xLopmdgMFHeHWxm1KYFFn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T02:40:45Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Edtech's Big Consolidation, ESDS' Bumper IPO &amp; More - Inc42",
+      "summary": "Unacademy. An Edtech Funded Company Based Out Of Bengaluru. Sector. Edtech. Stage. Series H. Total Funding. $838.50 Mn+. Powered By: Explore full&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/edtechs-big-consolidation-esds-bumper-ipo-more/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cCC7j1KtiKybhlcQ_zaUP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T02:31:12Z",
+      "category": "Funding"
+    },
     {
       "title": "Unacademy closes UpGrad deal at $200 Mn - Entrackr",
       "summary": "Edtech major Unacademy has closed its acquisition by UpGrad for just ... Unacademy co-founder and CEO Gaurav Munjal confirmed the completion of the deal&nbsp;...",
@@ -40,108 +88,12 @@
       "category": "Product"
     },
     {
-      "title": "10 promising Dublin-based startups to watch",
-      "summary": "... companies across artificial intelligence, biotech, FinTech, EdTech, AgriTech and enterprise software. As Ireland looks to help more of these&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eu-startups.com/2026/09/10-promising-dublin-based-startups-to-watch/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw35bbmTEDF9jCVHz6GOnQ37",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T17:02:09Z",
-      "category": "Startup"
-    },
-    {
-      "title": "upGrad completes Unacademy acquisition at just over $200 million, marking steep valuation reset",
-      "summary": "Edtech company upGrad has completed its acquisition of Unacademy in an ... Co-founder and CEO Gaurav Munjal continuing with the company. The&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/markets/upgrad-completes-unacademy-acquisition-at-just-over-200-million-marking-steep-valuation-reset/article71416034.ece&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw358WapVZpMmCGMVLi4J2OE",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T16:47:51Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "India's Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-      "summary": "&quot;We raised at a peak, but sold at a fraction of that,&quot; Unacademy co-founder and CEO Gaurav Munjal wrote. &quot;I'm not going to dress these facts up.&quot;",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cLS83y3moLwcgpVEyDBpT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T15:30:36Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Target to Improve Education Across 1 Million Government Schools, Shikshagraha &amp; Teach ...",
-      "summary": "The company focuses on helping people practise spoken English through AI-based conversations. Edtech startup SpeakX, which is working to improve&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/target-to-improve-education-across-1-million-government-schools-shikshagraha-teach-for-india-join-hands.60933&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1MR7dW1Iq_JH8yiQfULqIL",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T15:12:44Z",
-      "category": "Startup"
-    },
-    {
-      "title": "From $3.44-Billion Unicorn to $200-Million Unicorpse: How 'Real' Was Unacademy's Valuation?",
-      "summary": "... co-founder and chief executive wrote after upGrad completed its acquisition of the edtech company on September 1. The fraction was just over $200&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://openthemagazine.com/business/from-344-billion-unicorn-to-200-million-unicorpse-how-real-was-unacademys-valuation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2BaM1eyzeHOVv4V2ueoRCD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T14:53:22Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "PowerSchool Strengthens Global Privacy Posture with Independent Certifications ...",
-      "summary": "Company announces third-party privacy ... Conducted by EdTech Breakthrough, an independent market intelligence organization, the EdTech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260831096534/en/PowerSchool-Strengthens-Global-Privacy-Posture-with-Independent-Certifications-Validations-and-Updated-Global-Privacy-Statement&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2m-hP1ylyHfiLA8aY4Fp6k",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T14:16:19Z",
-      "category": "Product"
-    },
-    {
-      "title": "UpGrad-Unacademy merger complete; Ultrahuman's $60 million raise",
-      "summary": "Ronnie Screwvala-led UpGrad has completed its acquisition of the edtech company Unacademy for “just over $200 million”, CEO Gaurav Munjal said on&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/upgrad-unacademy-merger-complete-ultrahumans-60-million-raise/articleshow/133683284.cms%3FUTM_Source%3DGoogle_Newsstand%26UTM_Campaign%3DRSS_Feed%26UTM_Medium%3DReferral&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1KAGc0dV1Z-y7wLgLQy6b0",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T14:06:32Z",
-      "category": "Acquisition"
-    },
-    {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
       "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
       "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
       "source": "EdTech news and analysis | TechCrunch",
       "published": "Tue, 01 Sep 2026 13:58:42 +0000",
       "category": "Funding"
-    },
-    {
-      "title": "Abwaab Acquires Egypt's Eduact as Edtech Firm Expands Beyond Online Learning",
-      "summary": "Middle East and North Africa education technology company Abwaab has acquired Egyptian edtech software provider Eduact, expanding its business&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinafrica.com/abwaab-acquires-egypts-eduact-as-edtech-firm-expands-beyond-online-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0WOz5FZtd23BxvcQvTWwwU",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T13:53:35Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Egyptian Edtech Eduact Acquired By Abwaab To Digitise Tutoring Market - WeeTracker",
-      "summary": "... company shifts from a primarily consumer-focused model toward a B2B2C infrastructure strategy. The combined business could allow Eduact's teacher&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://weetracker.com/2026/09/01/eduact-acquired-by-abwaab-egypt-tutoring-market/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3gxgYznqcGbGYrq_EiZ3Uo",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T13:21:08Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "'We raised at a peak, but sold at a fraction': Gaurav Munjal on Unacademy-upGrad deal",
-      "summary": "... edtech company became a unicorn, according to Unacademy co-founder and CEO Gaurav Munjal. Advertisment. Add Best Media Info As A Trusted Source. TBI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bestmediainfo.com/mediainfo/mediainfo-marketing/we-raised-at-a-peak-but-sold-at-a-fraction-gaurav-munjal-on-unacademy-upgrad-deal-12480611&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3WBeqKbwbMkzPGo74ZMQ9g",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T12:46:48Z",
-      "category": "Funding"
-    },
-    {
-      "title": "upGrad completes all-stock acquisition of Unacademy Group in $200 million deal",
-      "summary": "upGrad has completed its all-stock acquisition of Unacademy Group in a deal valuing the edtech company at just over $200 million, bringing its&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbctv18.com/business/companies/upgrad-completes-all-stock-acquisition-unacademy-group-usd-200-million-deal-19981650.htm&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1_mg3nqEG8L2JBF312NlbH",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T12:34:51Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Exclusive: MS Dhoni Enters Edtech Startup SpeakX as Strategic Investor &amp; Brand Ambassador",
-      "summary": "According to the company's Founder and CEO Arpit Mittal, Dhoni will take on the role of strategic investor as well as brand ambassador at SpeakX. The&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/exclusive-ms-dhoni-enters-edtech-startup-speakx-as-strategic-investor-brand-ambassador.60935&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2wdLuNOYqcytCI1jKXwZot",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T12:19:24Z",
-      "category": "Startup"
     },
     {
       "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
@@ -206,6 +158,14 @@
       "source": "EdTech news and analysis | TechCrunch",
       "published": "Tue, 18 Nov 2025 15:36:09 +0000",
       "category": "Startup"
+    },
+    {
+      "title": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
+      "summary": "Oboe is a new AI-powered learning platform that lets you create personalized courses on any topic with a prompt.",
+      "link": "https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/",
+      "source": "EdTech news and analysis | TechCrunch",
+      "published": "Wed, 10 Sep 2025 14:27:55 +0000",
+      "category": "Product"
     }
   ]
 }
