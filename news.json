@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-09-02 12:28 UTC",
+  "updated_at": "2026-09-02 22:17 UTC",
   "summary": {
-    "Funding": 7,
+    "Funding": 8,
     "Acquisition": 6,
-    "Product": 4,
+    "Product": 2,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Abwaab Buys Eduact: Jordan's EdTech Reaches Egypt's Students Through Their Teachers",
+      "summary": "The deal is Abwaab's second acquisition of 2026 and its third overall — and its clearest signal yet that the company has figured out something its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techtimes.com/articles/326352/20260902/abwaab-buys-eduact-jordans-edtech-reaches-egypts-students-through-their-teachers.htm&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1cxi5WXmLSbWVEs73hRhML",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T19:08:34Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Egyptian EdTech 3C Coding School Raises $3M - CIO Africa",
+      "summary": "Egyptian EdTech company 3C Coding School has closed a $3 million Seed funding round that it plans to use to expand into Saudi Arabia.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cioafrica.co/egyptian-edtech-3c-coding-school-raises-3m/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0CpTL3fX4WZJfKec9P98gA",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T14:42:04Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Egyptian edtech, 3C Coding School raises $3million seed round - Condia",
+      "summary": "The funding will go toward expanding into the Saudi Arabian market, strengthening the company's technology infrastructure, and building out its AI-&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thecondia.com/3c-coding-school-raises-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qF5vAmOVUg3nj4Bf7ai5J",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T13:26:37Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Egyptian EdTech Platform «3C Coding School» Secures $3 Million in Seed Funding Led by ...",
+      "summary": "The direct equity investment was spearheaded by MRG Economic Group, led by Egyptian business leader Mahmoud Ramadan, with participation from prominent&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://followict.news/en/egyptian-edtech-platform-3c-coding-school-secures-3-million-in-seed-funding-led-by-mrg-economic-group/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2X77pjw0Ck99C9TDVPKCH_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T11:23:33Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Jordan's Abwaab Acquires Egypt's Eduact - WAYA Media",
+      "summary": "Jordanian edtech Abwaab acquired Egypt's Eduact for an undisclosed amount to expand beyond its core student learning business.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://waya.media/jordans-abwaab-acquires-egypts-eduact/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2QDlBIsYM48F4Iw1URx-i_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T10:21:09Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Egyptian EdTech platform &quot;3C Coding School&quot; secures $3mln in seed funding led by MRG ...",
+      "summary": "Co-founded in 2015 by engineers Hossam Hosny and Ahmed Khallaf, 3C Coding School was built to disrupt traditional computer science education for young&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/companies-news/egyptian-edtech-platform-3c-coding-school-secures-3mln-in-seed-funding-led-by-mrg-economic-group-475466&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw04g9Ic3xQ1fY2YkiogmRN7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T10:04:35Z",
+      "category": "Funding"
+    },
     {
       "title": "upGrad completes Unacademy acquisition in major EdTech consolidation - Digital Learning",
       "summary": "Indian edtech company upGrad has completed its acquisition of Unacademy for just over $200 million, bringing together two prominent players in the&nbsp;...",
@@ -30,62 +78,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-02T04:54:37Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Tatweer Bets On In-House AI, Integrated Platforms To Expand Edtech Business - Mena FN",
-      "summary": "The company currently has operations outside Egypt, including in Saudi Arabia, and is seeking to expand its presence in education technology, digital&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://menafn.com/1111609763/Tatweer-Bets-On-In-House-AI-Integrated-Platforms-To-Expand-Edtech-Business&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0QzErC8G1EjPuiY_aesuPJ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T03:07:41Z",
-      "category": "Product"
-    },
-    {
-      "title": "India's upGrad acquires Unacademy in $206m deal - Tech in Asia",
-      "summary": "India's upGrad, a Mumbai-based higher education and skilling company, acquired Bengaluru-based edtech startup Unacademy in an all-stock deal&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/indias-upgrad-acquires-unacademy-206m-deal&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3xLopmdgMFHeHWxm1KYFFn",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T02:40:45Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Edtech's Big Consolidation, ESDS' Bumper IPO &amp; More - Inc42",
-      "summary": "Unacademy. An Edtech Funded Company Based Out Of Bengaluru. Sector. Edtech. Stage. Series H. Total Funding. $838.50 Mn+. Powered By: Explore full&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/edtechs-big-consolidation-esds-bumper-ipo-more/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cCC7j1KtiKybhlcQ_zaUP",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T02:31:12Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Unacademy closes UpGrad deal at $200 Mn - Entrackr",
-      "summary": "Edtech major Unacademy has closed its acquisition by UpGrad for just ... Unacademy co-founder and CEO Gaurav Munjal confirmed the completion of the deal&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/news/unacademy-closes-upgrad-deal-at-200-mn-12479514&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Tj3cfP3AOJCqtrcotUtd0",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T20:46:57Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Unacademy Now Part of UpGrad, Acquisition Deal Completed for Over $200 Million",
-      "summary": "However, following the pandemic, the funding and valuation environment in the edtech sector changed significantly. Companies began focusing more on&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/unacademy-now-part-of-upgrad-acquisition-deal-completed-for-over-200-million.60937&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1DUoCKehacyuHhe_DNv3W-",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T20:19:00Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Startup Street | Yuma Raises $35M | UpGrad Acquires Unacademy | CNBC TV18 - YouTube",
-      "summary": "... edtech company's $3.4 billion peak valuation in 2021. #StartupNews #IndianStartups #Funding #MergersAndAcquisitions #YumaEnergy #KeplerAerospace&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DeqdtZ711LQs&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw22xmINj8XNUpapPA6m-hai",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T17:34:45Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Tatweer bets on in-house AI, integrated platforms to expand EdTech business",
-      "summary": "Tatweer for Technology and Education is expanding its focus on integrated education technology platforms and in-house artificial intelligence&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dailynewsegypt.com/2026/09/01/tatweer-bets-on-in-house-ai-integrated-platforms-to-expand-edtech-business/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw37L9FBx6vzp26Rjvm1kNZ8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-01T17:24:02Z",
-      "category": "Product"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
