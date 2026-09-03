@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-02 22:17 UTC",
+  "updated_at": "2026-09-03 12:31 UTC",
   "summary": {
-    "Funding": 8,
-    "Acquisition": 6,
-    "Product": 2,
+    "Funding": 9,
+    "Acquisition": 5,
+    "Product": 3,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Pakistani edtech startup Edversity secures strategic investment from Rapidev Group at LEAP 2026",
+      "summary": "... company reported placement outcomes above 70% across selected cohorts. The investment will support Edversity's international expansion and AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/pakistani-edtech-startup-edversity-secures-strategic-investment-from-rapidev-group-at-leap-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3JIX-mYVb2QkyFm4cztkqZ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-03T07:09:37Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Egyptian Edtech 3C Coding School Raises USD 3 M To Expand Into Saudi Arabia",
+      "summary": "A weekly newsletter that puts the African context, first. Business, Economy, Startups, State of Industries. All in one! WT Weekly. A snippet&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://weetracker.com/2026/09/02/3c-coding-school-raises-3m-saudi-arabia/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3DZRdFBS9Dk0E6xmBquUhT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T22:35:09Z",
+      "category": "Startup"
+    },
+    {
+      "title": "McGraw Hill acquires Teachally, an AI startup for teachers led by Seattle tech vet Daniel Bernstein",
+      "summary": "The M&amp;A work helped: he'd taken other edtech companies to market before building one. Teachally itself started as something else. The company was&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geekwire.com/2026/mcgraw-hill-acquires-teachally-an-ai-startup-for-teachers-led-by-seattle-tech-vet-daniel-bernstein/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Th9iCYRtY6ukpGzRHM98M",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-02T22:21:28Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Abwaab Buys Eduact: Jordan's EdTech Reaches Egypt's Students Through Their Teachers",
       "summary": "The deal is Abwaab's second acquisition of 2026 and its third overall — and its clearest signal yet that the company has figured out something its&nbsp;...",
@@ -56,28 +80,12 @@
       "category": "Funding"
     },
     {
-      "title": "upGrad completes Unacademy acquisition in major EdTech consolidation - Digital Learning",
-      "summary": "Indian edtech company upGrad has completed its acquisition of Unacademy for just over $200 million, bringing together two prominent players in the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitallearning.eletsonline.com/2026/09/upgrad-completes-unacademy-acquisition-in-major-edtech-consolidation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2zxRa3MYaTeCRkCU7liKbu",
+      "title": "ZAWYA: Egypt: Tatweer bets on in-house AI, integrated platforms to expand EdTech business",
+      "summary": "By Staff WriterEgypt - Tatweer for Technology and Education is expanding its focus on integrated education technology platforms and in-house&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-09-02:newsml_Zaw4pvR9h:0-zawya-egypt-tatweer-bets-on-in-house-ai-integrated-platforms-to-expand-edtech-business/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0LFhIp4TtiU6rtuWVpDOfF",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T07:16:03Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Top 10 Most Valuable Startups In India Right Now (2026)",
-      "summary": "The ten companies here span fintech, quick commerce, online gaming, hospitality, edtech, and enterprise AI, so this isn't a single-sector comparison.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessoutreach.in/most-valuable-startups-in-india/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2mQMm1xjbnoFatJnQ592rU",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T06:20:24Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Unacademy Sold For $200 Million, Samay Raina's Message To Gaurav Munjal Is Brutal",
-      "summary": "Comedian Samay Raina has taken a playful dig at Unacademy co-founder Gaurav Munjal after the edtech company was acquired by upGrad for just over $200&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.news18.com/amp/viral/who-needs-enemies-when-you-have-such-friends-unacademy-sold-for-200-million-samay-rainas-message-to-gaurav-munjal-is-brutal-ws-l-10305429.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IJob-Tn_9nqbSjBSyEGDm",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T04:54:37Z",
-      "category": "Acquisition"
+      "published": "2026-09-02T09:20:40Z",
+      "category": "Product"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
