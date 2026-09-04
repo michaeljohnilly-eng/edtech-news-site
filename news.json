@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-09-03 22:11 UTC",
+  "updated_at": "2026-09-04 12:27 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 3,
-    "Product": 6,
-    "Startup": 3
+    "Acquisition": 2,
+    "Product": 8,
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "IIT Madras' Bodhan AI launches four AI models for Indian languages in partnership with AI4Bharat",
+      "summary": "The larger bet is to create an AI infrastructure layer that Indian edtech companies, startups, researchers and public institutions can use without&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/ai/ai-insights/iit-madras-bodhan-ai-launches-four-ai-models-for-indian-languages-in-partnership-with-ai4bharat/articleshow/133755779.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uUDuPjr5gIAzI_R1R3McB",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-04T07:59:25Z",
+      "category": "Product"
+    },
+    {
+      "title": "IIT-Madras' Bodhan AI launches 4 open models to build India's multilingual education stack",
+      "summary": "Bodhan AI is a Section 8 company incubated at Indian ... The models are designed to serve as foundational building blocks that edtech companies&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/artificial-intelligence/iit-madras-bodhan-ai-launches-4-open-models-to-build-india-s-multilingual-education-stack-article-14022722.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3s4wFVocyFkzdR48oM9x4p",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-04T07:53:54Z",
+      "category": "Product"
+    },
+    {
+      "title": "3C Coding School Raises $3M Seed - The SaaS News",
+      "summary": "3C Coding School, an Egypt-based edtech startup, has secured $3 million in a seed round. This funding represents the company's first institutional&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/3c-coding-school-raises-3m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3HXbj2IfGDd3D_2uvv3NQ8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-04T05:49:07Z",
+      "category": "Funding"
+    },
+    {
+      "title": "OpenAI launches Learning Lab for AI education research | ETIH EdTech News",
+      "summary": "The company is also acknowledging limits in what is currently known. It describes existing research on AI's effectiveness for learning as &quot;early&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-launches-learning-lab-to-build-evidence-base-for-ai-in-education&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1aiaUnklLYmilfHkGkxAkS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-03T23:04:14Z",
+      "category": "Product"
+    },
     {
       "title": "Kahoot! launches new experiences to boost engagement and help improve learning ...",
       "summary": "was ranked #1 on EduEvidence's Global EdTech Evidence List, which ranked 1,000 EdTech products across 75+ countries. Kahoot! is the only company to&nbsp;...",
@@ -24,43 +56,11 @@
       "category": "Product"
     },
     {
-      "title": "Pakistani edtech startup Edversity secures strategic investment from Rapidev Group at LEAP 2026",
-      "summary": "... company reported placement outcomes above 70% across selected cohorts. The investment will support Edversity's international expansion and AI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/pakistani-edtech-startup-edversity-secures-strategic-investment-from-rapidev-group-at-leap-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3JIX-mYVb2QkyFm4cztkqZ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-03T07:09:37Z",
-      "category": "Funding"
-    },
-    {
       "title": "iPortfolio pivots English edtech to grow global citizens in South Korea - CHOSUNBIZ",
       "summary": "The artificial intelligence (AI)-based multilingual reading platform &quot;Harmony Hills,&quot; which the company recently expanded and revamped, is set in&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/en/en-it/2026/09/03/MZQGWVEQRNDDJDUJQRNA3RMAH4/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3q0_osiFAmER8FuVdRyLDz",
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-02T23:08:05Z",
-      "category": "Product"
-    },
-    {
-      "title": "Egyptian Edtech 3C Coding School Raises USD 3 M To Expand Into Saudi Arabia",
-      "summary": "A weekly newsletter that puts the African context, first. Business, Economy, Startups, State of Industries. All in one! WT Weekly. A snippet&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://weetracker.com/2026/09/02/3c-coding-school-raises-3m-saudi-arabia/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3DZRdFBS9Dk0E6xmBquUhT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T22:35:09Z",
-      "category": "Startup"
-    },
-    {
-      "title": "McGraw Hill acquires Teachally, an AI startup for teachers led by Seattle tech vet Daniel Bernstein",
-      "summary": "The M&amp;A work helped: he'd taken other edtech companies to market before building one. Teachally itself started as something else. The company was&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geekwire.com/2026/mcgraw-hill-acquires-teachally-an-ai-startup-for-teachers-led-by-seattle-tech-vet-daniel-bernstein/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Th9iCYRtY6ukpGzRHM98M",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T22:21:28Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "ZAWYA: Egypt: Tatweer bets on in-house AI, integrated platforms to expand EdTech business",
-      "summary": "By Staff WriterEgypt - Tatweer for Technology and Education is expanding its focus on integrated education technology platforms and in-house&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-09-02:newsml_Zaw4pvR9h:0-zawya-egypt-tatweer-bets-on-in-house-ai-integrated-platforms-to-expand-edtech-business/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0LFhIp4TtiU6rtuWVpDOfF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-02T09:20:40Z",
       "category": "Product"
     },
     {
