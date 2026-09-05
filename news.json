@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-09-04 22:02 UTC",
+  "updated_at": "2026-09-05 11:33 UTC",
   "summary": {
     "Funding": 7,
     "Acquisition": 2,
-    "Product": 6,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "IIT Madras-Backed Bodhan AI, AI4Bharat Launch 4 AI Models for Students &amp; Teachers | AIM",
+      "summary": "He added that edtech companies, startups, researchers, universities, technology companies and government partners could use the models to develop&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://analyticsindiamag.com/ai-news/iit-madras-backed-bodhan-ai-ai4bharat-launch-4-ai-models-for-students-teachers&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3TulcnxEt_rpQk-cDY_Idl",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-05T04:03:35Z",
+      "category": "Product"
+    },
+    {
+      "title": "India's EdTech Sector Moves from Funding-Led Growth to Model-Led Consolidation: Tracxn",
+      "summary": "Investors are backing fewer EdTech companies with larger cheques and the sector's biggest names are being defined by IPOs, insolvency and business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/indias-edtech-sector-moves-from-funding-led-growth-to-model-led-consolidation-tracxn.60966&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Gs7dYntnwiiCI_qGrpLGH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-04T19:09:13Z",
+      "category": "Funding"
+    },
     {
       "title": "EdTech sector shifts focus as funding falls, consolidation grows - The New Indian Express",
       "summary": "This indicates that fewer companies are raising capital, while those securing funding are receiving larger amounts. The sector recorded 94&nbsp;...",
@@ -16,51 +32,19 @@
       "category": "Funding"
     },
     {
+      "title": "Tracxn: Indian EdTech records 94 acquisitions and seven listings since 2021 - MediaBrief",
+      "summary": "Tracxn released a report examining equity funding, public listings, acquisitions, and business model shifts in India's EdTech sector between 2021&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mediabrief.com/tracxn-indian-edtech-records-94-acquisitions-and-seven-listings-since-2021/%3Famp&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2fEpXzZsG1nYCZOlisjnak",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-04T18:10:56Z",
+      "category": "Funding"
+    },
+    {
       "title": "UNIVO Education Launches ChatGPT Ad Campaigns for Universities - Rediff Money",
       "summary": "UNIVO Education is the first major Indian Edtech brand to run advertising campaigns on ChatGPT. The company is deploying conversational AI&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.rediff.com/amp/news/market/univo-education-launches-chatgpt-ad-campaigns-for-universities/53768220260904&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw28O0MN0DwxHasmio-lskuk",
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-04T14:36:29Z",
-      "category": "Product"
-    },
-    {
-      "title": "EdTech sector moves from funding-led to model-led, says Bengaluru study - ThePrint",
-      "summary": "According to a new report by market intelligence platform Tracxn, the companies are now focusing more on profitability, consolidation and offline&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://theprint.in/feature/edtech-sector-india-funding-led-model-led-bengaluru/3033743/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw335y9MKnEnlBumnB8NpGZF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-04T11:11:56Z",
-      "category": "Funding"
-    },
-    {
-      "title": "IIT Madras' Bodhan AI launches four AI models for Indian languages in partnership with AI4Bharat",
-      "summary": "The larger bet is to create an AI infrastructure layer that Indian edtech companies, startups, researchers and public institutions can use without&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/ai/ai-insights/iit-madras-bodhan-ai-launches-four-ai-models-for-indian-languages-in-partnership-with-ai4bharat/articleshow/133755779.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uUDuPjr5gIAzI_R1R3McB",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-04T07:59:25Z",
-      "category": "Product"
-    },
-    {
-      "title": "IIT-Madras' Bodhan AI launches 4 open models to build India's multilingual education stack",
-      "summary": "Bodhan AI is a Section 8 company incubated at Indian ... The models are designed to serve as foundational building blocks that edtech companies&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/artificial-intelligence/iit-madras-bodhan-ai-launches-4-open-models-to-build-india-s-multilingual-education-stack-article-14022722.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3s4wFVocyFkzdR48oM9x4p",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-04T07:53:54Z",
-      "category": "Product"
-    },
-    {
-      "title": "3C Coding School Raises $3M Seed - The SaaS News",
-      "summary": "3C Coding School, an Egypt-based edtech startup, has secured $3 million in a seed round. This funding represents the company's first institutional&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/3c-coding-school-raises-3m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3HXbj2IfGDd3D_2uvv3NQ8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-04T05:49:07Z",
-      "category": "Funding"
-    },
-    {
-      "title": "OpenAI launches Learning Lab for AI education research | ETIH EdTech News",
-      "summary": "The company is also acknowledging limits in what is currently known. It describes existing research on AI's effectiveness for learning as &quot;early&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-launches-learning-lab-to-build-evidence-base-for-ai-in-education&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1aiaUnklLYmilfHkGkxAkS",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-03T23:04:14Z",
       "category": "Product"
     },
     {
