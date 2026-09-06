@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-09-06 11:54 UTC",
+  "updated_at": "2026-09-06 21:55 UTC",
   "summary": {
     "Funding": 7,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "IIT Madras' Bodhan AI Launches Open-Weight Models for Indian Education - TechGig",
+      "summary": "These models are intended to serve as foundational building blocks for edtech companies, startups, researchers, universities, technology companies,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techgig.com/amp/news/ai/iit-madras-bodhan-ai-launches-open-weight-models-for-indian-education/133845656&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1vokPEGGWAhRb495p7KoMs",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-06T18:01:09Z",
+      "category": "Product"
+    },
     {
       "title": "Kuwait's Dawraty raises $2M seed to scale bilingual medical EdTech | Dealroom.co",
       "summary": "Kuwait-based EdTech startup Dawraty has raised a $2 million seed round led by Qatar Development Bank, at a $10 million valuation. The company&nbsp;...",
