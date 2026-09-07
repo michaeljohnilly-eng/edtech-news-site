@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-06 21:55 UTC",
+  "updated_at": "2026-09-07 13:54 UTC",
   "summary": {
-    "Funding": 7,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
@@ -16,28 +16,12 @@
       "category": "Product"
     },
     {
-      "title": "Kuwait's Dawraty raises $2M seed to scale bilingual medical EdTech | Dealroom.co",
-      "summary": "Kuwait-based EdTech startup Dawraty has raised a $2 million seed round led by Qatar Development Bank, at a $10 million valuation. The company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/kuwait-s-dawraty-raises-2m-seed-to-scale-bilingual-medical-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2S4O1u_kVOk2XnOF0AQR3P",
+      "title": "IIT Madras' Bodhan AI Launches Open-Weight Models for Indian Education - TechGig",
+      "summary": "Ecosystem Impact and NVIDIA Collaboration. These models are intended to serve as foundational building blocks for edtech companies, startups,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techgig.com/news/ai/iit-madras-bodhan-ai-launches-open-weight-models-for-indian-education/133845656&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3W8fqNgrcSe7F_QC-VwkVJ",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-06T10:49:33Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Kuwaiti edtech Dawraty raises $2M to scale medical education across Gulf | Dealroom.co",
-      "summary": "Kuwaiti edtech startup Dawraty raised $2 million in seed funding from Qatar Development Bank, valuing the company at $10 million.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/kuwaiti-edtech-dawraty-raises-2m-to-scale-medical-education-across-gulf&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2eWGvI4VT6Af_0lsXjhtw8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-06T10:21:26Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Acdima is selling its 10.49% stake in Spimaco, Egypt's 3C Coding School targets Saudi",
-      "summary": "The company will use the funding to enter the Kingdom and accelerate ... edtech companies increasingly see the Gulf — and Saudi in particular&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseam.com/ksa/2026/09/06/acdima-is-selling-its-10-49-stake-in-spimaco-egypts-3c-coding-school-targets-saudi/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Z5CGuibpBKqRpj-mUaBlq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-06T03:44:53Z",
-      "category": "Funding"
+      "published": "2026-09-06T18:01:08Z",
+      "category": "Product"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
