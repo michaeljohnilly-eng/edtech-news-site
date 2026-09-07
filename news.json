@@ -1,19 +1,75 @@
 {
-  "updated_at": "2026-09-07 13:54 UTC",
+  "updated_at": "2026-09-07 22:27 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
-    "Product": 4,
+    "Funding": 7,
+    "Acquisition": 4,
+    "Product": 6,
     "Startup": 2
   },
   "articles": [
     {
-      "title": "IIT Madras' Bodhan AI Launches Open-Weight Models for Indian Education - TechGig",
-      "summary": "These models are intended to serve as foundational building blocks for edtech companies, startups, researchers, universities, technology companies,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techgig.com/amp/news/ai/iit-madras-bodhan-ai-launches-open-weight-models-for-indian-education/133845656&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1vokPEGGWAhRb495p7KoMs",
+      "title": "UpGrad completes Unacademy acquisition at $206m valuation - The PIE News",
+      "summary": "Indian edtech company upGrad has completed its acquisition of Unacademy through an all-stock transaction valuing the startup at INR 1,955 crore&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thepienews.com/upgrad-completes-unacademy-acquisition-at-206m-valuation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0C7pbSmbaZucCDvkenxl3z",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-06T18:01:09Z",
+      "published": "2026-09-07T16:39:47Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Online Maths Learning Platform Mathspace Disclosed Data Breach Impacts 1 Million Users",
+      "summary": "The Sydney-based edtech company, which is widely used in classrooms across both countries, said on 3 September 2026 that unauthorized parties had&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cybersecuritynews.com/mathspace-data-breach/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2j8FO4TSW4duv2dGRVYjsd",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T15:04:47Z",
       "category": "Product"
+    },
+    {
+      "title": "Injini launches incubator programme for African AI edtech founders - Bizcommunity",
+      "summary": "All 12 teams receive hands-on expert support, user testing, business canvas, brand, and monitoring, evaluation and learning (MEL) support. Phase 2:&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/injini-launches-incubator-programme-for-african-ai-edtech-founders-186626a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-fmXngnAhokARy9atLJBj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T14:59:25Z",
+      "category": "Product"
+    },
+    {
+      "title": "Dawraty Raises $2M Seed - The SaaS News",
+      "summary": "Kuwait-based EdTech startup Dawraty has successfully raised $2 million in seed funding. The company provides an AI-powered learning platform&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/dawraty-raises-2m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw21B1lRCp30QYf9u8OGBuYy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T14:20:10Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Injini Launches AI Venture Builder to Empower African EdTech Founders - ednews.africa",
+      "summary": "Support includes user testing, business canvas development, branding, and Monitoring, Evaluation and Learning (MEL). Phase 2: Incubation (three months&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ednews.africa/p/injini-launches-ai-venture-builder&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1UFnScefiHu660Cl2o-OoJ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T12:25:04Z",
+      "category": "Product"
+    },
+    {
+      "title": "Egypt's 3C Coding School Raises $3 Million to Expand Into Saudi Arabia - We are Tech",
+      "summary": "Egyptian edtech company 3C Coding School has raised $3 million to expand its coding courses for young learners. The school, which already serves&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wearetech.africa/en/fils-uk/brief/brief-simple/egypt-s-3c-coding-school-raises-3-million-to-expand-into-saudi-arabia&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw32SxdVI1qbozgIGGq4Dpax",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T12:03:50Z",
+      "category": "Funding"
+    },
+    {
+      "title": "No irrational valuation rush in deeptech, says Piper Serica Director | Company News",
+      "summary": "Last week, UpGrad completed its acquisition of Unacademy for just over $200 million, valuing the edtech startup at about 94 per cent below its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/amp/companies/news/no-irrational-valuation-rush-in-deeptech-says-piper-serica-director-126090700806_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0CE3eXSMbdlbZ7A_2Z6tbw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T11:41:58Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Ohio State targets 100 student startups a year with new BuildX initiative",
+      "summary": "... include courses for credit alongside mentorship, funding and existing university startup programs. ETIH covers the higher education and edtech news.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/ohio-state-targets-100-student-startups-a-year-with-new-buildx-initiative&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZpUizxSQdSALhSCZO9g-U",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-07T11:34:03Z",
+      "category": "Funding"
     },
     {
       "title": "IIT Madras' Bodhan AI Launches Open-Weight Models for Indian Education - TechGig",
