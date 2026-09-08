@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-09-08 12:34 UTC",
+  "updated_at": "2026-09-08 22:18 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 4,
+    "Funding": 6,
+    "Acquisition": 3,
     "Product": 6,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "Startup Investments Reach $68.95 Million as Qatar Leads Fintech | إنت عربي - entARABI",
+      "summary": "The funding will support the company's expansion plans across the Gulf. AILA, a Saudi edtech company, raised $3 million in a Pre-Seed round to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/09/startup-investments-reach-68-95-million-as-qatar-leads-fintech/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Sedd_d_okWST_U9fLfOmv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-08T16:06:52Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Tees Valley EdTech firm secures first paying school after commercial launch",
+      "summary": "A Middlesbrough-based education technology company has secured its first paying school just days after launching commercially. Assessable, which&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://teesbusiness.co.uk/2026/09/08/tees-valley-edtech-firm-secures-first-paying-school-after-commercial-launch/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1srR6Nv0GcFvPht-5EOY-W",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-08T14:20:13Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech platform set to make its mark | Bdaily",
+      "summary": "Assessable was co-founded by Lisa Gosnay and Sam Shenton, with Embeddable's Peter Calvert supporting the business as fractional chief technology&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bdaily.co.uk/articles/2026/09/08/edtech-platform-set-to-make-its-mark&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2XsYevGv-bo1xCzar10zVe",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-08T11:53:10Z",
+      "category": "Product"
+    },
+    {
+      "title": "Kuwait edtech startup Dawraty raises $2M seed round - People Matters",
+      "summary": "... company. Founded in 2023, Dawraty has expanded beyond Kuwait into Bahrain, Jordan and Qatar. The edtech platform currently serves more than 15,000&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://me.peoplemattersglobal.com/amp/news/funding-and-investment/kuwait-edtech-startup-dawraty-raises-dollar2m-seed-round-51976&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw03Oh0KxDtV218XSEKAXBS4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-08T09:41:02Z",
+      "category": "Funding"
+    },
     {
       "title": "ZAWYA: Injini launches incubator programme for African AI edtech founders - TradingView",
       "summary": "The initiative helps pre-formed teams take early-stage AI edtech ideas through development to launch market-ready startups. ... About company. Who we&nbsp;...",
@@ -30,30 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-07T21:39:32Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "UpGrad completes Unacademy acquisition at $206m valuation - The PIE News",
-      "summary": "Indian edtech company upGrad has completed its acquisition of Unacademy through an all-stock transaction valuing the startup at INR 1,955 crore&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thepienews.com/upgrad-completes-unacademy-acquisition-at-206m-valuation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0C7pbSmbaZucCDvkenxl3z",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-07T16:39:47Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Online Maths Learning Platform Mathspace Disclosed Data Breach Impacts 1 Million Users",
-      "summary": "The Sydney-based edtech company, which is widely used in classrooms across both countries, said on 3 September 2026 that unauthorized parties had&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cybersecuritynews.com/mathspace-data-breach/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2j8FO4TSW4duv2dGRVYjsd",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-07T15:04:47Z",
-      "category": "Product"
-    },
-    {
-      "title": "Injini launches incubator programme for African AI edtech founders - Bizcommunity",
-      "summary": "All 12 teams receive hands-on expert support, user testing, business canvas, brand, and monitoring, evaluation and learning (MEL) support. Phase 2:&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/injini-launches-incubator-programme-for-african-ai-edtech-founders-186626a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2-fmXngnAhokARy9atLJBj",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-07T14:59:25Z",
-      "category": "Product"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
