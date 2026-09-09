@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-09-08 22:18 UTC",
+  "updated_at": "2026-09-09 12:40 UTC",
   "summary": {
     "Funding": 6,
-    "Acquisition": 3,
-    "Product": 6,
-    "Startup": 2
+    "Acquisition": 2,
+    "Product": 5,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Qatar Development Bank invests in Kuwait edtech Dawraty - TradingView",
+      "summary": "... company at $10 million, according to a state ... Qatar Development Bank has invested in Kuwait-based education technology (edtech) startup Dawraty to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-09-09:newsml_Zaw9JsMSY:0-qatar-development-bank-invests-in-kuwait-edtech-dawraty/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0RxzhG29hxTYXoO5-FJY_U",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-09T06:40:57Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Kenyan EdTech platform helps families navigate CBE pathways - Education News",
+      "summary": "... co.ke. You can also follow our social media pages on Twitter: Education News KE and Facebook: Education News Newspaper for timely updates. &gt;&gt; Click&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://educationnews.co.ke/kenyan-edtech-platform-helps-families-navigate-cbe-pathways/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3ZQCTD4jPL5Syi48c3KMJp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-08T22:34:33Z",
+      "category": "Product"
+    },
     {
       "title": "Startup Investments Reach $68.95 Million as Qatar Leads Fintech | إنت عربي - entARABI",
       "summary": "The funding will support the company's expansion plans across the Gulf. AILA, a Saudi edtech company, raised $3 million in a Pre-Seed round to&nbsp;...",
@@ -38,30 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-08T09:41:02Z",
       "category": "Funding"
-    },
-    {
-      "title": "ZAWYA: Injini launches incubator programme for African AI edtech founders - TradingView",
-      "summary": "The initiative helps pre-formed teams take early-stage AI edtech ideas through development to launch market-ready startups. ... About company. Who we&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/reuters.com,2026-09-08:newsml_ZawcfCG8:0-zawya-injini-launches-incubator-programme-for-african-ai-edtech-founders/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2tGLOuik98e2prxVteh9Il",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-08T08:41:12Z",
-      "category": "Product"
-    },
-    {
-      "title": "Edu Intelligence and Welbee join Faria Education Group | ETIH EdTech News",
-      "summary": "The deal brings an AI-first school data platform and staff wellbeing technology into Faria, with the companies planning to extend their work&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/edu-intelligence-and-welbee-join-faria-education-group&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3m7XdHIwf1ouhgKvFinh_Z",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-07T23:34:23Z",
-      "category": "Product"
-    },
-    {
-      "title": "Unacademy Sold to upGrad for Over $200 Million: From Edtech Boom to Major Acquisition",
-      "summary": "In a major development in India's education technology sector, Unacademy has been acquired by rival edtech company upGrad in a deal worth.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://connectgujarat.com/unacademy-sold-to-upgrad-for-over-200-million-from-edtech-boom-to-major-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1x9KuKA1_IeEbxFMeWDNKw",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-07T21:39:32Z",
-      "category": "Acquisition"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
