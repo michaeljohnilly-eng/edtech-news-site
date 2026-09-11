@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-10 22:12 UTC",
+  "updated_at": "2026-09-11 12:31 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
+    "Funding": 5,
+    "Acquisition": 3,
     "Product": 6,
-    "Startup": 3
+    "Startup": 2
   },
   "articles": [
+    {
+      "title": "Ed.ai Raises €5M Seed - The SaaS News",
+      "summary": "Ed.ai, a Lyon-based EdTech startup that provides an AI assistant for ... The company, which has seen rapid adoption in the French education&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/ed-ai-raises-5m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iJCQ96OmVTFynvXECGP2s",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-11T07:46:26Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Sigongtech Moves to Majority Control of i-Scream Edu With Premium Tender Offer",
+      "summary": "Sigongtech Co.,Ltd., the largest shareholder of KOSDAQ-listed edtech firm i-Scream Edu, has launched a tender offer to acquire up to 3.6 million&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4548570/sigongtech-moves-to-majority-control-of-i-scream-edu-with-premium-tender-offer/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1UV2QJmkVYKpTVrlBH74kk",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-10T23:40:07Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Wrap Technologies Expands Public Safety Platform Beyond Law Enforcement with Training ...",
+      "summary": "The company's relationship with WOFT Charities and Florida's Teacher ... EdTech, education, Financial News, Florida, Government, science and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybuzz.co/2026/09/10/wrap-technologies-expands-public-safety-platform-beyond-law-enforcement-with-training-and-technology-integration/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2vdxXKAmihncgjfwuNCT0C",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-10T22:42:08Z",
+      "category": "Product"
+    },
     {
       "title": "Year-Round Education Requires Year-Round IT Support - EdTech Magazine",
       "summary": "“Because learner activity does not stop at the end of the business day, institutions must invest in workforce management, technology platforms,&nbsp;...",
@@ -30,22 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-10T12:19:44Z",
       "category": "Product"
-    },
-    {
-      "title": "EdTech startup lands first paying school days after launch - Prolific North",
-      "summary": "Schools can register for a free trial of Assessable for Year 6 writing through the company's website. Subscribe to the Prolific North Daily Newsletter&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prolificnorth.co.uk/news/edtech-startup-lands-first-paying-school-days-after-launch/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1vRjGOtMaLGwk8miI9ExA7",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-10T08:05:05Z",
-      "category": "Product"
-    },
-    {
-      "title": "Vietnam remains Southeast Asia's second-largest EdTech startup hub",
-      "summary": "HolonIQ's 2026 ranking of Southeast Asia's 50 standout EdTech startups features nine companies based in Vietnam. Screenshot. HolonIQ tracks global&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://e.vnexpress.net/news/tech/vietnam-innovation/vietnam-remains-southeast-asia-s-second-largest-edtech-startup-hub-5117945.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1w3xAN5hKmWn8vc6kfroeg",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-10T05:49:00Z",
-      "category": "Startup"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
