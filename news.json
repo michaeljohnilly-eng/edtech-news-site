@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-11 12:31 UTC",
+  "updated_at": "2026-09-11 22:10 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 6,
     "Acquisition": 3,
-    "Product": 6,
-    "Startup": 2
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Nine Togolese EdTech startups complete accelerated e-learning incubation",
+      "summary": "... business models, market positioning and readiness for commercial opportunities. The closing ceremony provided an opportunity for the startups to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techreviewafrica.com/news/7168/nine-togolese-edtech-startups-complete-accelerated-e-learning-incubation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Zyc4-BFDE22170yS0OMaU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-11T16:40:49Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Samsung Solve for Tomorrow Selects Top 40 Young Innovators from India",
+      "summary": "EdTech Company NoPaperForms Plans IPO, Targets ₹375 Crore Through Fresh Issue &middot; Education &middot; Voice AI Startup Navana.ai Raises INR 40 Crore Round Led&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/samsung-solve-for-tomorrow-selects-top-40-young-innovators-from-india.61026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iEeK8GhbcRxk7elDoSpYV",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-11T14:07:50Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Premia acquires Aulapp after R$ 5 million investment and aims for 20 million users",
+      "summary": "Premia, an edtech company specializing in learning management and diagnostics, has acquired Aulapp, a business unit focused on educational&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tiinside.com.br/en/10/09/2026/Premia-buys-Aulapp-after-investing-R%25245-million-and-aims-for-20-million-users./&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3vA_b1CJnxhtNsPKd_gMKi",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-11T08:47:49Z",
+      "category": "Funding"
+    },
     {
       "title": "Ed.ai Raises €5M Seed - The SaaS News",
       "summary": "Ed.ai, a Lyon-based EdTech startup that provides an AI assistant for ... The company, which has seen rapid adoption in the French education&nbsp;...",
@@ -29,30 +53,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybuzz.co/2026/09/10/wrap-technologies-expands-public-safety-platform-beyond-law-enforcement-with-training-and-technology-integration/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2vdxXKAmihncgjfwuNCT0C",
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-10T22:42:08Z",
-      "category": "Product"
-    },
-    {
-      "title": "Year-Round Education Requires Year-Round IT Support - EdTech Magazine",
-      "summary": "“Because learner activity does not stop at the end of the business day, institutions must invest in workforce management, technology platforms,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/higher/article/2026/09/year-round-education-requires-year-round-it-support&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3E0qnqxyFFXVtALgHQOGPM",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-10T19:15:38Z",
-      "category": "Product"
-    },
-    {
-      "title": "Schools, Coaching Centres &amp; Platforms Processing Children's Data: Are You Compliant?",
-      "summary": "Edtech companies and online learning portals; Hospitals, clinics, and healthcare providers; Banks and financial institutions (e.g., for education&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mondaq.com/india/social-media/1840662/schools-coaching-centres-platforms-processing-childrens-data-are-you-compliant&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw20WYbm5RXz7VZxBSzly94M",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-10T15:47:27Z",
-      "category": "Product"
-    },
-    {
-      "title": "NAMTECH, SPPU Partner to Build Future-Ready Talent for High-Tech Manufacturing",
-      "summary": "EdTech Company NoPaperForms Plans IPO, Targets ₹375 Crore Through Fresh Issue ... Speaking on the launch, Joy Parekh, CEO of the Imarticus School of&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/namtech-savitribai-phule-pune-university-partner-to-build-future-ready-talent-for-manufacturing-and-high-tech-sectors.61006&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2OE7x8JGd3KneurIUfy9VO",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-10T12:19:44Z",
       "category": "Product"
     },
     {
