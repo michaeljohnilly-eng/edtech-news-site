@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-09-13 13:03 UTC",
+  "updated_at": "2026-09-13 22:02 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 2,
     "Startup": 2
   },
   "articles": [
-    {
-      "title": "COL Group expands into EdTech with Lingopie partnership and microdrama co-productions",
-      "summary": "COL Group and Lingopie have launched DramaRizz, a language-learning application built around vertical short-form drama.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prensario.net/COL-Group-expands-into-EdTech-with-Lingopie-partnership-and-microdrama-co-productions-54148.note.aspx&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2PeF-h8aPFwKi8jlzeJzJA",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-12T14:59:00Z",
-      "category": "Product"
-    },
-    {
-      "title": "Indian Edtech Shifts To Model Led Consolidation - BW Education",
-      "summary": "India's EdTech sector sees lower funding, bigger rounds and a shift towards hybrid business models.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bweducation.com/article/indian-edtech-shifts-to-model-led-consolidation-623158&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw125h2RAIsLlAkci0hEXwxy",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-12T14:53:08Z",
-      "category": "Funding"
-    },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
       "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
