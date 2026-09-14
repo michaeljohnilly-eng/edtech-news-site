@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-14 14:40 UTC",
+  "updated_at": "2026-09-14 22:54 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 3,
-    "Product": 2,
+    "Product": 4,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "EdTechX Raises Seed Round - The SaaS News",
+      "summary": "EdTechX, a Tokyo-based education technology company that provides AI-powered individual English language learning, has successfully raised Series Seed&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/edtechx-raises-seed-round/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3gej-nJhRF32lBwFFyGwAo",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-14T15:11:39Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Milestone for UK EdTech platform Assessable as it officially launches and bags first paying school",
+      "summary": "Launch activity will initially focus on the Tees Valley before expanding more across the North East. Assessable Co-founder Lisa Gosnay, a former&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/milestone-for-uk-edtech-platform-assessable-as-it-officially-launches-and-bags-first-paying-school&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw38emKEjYRjMteE4TbqH0Yy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-14T12:01:41Z",
+      "category": "Product"
+    },
+    {
+      "title": "Ben Parnell departs Athena Learning Trust to take on new role at EdTech startup Ally Education",
+      "summary": "Ben Parnell has joined Ally Education as Co-founder and Chief Education Officer as the EdTech gears up to launch its first product, InspectReady,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/ben-parnell-departs-athena-learning-trust-to-take-on-new-role-at-edtech-startup-ally-education&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2TzgD25tWSlvSGaBdinvIN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-14T12:01:39Z",
+      "category": "Product"
+    },
     {
       "title": "UpGrad's acquisition of Unacademy signals a consolidation phase in edtech, per Trustburn",
       "summary": "Co-founder Gaurav Munjal acknowledges the steep markdown but highlights global product success. Trustburn data shows the higher education sector&nbsp;...",
