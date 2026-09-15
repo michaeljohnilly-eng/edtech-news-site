@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-14 22:54 UTC",
+  "updated_at": "2026-09-15 13:05 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 3,
-    "Product": 4,
-    "Startup": 2
+    "Product": 5,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Abwaab Buys Egypt's Eduact in Second Acquisition of 2026 - allAfrica.com",
+      "summary": "Jordan-based education technology company Abwaab has acquired Egyptian startup Eduact for an undisclosed amount, adding software for teachers and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://allafrica.com/stories/202609150012.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw07PYMnLIrjZIeRvPrrcXEQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-15T05:19:55Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Entlaq, ED Ventures sign partnership deal to drive edtech innovation in Egypt | ZAWYA",
+      "summary": "... education technology (EdTech) sector. ... Musk's Boring Company raises $3bln in UAE-led round, valuing startup at $23bln.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/business/entlaq-ed-ventures-sign-partnership-deal-to-drive-edtech-innovation-in-egypt-637612&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1mi2ix6zyNA2bb5CRM7U6s",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-15T04:45:45Z",
+      "category": "Startup"
+    },
+    {
+      "title": "[Techsauce 2026] BNV Solutions Unveils Transparent Agentic AI Education Ecosystem ...",
+      "summary": "... EdTech Innovation. - BNV Solutions presented its flagship 'DuoMath' platform alongside the broader 'duoAX' education suite, shifting AI learning&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kr.aving.net/news/articleViewAmp.html%3Fidxno%3D1814444&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3sT1xXABE3ame2NpGq5xqt",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-15T01:04:09Z",
+      "category": "Product"
+    },
     {
       "title": "EdTechX Raises Seed Round - The SaaS News",
       "summary": "EdTechX, a Tokyo-based education technology company that provides AI-powered individual English language learning, has successfully raised Series Seed&nbsp;...",
@@ -30,14 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-14T12:01:39Z",
       "category": "Product"
-    },
-    {
-      "title": "UpGrad's acquisition of Unacademy signals a consolidation phase in edtech, per Trustburn",
-      "summary": "Co-founder Gaurav Munjal acknowledges the steep markdown but highlights global product success. Trustburn data shows the higher education sector&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chietitoday.it/attualita/cerimonia-consegna-medaglia-oro-chieti-citta-aperta.html%3Flive-blog-32676696-2026-09-13-what-the-reviews-reveal-upgrad-s-acquisition-of-unacademy-signals-a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3_ip2AmED124YoIXZOc-mY",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-13T22:49:34Z",
-      "category": "Acquisition"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
