@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-09-18 12:38 UTC",
+  "updated_at": "2026-09-18 22:12 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 2,
+    "Acquisition": 3,
     "Product": 3,
     "Startup": 2
   },
   "articles": [
+    {
+      "title": "What the Keypath acquisition means for students in Risepoint supported programs",
+      "summary": "With the acquisition, Risepoint, a global education technology company, will bring healthcare programs across more than 20 university partners into&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/what-the-keypath-acquisition-means-for-students-in-risepoint-supported-programs&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2scazPy-I8Nmf37ped7HfH",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-18T10:41:38Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Vyzoxa, an EdTech Platform for AI Agent Development Learning, Empowers Learners ...",
       "summary": "Operated by NDFM Business World Pvt. Ltd., Vyzoxa combines industrial training, project-based structured learning internship, career pathway&nbsp;...",
