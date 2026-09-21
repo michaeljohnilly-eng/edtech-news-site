@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-09-21 14:47 UTC",
+  "updated_at": "2026-09-21 22:58 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Google Commits $4M for Free AI Training to Educators | The Tech Buzz",
+      "summary": "This creates familiarity with Google's platforms, positioning the company to capture future EdTech spending as schools adopt AI solutions and teachers&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/google-commits-4m-for-free-ai-training-to-educators&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3vBt40DYR_-FlgK2Ax7Xh5",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-21T16:51:14Z",
+      "category": "Product"
+    },
+    {
+      "title": "Abre Launches Vera AI Analytics Agent for K-12 Data Insights - Precedence Research",
+      "summary": "... education technology from traditional dashboards to conversational and adaptive analytics. Edtech companies want to find ways of making complex&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.precedenceresearch.com/news/abre-vera-analytics-agent-k12-dashboards&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw11Qxb9TF9woIhUMev4AudM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-21T14:26:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "Arep Saudi Raises Pre-Seed - The SaaS News",
+      "summary": "Arep Saudi, based in Saudi Arabia, is an education technology and research enablement company that has secured a Pre-Seed round of funding to enhance&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/arep-saudi-raises-pre-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw05_WP0c4Cy2WgVWNQ0AA3q",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-21T13:48:34Z",
+      "category": "Funding"
+    },
+    {
+      "title": "German edtech startup Edurino secures fifth government grant for new learning episode",
+      "summary": "Edurino, a Munich-based company, has secured funding from the German Federal Government's Video Game Funding Programme for its &quot;Edurino Episode&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/german-edtech-startup-edurino-secures-fifth-government-grant-for-new-learning-episode&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw23msWVO3QupnUIk0VkTK8Y",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-21T09:06:15Z",
+      "category": "Funding"
+    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
