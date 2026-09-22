@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-09-21 22:58 UTC",
+  "updated_at": "2026-09-22 13:01 UTC",
   "summary": {
     "Funding": 6,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 6,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "STAMMA and Starbucks UK launch stammering training | ETIH EdTech News",
+      "summary": "New campus Co-op opens at University of ... EdTech firm and educational publisher Twinkl takes top honours at 2026 Private Business Awards.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/stamma-and-starbucks-uk-launch-first-of-its-kind-training-to-support-people-who-stammer&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Kgp-_tuoes5S2e8nbKCJP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-22T05:53:30Z",
+      "category": "Product"
+    },
+    {
+      "title": "Zensai to Unveil The Only Agentic AI Coaching Platform Built Exclusively for Microsoft at ...",
+      "summary": "Zensai Recognized on TIME's 2024 World's Top EdTech Companies List &middot; PR ... Business Wire logo &middot; Asana Unveils Operating System for Human-Agent&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pressreleasehub.pa.media/article/coaching-with-context-zensai-to-unveil-the-only-agentic-ai-coaching-platform-built-exclusively-for-microsoft-at-humanx-amsterdam-83838.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1q-N_t-thrkZJjkR8jSE2v",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-21T23:39:57Z",
+      "category": "Product"
+    },
     {
       "title": "Google Commits $4M for Free AI Training to Educators | The Tech Buzz",
       "summary": "This creates familiarity with Google's platforms, positioning the company to capture future EdTech spending as schools adopt AI solutions and teachers&nbsp;...",
