@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-24 13:06 UTC",
+  "updated_at": "2026-09-24 22:57 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
     "Product": 6,
-    "Startup": 4
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Thinkific lays off 30 percent of employees as part of enterprise push | BetaKit",
+      "summary": "EdTech company cuts 96 employees as it pulls away from SMB customers. Online course creation platform Thinkific is cutting a large chunk of its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://betakit.com/thinkific-lays-off-30-percent-of-employees-as-part-of-enterprise-push/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw16MW1JjuIVcs_jaiKVXtHt",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T19:55:40Z",
+      "category": "Product"
+    },
+    {
+      "title": "Tampa edtech startup raises $2M in series seed round - The Business Journals",
+      "summary": "Scholar Education raises $2 million to expand AI-powered special education tools across classrooms and evaluations nationwide.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/tampabay/news/2026/09/24/scholar-raise.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1YVkRf2egbKmI255MYWxyd",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T16:07:01Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Coracle launches digital learning scheme for former prisoners - ADS Advance",
+      "summary": "Through a new initiative being run by the Chesterton Mill based EdTech company Coracle, former prisoners are being helped to reintegrate into&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.adsadvance.co.uk/coracle-launches-digital-learning-scheme-for-former-prisoners/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0owZs-F5V6KR8EV61QnKlT",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T13:43:43Z",
+      "category": "Product"
+    },
     {
       "title": "Online Coding for Kids Market Study Explores Industry Growth Toward $13.7 Billion",
       "summary": "Additionally, Tekie, another Indian edtech company, offers a live coding platform that utilizes storytelling and animated videos to simplify coding&nbsp;...",
@@ -22,38 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-24T00:33:59Z",
       "category": "Product"
-    },
-    {
-      "title": "Choosing the Right Drone Platform for K–12 Education | EdTech Magazine",
-      "summary": "EdTech. Technology Solutions That Drive Business. About Us &middot; Contact Us &middot; Privacy &middot; Terms &amp; Conditions &middot; Site Map. EdTech: CDW: Visit Some Of Our&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtechmagazine.com/k12/article/2026/09/choosing-right-drone-platform-k-12-education&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2OPCdYYSswPhyvGF15VDLD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T16:59:17Z",
-      "category": "Product"
-    },
-    {
-      "title": "TEDCO backs Bethesda edtech startup with $280K equity investment | Dealroom.co",
-      "summary": "What's the deal? University Startups, a Bethesda-based education technology company, has raised $282,000 in a growth equity round led by TEDCO,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/tedco-backs-bethesda-edtech-startup-with-280k-equity-investment&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3UXc0yDM12ZdYT_UQTzCtf",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T14:02:11Z",
-      "category": "Funding"
-    },
-    {
-      "title": "TEDCO invests $282K in University Startups' edtech platform for learners with disabilities",
-      "summary": "TEDCO, Maryland's economic engine for technology companies, has invested $282000 in University Startups, a Bethesda-based edtech company.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/tedco-invests-282k-in-university-startups-edtech-platform-for-learners-with-disabilities&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wVZ1vMnzk_tclF6xR36bL",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T13:09:59Z",
-      "category": "Product"
-    },
-    {
-      "title": "TEDCO Invests in University Startups - citybiz",
-      "summary": "Edtech company aims to help students and professionals navigate education, workforce and entrepreneurial opportunities through personalized solutions.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybiz.co/article/907815/tedco-invests-in-university-startups-2/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wDZxv7OU9nGKt6BbiCjGJ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T12:37:10Z",
-      "category": "Startup"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
