@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-09-23 22:38 UTC",
+  "updated_at": "2026-09-24 13:06 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 3,
-    "Product": 9,
+    "Acquisition": 2,
+    "Product": 6,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "Online Coding for Kids Market Study Explores Industry Growth Toward $13.7 Billion",
+      "summary": "Additionally, Tekie, another Indian edtech company, offers a live coding platform that utilizes storytelling and animated videos to simplify coding&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4642369/online-coding-for-kids-market-study-explores-industry-growth&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iMcDFjzWjK1mjObzzxg3W",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T10:05:12Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech startup Glite launches English language fluency app, bringing AI-powered tutoring ...",
+      "summary": "The company is targeting one billion non-native English learners globally, improving confidence and building fluency. Pictured is an Asian woman&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/edtech-start-up-glite-launches-english-language-fluency-app-bringing-ai-powered-tutoring-to-learners&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0TQ8I0sjdVLFL2LmAyg6kg",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T00:33:59Z",
+      "category": "Product"
+    },
     {
       "title": "Choosing the Right Drone Platform for K–12 Education | EdTech Magazine",
       "summary": "EdTech. Technology Solutions That Drive Business. About Us &middot; Contact Us &middot; Privacy &middot; Terms &amp; Conditions &middot; Site Map. EdTech: CDW: Visit Some Of Our&nbsp;...",
@@ -38,54 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-23T12:37:10Z",
       "category": "Startup"
-    },
-    {
-      "title": "CollegeSource CEO Kerry Cooper Named Finalist for Best Global EdTech Leader",
-      "summary": "Most recently, the company launched the CollegeSource Data Partner Program, which gives colleges and universities streamlined access to course&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/collegesource-ceo-kerry-cooper-named-finalist-for-best-global-edtech-leader-302886969.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0sTsua4VOUeVzv3HmJ4l9i",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T12:02:31Z",
-      "category": "Product"
-    },
-    {
-      "title": "Vyzoxa Redefines AI Learning Through Practical AI Agent Development, Empowering ... - The Wire",
-      "summary": "AMRITSAR, INDIA — Operated by NDFM Business World Pvt. Ltd., Vyzoxa, an EdTech platform emerges with a Mission to Shape One Million AI Innovators&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.thewire.in/article/ptiprnews/vyzoxa-redefines-ai-learning-through-practical-ai-agent-development-empowering-learners-worldwide-to-build-with-artificial-intelligencevyzoxa-redefines-ai-learning-through-practical-ai-agent-developm&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0qIgww_C_QInCJ9Vb_xJmO",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T06:20:55Z",
-      "category": "Product"
-    },
-    {
-      "title": "Learning Commons Launches Open Platform for K-12 Edtech - EdSurge",
-      "summary": "Eedi, an 11-year-old company that researches why students struggle to learn math, contributed its data to the platform. “Partnering with Learning&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edsurge.com/news/learning-commons-launches-open-ai-platform-for-k-12-edtech&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jeVQorisxRL4BmRPu9GKS",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-23T00:16:42Z",
-      "category": "Product"
-    },
-    {
-      "title": "Pearson acquires American assessment technology provider, ITS - EdTech Innovation Hub",
-      "summary": "The acquisition strengthens the education company's core assessment and verification capabilities. Pictured is a laptop with hands in focus using the&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/pearson-acquires-american-assessment-technology-provider-its&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0lqJ49XhW4qROXNWP7q5Xk",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-22T23:35:47Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "UNILAG postgraduate student launches edtech platform to expand learning access",
-      "summary": "The Etude mobile application, developed by WalterSam Global Technologies Ltd, was unveiled on Friday at the Bank of Industry UNILAG Incubation and Co-&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businessday.ng/news/article/unilag-postgraduate-student-launches-edtech-platform-to-expand-learning-access/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3P8rsDewFEImhvbQNkvlaA",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-22T22:10:20Z",
-      "category": "Product"
-    },
-    {
-      "title": "Vyzoxa Redefines AI Learning Through Practical AI Agent Development, Empowering ...",
-      "summary": "Operated by NDFM Business World Pvt. Ltd., Vyzoxa, an EdTech platform emerges with a Mission to Shape One Million AI Innovators by 2030.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bignewsnetwork.com/news/279324325/vyzoxa-redefines-ai-learning-through-practical-ai-agent-development-empowering-learners-worldwide-to-build-with-artificial-intelligence&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw122-nkvY0zUyh9ucWYsznX",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-22T19:36:21Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
