@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-09-24 22:57 UTC",
+  "updated_at": "2026-09-25 13:12 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 9,
     "Acquisition": 2,
-    "Product": 6,
+    "Product": 5,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Edtech startup Arivihan raises $11.5M at $68M valuation in Series A round | Dealroom.co",
+      "summary": "Indore-based edtech startup Arivihan is raising Rs 95.86 crore (approximately $10 million) in a Series A round co-led by existing investors Accel&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/edtech-startup-arivihan-raises-11-5m-at-68m-valuation-in-series-a-round&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Qor01vk4h66eaPmqT2Fif",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-25T10:38:45Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Scholar Education Raises $2M Seed - The SaaS News",
+      "summary": "Scholar Education, a Tampa-based education technology company, has raised $2 million in a seed round. ... Software Category: EdTech. Source: https&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/scholar-education-raises-2m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw16gDGz_CizdJlTRhw9ZSw4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-25T06:43:42Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Medical edtech Medcast diagnoses $5.4 million for clinical AI platform - Startup Daily",
+      "summary": "The raise was led by veteran Queensland medical software business Best Practice Software. The funding will be used on adding to the headcount in&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupdaily.net/topic/funding/medical-edtech-medcast-diagnoses-5-4-million-for-clinical-ai-platform/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3OwzRNTnF12tuAPM7ZRDtN",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-25T00:28:26Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Driving growth: 11 new spinout companies emerge from the University of Manchester",
+      "summary": "... companies and securing over £56m of investment into its portfolio ... EdTech startup Glite launches English language fluency app, bringing AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/driving-growth-11-new-spinout-companies-emerge-from-the-university-of-manchester&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2nEZDCGHZNRmvgH2giR4nu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-24T23:34:09Z",
+      "category": "Funding"
+    },
     {
       "title": "Thinkific lays off 30 percent of employees as part of enterprise push | BetaKit",
       "summary": "EdTech company cuts 96 employees as it pulls away from SMB customers. Online course creation platform Thinkific is cutting a large chunk of its&nbsp;...",
@@ -32,19 +64,11 @@
       "category": "Product"
     },
     {
-      "title": "Online Coding for Kids Market Study Explores Industry Growth Toward $13.7 Billion",
-      "summary": "Additionally, Tekie, another Indian edtech company, offers a live coding platform that utilizes storytelling and animated videos to simplify coding&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4642369/online-coding-for-kids-market-study-explores-industry-growth&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iMcDFjzWjK1mjObzzxg3W",
+      "title": "Korea's Leading EdTech Expo 'EdTech Korea Fair' held by KETIA and KOTRA",
+      "summary": "Going beyond a simple technology showcase, the fair has established itself as a core business platform combining the government's edtech industry&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/small-business/articles/koreas-leading-edtech-expo-edtech-100000505.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cOrk6DtV_Ts30H0GbvnwA",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-24T10:05:12Z",
-      "category": "Product"
-    },
-    {
-      "title": "EdTech startup Glite launches English language fluency app, bringing AI-powered tutoring ...",
-      "summary": "The company is targeting one billion non-native English learners globally, improving confidence and building fluency. Pictured is an Asian woman&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/edtech-start-up-glite-launches-english-language-fluency-app-bringing-ai-powered-tutoring-to-learners&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0TQ8I0sjdVLFL2LmAyg6kg",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-24T00:33:59Z",
+      "published": "2026-09-24T11:01:35Z",
       "category": "Product"
     },
     {
