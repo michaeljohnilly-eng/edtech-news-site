@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-09-26 12:37 UTC",
+  "updated_at": "2026-09-26 22:19 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 2,
     "Startup": 3
   },
   "articles": [
-    {
-      "title": "Exclusive: Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation - Entrackr",
-      "summary": "AI Edtech startup Arivihan is set to raise Rs 95.86 crore or $10 million in a Series A round co-led by existing investors Accel and Prosus.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/exclusive/exclusive-edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation-12574900&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0blZ947SlUaqsi1EzNkFbl",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-25T19:24:48Z",
-      "category": "Funding"
-    },
-    {
-      "title": "OpenAI launches MentalHealthBench for AI mental health testing | ETIH EdTech News",
-      "summary": "The benchmark was co-created with more than 80 licensed psychologists and psychiatrists across 22 countries, speaking 19 languages and representing&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-releases-mentalhealthbench-to-test-ai-responses-in-mental-health-conversations&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qgUqKnLA4wQ0PBGjDI8u5",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-25T11:40:02Z",
-      "category": "Product"
-    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
