@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-09-27 22:45 UTC",
+  "updated_at": "2026-09-28 16:23 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 6,
+    "Startup": 6
   },
   "articles": [
     {
-      "title": "BV Investment Partners makes strategic investment in Hero K12 | Dealroom.co",
-      "summary": "In October 2017 BV added SchoolMint as the second company in the same EdTech platform, listed by BV as EdTech Holdings in Fund VIII. Source. BV&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/bv-investment-partners-makes-strategic-investment-in-hero-k12&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0mGiJ2Jclm9uLJpFRc4upS",
+      "title": "Microsoft invests in edtech startup Wayvida - Zee Business",
+      "summary": "Kerala-based EdTech startup Wayvida has received Rs 3.25 crore in Microsoft cloud credits, supporting the company's plans to expand its AI-powered&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zeebiz.com/small-business/news-microsoft-invests-in-edtech-startup-wayvida-402992/amp&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw16rnZl1OY7XNIgWmiV2n0p",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-27T04:07:42Z",
-      "category": "Funding"
+      "published": "2026-09-28T12:57:08Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Microsoft backs Kerala edtech startup Wayvida with 3.25 crore support to accelerate AI innovation",
+      "summary": "Kerala-based EdTech startup Wayvida has received 3.25 crore in Microsoft cloud credits, supporting the company's plans to expand its AI-powered&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bignewsnetwork.com/news/279337426/microsoft-backs-kerala-edtech-startup-wayvida-with-325-crore-support-to-accelerate-ai-innovation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3b_2rrsdYGNSGduQELHzFb",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T10:48:38Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Microsoft backs Kerala edtech startup Wayvida with ₹3.25 crore support to accelerate AI innovation",
+      "summary": "... company's plans to expand its AI-powered education technology platform. The support is expected to assist Wayvida in scaling its technology&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/business/microsoft-backs-kerala-edtech-startup-wayvida-with-%25E2%2582%25B93-25-crore-support-to-accelerate-ai-innovation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ORwdUTMy-rV7VCrS0M88a",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T10:14:56Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech Mondays: What Makes Public-Private Partnerships Work? - Shega Media",
+      "summary": "... EdTech companies. For startups and other private providers, moving from a pilot to national scale can involve substantial upfront costs, complex&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://shega.co/news/ed-tech-mondays-what-makes-public-private-partnerships-work&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2NvZG04IkLgSaG7YZXu53C",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T08:33:10Z",
+      "category": "Startup"
+    },
+    {
+      "title": "OpenAI expands Academy with role-based AI courses for educators, students and developers",
+      "summary": "A company could, for example, use Apply AI at Work for general employee ... EdTech startup Glite launches English language fluency app&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/openai-expands-academy-with-role-based-ai-courses-for-educators-students-and-developers&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IuBPyqsqm7C_adf0E7pL_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T05:05:43Z",
+      "category": "Product"
+    },
+    {
+      "title": "Microsoft names James Collins Global Government Lead for new Frontier Company",
+      "summary": "... company's technology. Public-sector experience spans Microsoft ... EdTech startup Glite launches English language fluency app, bringing AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/microsoft-names-james-collins-global-government-lead-for-new-frontier-company&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0RxcXBQqSzD7jDzaqJ6fzg",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T00:20:41Z",
+      "category": "Product"
+    },
+    {
+      "title": "Learning by Questions takes Year 6 teacher guide live | ETIH EdTech News",
+      "summary": "The event grew out of Sophie's Travel Guide Through Year 6, a free handbook launched by Learning by Questions, or LbQ, in 2025. The company says more&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/learning-by-questions-turns-year-6-guide-into-live-teacher-training-event&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1rDeSKdYofgtdq8i4qGlDG",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T00:05:59Z",
+      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
