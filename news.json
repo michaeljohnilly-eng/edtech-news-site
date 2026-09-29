@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-28 16:23 UTC",
+  "updated_at": "2026-09-29 00:08 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 6,
-    "Startup": 6
+    "Product": 7,
+    "Startup": 8
   },
   "articles": [
+    {
+      "title": "Microsoft backs Kerala edtech startup Wayvida with ₹3.25 crore support to accelerate AI innovation",
+      "summary": "Kerala-based EdTech startup Wayvida has received ₹3.25 crore in Microsoft cloud credits, supporting the company's plans to expand its AI-powered&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/business/microsoft-backs-kerala-edtech-startup-wayvida-with-8377325-crore-support-to-accelerate-ai-innovation20260928153326/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1i6PP7cvetZa9dHbSa0qnE",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T16:07:29Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Microsoft Extends ₹3.25 Crore Support to Wayvida, Boosting AI-Powered Education Technology",
+      "summary": "Kerala-based EdTech startup Wayvida has received ₹3.25 crore in cloud credits under Microsoft for Startups, helping the company strengthen its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/microsoft-extends-325-crore-support-to-wayvida-boosting-ai-powered-education-technology.61193&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0HfkG_B4meDQxAHNbmuIxZ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T15:00:33Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
+      "summary": "... company from giving its chat platform &quot;human attributes.&quot; A ... Microsoft backs Kerala edtech startup Wayvida with Rs 3.25 crore support to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/artificial-intelligence/florida-asks-court-to-bar-openai-from-developing-new-models-as-part-of-child-harm-lawsuit/articleshow/134545674.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0VKrOAEToWE5t3uhTbSquj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-28T14:52:10Z",
+      "category": "Product"
+    },
     {
       "title": "Microsoft invests in edtech startup Wayvida - Zee Business",
       "summary": "Kerala-based EdTech startup Wayvida has received Rs 3.25 crore in Microsoft cloud credits, supporting the company's plans to expand its AI-powered&nbsp;...",
