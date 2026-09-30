@@ -1,43 +1,51 @@
 {
-  "updated_at": "2026-09-29 23:23 UTC",
+  "updated_at": "2026-09-30 14:31 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 5,
-    "Startup": 3
+    "Product": 4,
+    "Startup": 4
   },
   "articles": [
     {
-      "title": "D2L Inc. (TSX:DTOL): Digital Learning Platform Expansion and AI-Driven Education Trends ...",
-      "summary": "How Does the Company Compare With Other Industry Peers? D2L operates within the global education technology sector, competing with learning management&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kalkine.ca/news/artificial-intelligence/d2l-inc-tsxdtol-digital-learning-platform-expansion-and-ai-driven-education-trends-support-renewed-investor-momentum&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xheXZGEer0fQQEhPHKeKr",
+      "title": "Arivihan Secures $10M to Scale AI Tutoring Platform Across India - Asia Business Outlook",
+      "summary": "Indian AI edtech startup Arivihan has raised $10 million in a fresh funding round led by existing investors Accel and Prosus Ventures,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiabusinessoutlook.com/news/arivihan-secures-10m-to-scale-ai-tutoring-platform-across-india-nwid-12539.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jiN7ez56io-VvM96FRsZb",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-29T14:23:20Z",
-      "category": "Product"
-    },
-    {
-      "title": "Instructure Launches First EdTech Top 40 for Higher Education, Finds Dedicated AI Tools ...",
-      "summary": "PRNewswire/ -- Instructure, the leading learning ecosystem and maker of Canvas LMS, today released EdTech Top 40: Inside the U.S. Higher Education&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/instructure-launches-first-edtech-top-40-for-higher-education-finds-dedicated-ai-tools-outside-the-top-100-302892355.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3T67oC8NXAukzeapTyfl_v",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-29T12:03:10Z",
-      "category": "Product"
-    },
-    {
-      "title": "INSEAD rolls out ChatGPT Edu across institution in new OpenAI partnership",
-      "summary": "Microsoft names James Collins Global Government Lead for new Frontier Company ... EdTech startup Glite launches English language fluency app, bringing&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/insead-rolls-out-chatgpt-edu-across-institution-in-new-openai-partnership&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw29lm4w1xmJwbXSXM47RIQF",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-29T06:51:06Z",
-      "category": "Product"
-    },
-    {
-      "title": "Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
-      "summary": "AI Edtech startup Arivihan is set to raise Rs 95.86 crore or $10 million in a Series A round co-led by existing investors Accel and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupstorymedia.com/edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw36L-_oknt8sljh0dcT_gHN",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-29T00:31:53Z",
+      "published": "2026-09-30T09:17:13Z",
       "category": "Funding"
+    },
+    {
+      "title": "Arivihan raises $10M as AI-led edtech targets India's smaller cities - YourStory.com",
+      "summary": "The new funding takes the Indore-based company's total raised capital to more than $15 million. Arivihan said it will use the money to enter new&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3LL49Ok4o9BJGFq300nJO4",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-30T03:55:49Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Arivihan raises $10 million to expand AI-powered learning platform - Business Standard",
+      "summary": "The edtech startup, backed by Accel and Prosus Ventures, plans to enter new states and CBSE while strengthening its AI research and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/companies/start-ups/arivihan-raises-10-million-to-expand-ai-powered-learning-platform-126092901323_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1J60TIdE-hFPJ33umlfhT2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-30T00:37:58Z",
+      "category": "Product"
+    },
+    {
+      "title": "University of Maryland opens Microsoft quantum hub | ETIH EdTech News",
+      "summary": "The new Discovery Center in College Park brings Microsoft, international quantum companies, university researchers and startups into one hub as&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/university-of-maryland-opens-quantum-discovery-center-with-microsoft-as-investment-hits-500m&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qGn2ZCox3RF2fL6EQNCmm",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-30T00:36:51Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Handshake and OpenAI launch project-based AI Skills Studio | ETIH EdTech News",
+      "summary": "... edtech and workforce training initiative ... Microsoft names James Collins Global Government Lead for new Frontier Company.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/handshake-and-openai-turn-ai-skills-into-shareable-student-projects&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Y_vQb0U8jllGkouOc9aH0",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-09-29T23:06:16Z",
+      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
