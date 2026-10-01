@@ -1,43 +1,51 @@
 {
-  "updated_at": "2026-10-01 15:01 UTC",
+  "updated_at": "2026-10-01 23:38 UTC",
   "summary": {
-    "Funding": 7,
+    "Funding": 5,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 3
+    "Product": 4,
+    "Startup": 5
   },
   "articles": [
     {
-      "title": "KIDZ AI Submits Fleet Procurement Intention for 500 Tesla Robotaxis and Plans to Launch ...",
-      "summary": "... education technology company advancing AI infrastructure, GPU compute initiatives and Physical AI alongside its core EdTech operations, today&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/accesswire/1228905msn/kidz-ai-submits-fleet-procurement-intention-for-500-tesla-robotaxis-and-plans-to-launch-autonomous-fleet-operations-strategy&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1kuK-PZubH1Mq0kfRpU_cI",
+      "title": "Horowitz Andreessen Academy raises $42m for new San Francisco school",
+      "summary": "The Horowitz Andreessen Academy has raised $42 million for a new San Francisco education model led by Udemy co-founder Gagan Biyani. ETIH edtech&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/horowitz-andreessen-academy-raises-42m-for-new-san-francisco-school&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Sq8QRpuyEcp7lS8s01sBn",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T12:35:04Z",
+      "published": "2026-10-01T23:16:59Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Teachmint revenue jumps 2.8X to Rs 205 Cr in FY26 - Entrackr",
+      "summary": "Edtech startup Teachmint continued its strong growth in FY26, with its operating revenue crossing the Rs 200 crore mark. The company also narrowed&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1TnL2aNEpuwjUBjprQoxek",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-01T21:21:53Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Injini to host 5th SA EdTech Week in Johannesburg, focus on teacher empowerment",
+      "summary": "Passionate about the vibrant tech startups scene in Africa, Tom can usually be found sniffing out the continent's most exciting new companies and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://disruptafrica.com/2026/10/01/injini-to-host-5th-sa-edtech-week-in-johannesburg-focus-on-teacher-empowerment/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3vc6O9FVjxp-59W_CZJHVU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-01T13:29:00Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Linewize EdTech Manager Launches Screen Time Feature and Wins Tech &amp; Learning ...",
+      "summary": "Award-winning EdTech analytics platform recognized for giving K-12 districts clear visibility into student screen time, app usage and compliance.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/linewize-edtech-manager-launches-screen-time-feature-and-wins-tech--learning-award-of-excellence-back-to-school-2026-302894658.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0fmYYdBFvTrjIfQDeG-Unn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-01T12:02:53Z",
       "category": "Product"
     },
     {
-      "title": "AI edtech startup Arivihan raises $10 mn from Accel, Prosus - The Times of India",
-      "summary": "The funding comes as a shift to a Rs 51 annual entry plan has helped it draw more than 4 lakh paying students, co-founder and CEO Ritesh Singh Chandel&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/business/india-business/ai-edtech-startup-arivihan-raises-10-mn-from-accel-prosus/articleshow/134592347.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2I_QNPWFdSi6HW8c1JcE4U",
+      "title": "KPC Launches AI-Integrated Learning Platform &quot;Pick Class&quot; - The Asia Business Daily",
+      "summary": "... EdTech specialist company Newin. The Pick Class platform, built on the strategic partnership between the two firms, puts advanced AI at its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/smb-venture/2026100113545152718&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Nk_Eg9JP9T-XNXBP4bGLl",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T11:26:12Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Arivihan raises $10 mn series A funding co-led by Accel, Prosus - Entrepreneur",
-      "summary": "Indore-based edtech startup Arivihan has raised $10 million in a series A round co-led by existing investors Accel and Prosus Ventures, as it&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/arivihan-raises-10-mn-series-a-funding-co-led-by-accel-prosus/134583000&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0PqRslRyeRSsZMfV3bIdH3",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T07:56:00Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Arivihan raises $10 mn series A funding co-led by Accel, Prosus - Entrepreneur",
-      "summary": "Arivihan, launched in 2022 by IIT-Roorkee alumni, is an automated learning platform with interactive videos and AI study plans. Indore-based edtech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/news/funding/arivihan-raises-10-mn-series-a-funding-co-led-by-accel-prosus/134583000&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw267EjvE7eCVOgjXyC2xsOH",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T07:55:58Z",
-      "category": "Funding"
+      "published": "2026-10-01T05:29:40Z",
+      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
