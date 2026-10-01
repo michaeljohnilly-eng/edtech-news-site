@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-30 23:23 UTC",
+  "updated_at": "2026-10-01 15:01 UTC",
   "summary": {
-    "Funding": 9,
+    "Funding": 7,
     "Acquisition": 2,
-    "Product": 5,
-    "Startup": 4
+    "Product": 3,
+    "Startup": 3
   },
   "articles": [
     {
@@ -24,14 +24,6 @@
       "category": "Funding"
     },
     {
-      "title": "Arivihan Secures $10M to Scale AI Tutoring Platform Across India - Asia Business Outlook",
-      "summary": "Indian AI edtech startup Arivihan has raised $10 million in a fresh funding round led by existing investors Accel and Prosus Ventures,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiabusinessoutlook.com/news/arivihan-secures-10m-to-scale-ai-tutoring-platform-across-india-nwid-12539.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jiN7ez56io-VvM96FRsZb",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T09:17:13Z",
-      "category": "Funding"
-    },
-    {
       "title": "Arivihan raises $10 mn series A funding co-led by Accel, Prosus - Entrepreneur",
       "summary": "Indore-based edtech startup Arivihan has raised $10 million in a series A round co-led by existing investors Accel and Prosus Ventures, as it&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/arivihan-raises-10-mn-series-a-funding-co-led-by-accel-prosus/134583000&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0PqRslRyeRSsZMfV3bIdH3",
@@ -46,38 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-09-30T07:55:58Z",
       "category": "Funding"
-    },
-    {
-      "title": "Arivihan raises $10M as AI-led edtech targets India's smaller cities - YourStory.com",
-      "summary": "The new funding takes the Indore-based company's total raised capital to more than $15 million. Arivihan said it will use the money to enter new&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3LL49Ok4o9BJGFq300nJO4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T03:55:49Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Arivihan raises $10 million to expand AI-powered learning platform - Business Standard",
-      "summary": "The edtech startup, backed by Accel and Prosus Ventures, plans to enter new states and CBSE while strengthening its AI research and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/companies/start-ups/arivihan-raises-10-million-to-expand-ai-powered-learning-platform-126092901323_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1J60TIdE-hFPJ33umlfhT2",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T00:37:58Z",
-      "category": "Product"
-    },
-    {
-      "title": "University of Maryland opens Microsoft quantum hub | ETIH EdTech News",
-      "summary": "The new Discovery Center in College Park brings Microsoft, international quantum companies, university researchers and startups into one hub as&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/university-of-maryland-opens-quantum-discovery-center-with-microsoft-as-investment-hits-500m&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2qGn2ZCox3RF2fL6EQNCmm",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-30T00:36:51Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Handshake and OpenAI launch project-based AI Skills Studio | ETIH EdTech News",
-      "summary": "... edtech and workforce training initiative ... Microsoft names James Collins Global Government Lead for new Frontier Company.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/handshake-and-openai-turn-ai-skills-into-shareable-student-projects&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Y_vQb0U8jllGkouOc9aH0",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-09-29T23:06:16Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
