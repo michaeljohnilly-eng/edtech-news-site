@@ -1,12 +1,68 @@
 {
-  "updated_at": "2026-10-01 23:38 UTC",
+  "updated_at": "2026-10-02 14:23 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 2,
-    "Product": 4,
+    "Acquisition": 5,
+    "Product": 7,
     "Startup": 5
   },
   "articles": [
+    {
+      "title": "StudyStash 'sold for eight figures' a year after founders graduated - BusinessCloud",
+      "summary": "FoundersDealsEdTech. An adaptive AI study platform has been sold to a US company just a year after its founders graduated. Ben Ward, 23, and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businesscloud.co.uk/news/studystash-sold-for-eight-figures-a-year-after-founders-graduated/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1c0GBj2TBLeh2zuIXknPKn",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T10:27:01Z",
+      "category": "Product"
+    },
+    {
+      "title": "Kortext buys AI study platform StudyStash a year after founders graduated - Dealroom.co",
+      "summary": "What's the deal? Edtech company Kortext has acquired adaptive AI…",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/kortext-buys-ai-study-platform-studystash-a-year-after-founders-graduated&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2T8Ss5Y03YGcUaSebG9sZp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T08:28:25Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "AI study platform StudyStash acquired by Kortext just a year after founders' graduation",
+      "summary": "AI study platform StudyStash has been acquired by edtech company Kortext, a year after its founders graduated from the University of Birmingham.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/ai-study-platform-studystash-acquired-by-kortext-just-a-year-after-founders-graduation&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0i8gzI03qmkag8BUID_ccY",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T08:22:23Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "AI study platform StudyStash acquired by Kortext after rapid global expansion - Tech.eu",
+      "summary": "StudyStash has been acquired by Kortext, bringing its adaptive learning platform into the edtech company's portfolio as it expands its use across&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.eu/2026/10/02/ai-study-platform-studystash-acquired-by-kortext-after-rapid-global-expansion/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2y3BOk027-ejgH69GJ_-ST",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T08:22:06Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "MYCPE ONE Awarded in the Service Export: EdTech Category at the Payoneer India Cross ...",
+      "summary": "MYCPE ONE is a full-stack accounting and business services platform headquartered in Ahmedabad, India, serving 3,000+ CPA and accounting firms, along&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tribuneindia.com/news/business/mycpe-one-awarded-in-the-service-export-edtech-category-at-the-payoneer-india-cross-border-excellence-awards-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0lrWJa49rUN_xcD02bLUui",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T05:12:48Z",
+      "category": "Product"
+    },
+    {
+      "title": "Bahrain Business: Fashion and edtech platforms scoop awards - Gulf Daily News",
+      "summary": "Fashion and edtech platforms scoop awards ... Four innovative startups showcased their business solutions during the 28th edition of the StartUp Bahrain&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gdnonline.com/Details/1408313/Fashion-and-edtech-platforms-scoop-awards&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2tmEZLktKp4zNVZoZwCHcV",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T03:16:00Z",
+      "category": "Product"
+    },
+    {
+      "title": "Linewize EdTech Manager Launches Screen Time Feature and Wins Tech &amp; Learning ...",
+      "summary": "Tip: Try a valid symbol or a specific company name for relevant results. Trending Tickers. NKE-logo. NKE. 35.15. ( -0.71% ). CTVA-logo. CTVA.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/articles/linewize-edtech-manager-launches-screen-120000771.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uUDFrrnRBRgdMgb3wDN9R",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T00:14:24Z",
+      "category": "Product"
+    },
     {
       "title": "Horowitz Andreessen Academy raises $42m for new San Francisco school",
       "summary": "The Horowitz Andreessen Academy has raised $42 million for a new San Francisco education model led by Udemy co-founder Gagan Biyani. ETIH edtech&nbsp;...",
@@ -37,14 +93,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/linewize-edtech-manager-launches-screen-time-feature-and-wins-tech--learning-award-of-excellence-back-to-school-2026-302894658.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0fmYYdBFvTrjIfQDeG-Unn",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-01T12:02:53Z",
-      "category": "Product"
-    },
-    {
-      "title": "KPC Launches AI-Integrated Learning Platform &quot;Pick Class&quot; - The Asia Business Daily",
-      "summary": "... EdTech specialist company Newin. The Pick Class platform, built on the strategic partnership between the two firms, puts advanced AI at its&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/smb-venture/2026100113545152718&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Nk_Eg9JP9T-XNXBP4bGLl",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-01T05:29:40Z",
       "category": "Product"
     },
     {
