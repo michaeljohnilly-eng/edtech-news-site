@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-10-02 14:23 UTC",
+  "updated_at": "2026-10-02 23:31 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 5,
-    "Product": 7,
-    "Startup": 5
+    "Product": 8,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Cambridge company launches digital learning scheme for former prisoners - ATV Today",
+      "summary": "Coracle, an education technology (EdTech) company based at Chesterton Mill, has deployed secure laptops at approved premises across the North West&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atvtoday.co.uk/318237-uk-life/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw28CVx1c0ruJFROPVVJRpLh",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T21:35:37Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech Startups With Social Impact (2026) - Causeartist",
+      "summary": "Directory membership does not purchase ranking. Last reviewed October 2026. Companies below come from the Education sector on Causeartist. Inclusion&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.causeartist.com/blog/edtech-startups-social-impact&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2DC6gQqWggwJ8QQRCXT3ew",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T20:10:54Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Duolingo and Taco Bell roll out multilingual hot sauce packets in global collaboration",
+      "summary": "The Pittsburgh edtech company is teaming with Taco Bell to launch a limited edition condiment created exclusively as part of its collaboration&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/pittsburgh/news/2026/10/02/duolingo-taco-bell-collaboration.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0uKVZCVzZBa282Uu1krdRv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-02T20:09:05Z",
+      "category": "Product"
+    },
     {
       "title": "StudyStash 'sold for eight figures' a year after founders graduated - BusinessCloud",
       "summary": "FoundersDealsEdTech. An adaptive AI study platform has been sold to a US company just a year after its founders graduated. Ben Ward, 23, and&nbsp;...",
@@ -61,38 +85,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/articles/linewize-edtech-manager-launches-screen-120000771.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2uUDFrrnRBRgdMgb3wDN9R",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-02T00:14:24Z",
-      "category": "Product"
-    },
-    {
-      "title": "Horowitz Andreessen Academy raises $42m for new San Francisco school",
-      "summary": "The Horowitz Andreessen Academy has raised $42 million for a new San Francisco education model led by Udemy co-founder Gagan Biyani. ETIH edtech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/horowitz-andreessen-academy-raises-42m-for-new-san-francisco-school&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Sq8QRpuyEcp7lS8s01sBn",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-01T23:16:59Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Teachmint revenue jumps 2.8X to Rs 205 Cr in FY26 - Entrackr",
-      "summary": "Edtech startup Teachmint continued its strong growth in FY26, with its operating revenue crossing the Rs 200 crore mark. The company also narrowed&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrackr.com/fintrackr/teachmint-revenue-jumps-28x-to-rs-205-cr-in-fy26-12612591&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1TnL2aNEpuwjUBjprQoxek",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-01T21:21:53Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Injini to host 5th SA EdTech Week in Johannesburg, focus on teacher empowerment",
-      "summary": "Passionate about the vibrant tech startups scene in Africa, Tom can usually be found sniffing out the continent's most exciting new companies and&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://disruptafrica.com/2026/10/01/injini-to-host-5th-sa-edtech-week-in-johannesburg-focus-on-teacher-empowerment/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3vc6O9FVjxp-59W_CZJHVU",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-01T13:29:00Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Linewize EdTech Manager Launches Screen Time Feature and Wins Tech &amp; Learning ...",
-      "summary": "Award-winning EdTech analytics platform recognized for giving K-12 districts clear visibility into student screen time, app usage and compliance.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/linewize-edtech-manager-launches-screen-time-feature-and-wins-tech--learning-award-of-excellence-back-to-school-2026-302894658.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0fmYYdBFvTrjIfQDeG-Unn",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-01T12:02:53Z",
       "category": "Product"
     },
     {
