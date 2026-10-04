@@ -1,27 +1,35 @@
 {
-  "updated_at": "2026-10-03 22:37 UTC",
+  "updated_at": "2026-10-04 13:38 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
     "Product": 4,
-    "Startup": 4
+    "Startup": 5
   },
   "articles": [
     {
-      "title": "17-Year-Old Imran Chaudhary Builds ₹5 Crore AI Startup While Studying in Class 12",
-      "summary": "Imran Chaudhary, who belongs to Doongi village in Rajouri district, is the founder of Lagnever Technologies Private Limited, an EdTech company that&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.educationtimes.com/learning/17-year-old-imran-chaudhary-builds-5-crore-ai-startup-while-studying-in-class-12/articleshow/134654973.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1RvWSLQGV5RIbew9rnS6zw",
+      "title": "How AI is saving Nigerian lecturers days of preparation - The Guardian Nigeria",
+      "summary": "In 2025, he found Distinction AI, an education technology platform developed by Distinction Labs, a subsidiary of Nigerian edtech company FlexiSAF&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://guardian.ng/news/how-ai-is-saving-nigerian-lecturers-days-of-preparation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iHHpdtED5VOG4eplqqGeJ",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-10-03T08:21:26Z",
+      "published": "2026-10-04T06:23:55Z",
+      "category": "Product"
+    },
+    {
+      "title": "Inside NPrep, the Jodhpur Startup Using AI for Nursing Exam Preparation - Ascendants",
+      "summary": "The company uses different AI models for specific operational ... This reflects an important consideration in healthcare-focused edtech: personalisation&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ascendants.in/the-ascendants/nprep-ai-powered-nursing-exam-preparation-india/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw26oHxDij80EKmyMhlFEgFi",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-04T05:50:36Z",
       "category": "Startup"
     },
     {
-      "title": "Santander Open Academy has openings for training in AI and Marketing | TI INSIDE Online",
-      "summary": "Santander, through its global platform Santander Open Academy and in partnership with the edtech company ... co-founder of SoulCode. &quot;Preparing&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tiinside.com.br/en/02/10/2026/santander-open-academy-tem-vagas-para-formacao-em-ia-e-marketing/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1LUVowyam7e35F7ObgnBS1",
+      "title": "This Edtech Startup's 'Nursing Brain' Tells Students What to Study Next | AIM",
+      "summary": "The company initially focused on helping nurses prepare for government examinations while they continued to work. Dr Kaushik says nurses preparing for&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://analyticsindiamag.com/ai-startups/this-edtech-startups-nursing-brain-tells-students-what-to-study-next&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Q2hnG6wyRwABM8bsRzlrN",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-10-03T00:28:30Z",
-      "category": "Product"
+      "published": "2026-10-04T04:43:39Z",
+      "category": "Startup"
     },
     {
       "title": "Eight Rwandan Startups Are Reimagining How Technology Can Improve Learning",
