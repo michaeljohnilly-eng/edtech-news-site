@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 13:38 UTC",
+  "updated_at": "2026-10-04 22:40 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
@@ -7,6 +7,14 @@
     "Startup": 5
   },
   "articles": [
+    {
+      "title": "Scottish prison launches digital learning scheme to support rehabilitation - ATV Today",
+      "summary": "HMP Addiewell becomes the first prison in Scotland to introduce secure educational laptops from Cambridge-based EdTech company Coracle.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atvtoday.co.uk/318267-scottish-prisons/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3BVpP6jAcBbKM2xld_JQuP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-04T16:27:45Z",
+      "category": "Product"
+    },
     {
       "title": "How AI is saving Nigerian lecturers days of preparation - The Guardian Nigeria",
       "summary": "In 2025, he found Distinction AI, an education technology platform developed by Distinction Labs, a subsidiary of Nigerian edtech company FlexiSAF&nbsp;...",
@@ -30,14 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-04T04:43:39Z",
       "category": "Startup"
-    },
-    {
-      "title": "Eight Rwandan Startups Are Reimagining How Technology Can Improve Learning",
-      "summary": "The eight companies are beneficiaries of the Mastercard Foundation EdTech Fellowship, an 18-month acceleration program launched in Rwanda in June&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ktpress.rw/2026/10/eight-rwandan-startups-are-reimagining-how-technology-can-improve-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3A0W9mOJn643EbNOgw3QVB",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-02T16:26:45Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
