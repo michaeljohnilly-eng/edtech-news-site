@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-10-04 22:40 UTC",
+  "updated_at": "2026-10-05 16:43 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
-    "Product": 4,
-    "Startup": 5
+    "Funding": 5,
+    "Acquisition": 4,
+    "Product": 5,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Common Sense Privacy Launches AI Privacy Assessment to Help Edtech Companies Earn ...",
+      "summary": "New assessment gives families, schools, and companies a clear way to see how AI products protect privacy, with kids at the center.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prweb.com/releases/common-sense-privacy-launches-ai-privacy-assessment-to-help-edtech-companies-earn-trust-in-ai-302896888.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wRb4a3_uDsxjcvkKJY_s-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T13:53:32Z",
+      "category": "Product"
+    },
+    {
+      "title": "Google Launches AI Training Program for UK, Ireland Educators | The Tech Buzz",
+      "summary": "The initiative also reflects broader trends in the EdTech sector, where personalized learning has become the holy grail. Companies like Khan Academy&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/google-launches-ai-training-program-for-uk-ireland-educators&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3KN4FCWkYWWKSq0bQtiDT8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T13:11:20Z",
+      "category": "Product"
+    },
+    {
+      "title": "AI Study Platform StudyStash Acquired by Kortext After Rapid Global Expansion - Konsulteer",
+      "summary": "Edtech company Kortext acquires StudyStash, an adaptive AI study platform used by 160+ institutions across the UK, Europe, the US and Africa.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.konsulteer.com/article/ai-study-platform-studystash-acquired-by-kortext-after-rapid-global-expansion&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3pVzsa3B3yjTmkWlaip_G_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T11:14:30Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Cambridge AI startup Zenithon raises $10m for physics models | ETIH EdTech News",
+      "summary": "The company emerged from King's College Cambridge's SPARK incubator and is developing physics-grounded AI models designed to make complex engineering&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/cambridge-backed-ai-startup-zenithon-raises-10m-to-accelerate-fusion-aerospace-and-chip-design&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0-fv_qx6NmEJAKFmmlougu",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T05:32:52Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Apply Now: $1 Million for AI EduTech Startup Coalitions - ICTworks",
+      "summary": "An edtech company or a lone NGO with a promising app does not qualify ... Learn how to get startup funding for your technology business, and find new&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ictworks.org/1-million-for-ai-edutech-coalitions/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Xooxo0bE3EvZJDjzyUjqV",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T04:47:22Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Pearson to acquire AI skills platform Workera | ETIH EdTech News",
+      "summary": "ETIH edtech news looks at how the deal expands Pearson's enterprise learning business, including AI fluency, adaptive assessment and customers&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/pearson-to-acquire-workera-in-major-push-into-ai-skills-and-workforce-assessment&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3PnZuGtk6C2TNe0xMO9Wgd",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T00:17:24Z",
+      "category": "Acquisition"
+    },
     {
       "title": "Scottish prison launches digital learning scheme to support rehabilitation - ATV Today",
       "summary": "HMP Addiewell becomes the first prison in Scotland to introduce secure educational laptops from Cambridge-based EdTech company Coracle.",
@@ -14,30 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-04T16:27:45Z",
       "category": "Product"
-    },
-    {
-      "title": "How AI is saving Nigerian lecturers days of preparation - The Guardian Nigeria",
-      "summary": "In 2025, he found Distinction AI, an education technology platform developed by Distinction Labs, a subsidiary of Nigerian edtech company FlexiSAF&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://guardian.ng/news/how-ai-is-saving-nigerian-lecturers-days-of-preparation/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iHHpdtED5VOG4eplqqGeJ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-04T06:23:55Z",
-      "category": "Product"
-    },
-    {
-      "title": "Inside NPrep, the Jodhpur Startup Using AI for Nursing Exam Preparation - Ascendants",
-      "summary": "The company uses different AI models for specific operational ... This reflects an important consideration in healthcare-focused edtech: personalisation&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ascendants.in/the-ascendants/nprep-ai-powered-nursing-exam-preparation-india/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw26oHxDij80EKmyMhlFEgFi",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-04T05:50:36Z",
-      "category": "Startup"
-    },
-    {
-      "title": "This Edtech Startup's 'Nursing Brain' Tells Students What to Study Next | AIM",
-      "summary": "The company initially focused on helping nurses prepare for government examinations while they continued to work. Dr Kaushik says nurses preparing for&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://analyticsindiamag.com/ai-startups/this-edtech-startups-nursing-brain-tells-students-what-to-study-next&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Q2hnG6wyRwABM8bsRzlrN",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-04T04:43:39Z",
-      "category": "Startup"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
