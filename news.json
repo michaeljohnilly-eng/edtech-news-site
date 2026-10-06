@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-10-05 16:43 UTC",
+  "updated_at": "2026-10-06 01:04 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 4,
-    "Product": 5,
-    "Startup": 4
+    "Product": 6,
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "Two Birmingham graduates turn university side project into AI startup acquisition",
+      "summary": "ETIH edtech news looks at the Higher Education acquisition, its US ... company Kortext, following an expansion that has taken the platform&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/two-birmingham-graduates-turn-university-side-project-into-ai-startup-acquisition&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw12r-xmezaNtZNwpZ2pAF8s",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T23:18:35Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Greater Houston Partnership launches AI career-navigation tool - The Business Journals",
+      "summary": "The initiative includes an AI-powered career-navigation platform developed in partnership with Raleigh, North Carolina-based Pathful Inc., an edtech&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/houston/news/2026/10/05/greater-houston-partnership-pathful-ai-tool-career.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1drwowUw5VZ_qrghl1xSZx",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T19:30:48Z",
+      "category": "Product"
+    },
+    {
+      "title": "90+ My Tuition App Launches FUTURE+ to Build Future-Ready Skills from the School Years",
+      "summary": "Bengaluru, 2026: 90+ My Tuition App, the Bengaluru-based K-12 edtech company, has announced the launch of FUTURE+, a new initiative aimed at&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiatechnologynews.in/90-my-tuition-app-launches-future-to-build-future-ready-skills-from-the-school-years/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3HxShj00J1KIDGfvB8qPO1",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T15:26:20Z",
+      "category": "Product"
+    },
     {
       "title": "Common Sense Privacy Launches AI Privacy Assessment to Help Edtech Companies Earn ...",
       "summary": "New assessment gives families, schools, and companies a clear way to see how AI products protect privacy, with kids at the center.",
@@ -32,36 +56,20 @@
       "category": "Acquisition"
     },
     {
+      "title": "Applications open for WISE EdTech Accelerator Program - fundsforNGOs",
+      "summary": "Business Model: For-profit ventures only; NGOs and nonprofits are not eligible. Team: Preference for startups with co-founders to ensure diverse&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www2.fundsforngos.org/innovation/applications-open-for-wise-edtech-accelerator-program/amp/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nZokL4ifIkoPKmBHsier9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-05T09:10:36Z",
+      "category": "Startup"
+    },
+    {
       "title": "Cambridge AI startup Zenithon raises $10m for physics models | ETIH EdTech News",
       "summary": "The company emerged from King's College Cambridge's SPARK incubator and is developing physics-grounded AI models designed to make complex engineering&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/cambridge-backed-ai-startup-zenithon-raises-10m-to-accelerate-fusion-aerospace-and-chip-design&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0-fv_qx6NmEJAKFmmlougu",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-05T05:32:52Z",
       "category": "Startup"
-    },
-    {
-      "title": "Apply Now: $1 Million for AI EduTech Startup Coalitions - ICTworks",
-      "summary": "An edtech company or a lone NGO with a promising app does not qualify ... Learn how to get startup funding for your technology business, and find new&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ictworks.org/1-million-for-ai-edutech-coalitions/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Xooxo0bE3EvZJDjzyUjqV",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T04:47:22Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Pearson to acquire AI skills platform Workera | ETIH EdTech News",
-      "summary": "ETIH edtech news looks at how the deal expands Pearson's enterprise learning business, including AI fluency, adaptive assessment and customers&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/pearson-to-acquire-workera-in-major-push-into-ai-skills-and-workforce-assessment&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3PnZuGtk6C2TNe0xMO9Wgd",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T00:17:24Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Scottish prison launches digital learning scheme to support rehabilitation - ATV Today",
-      "summary": "HMP Addiewell becomes the first prison in Scotland to introduce secure educational laptops from Cambridge-based EdTech company Coracle.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atvtoday.co.uk/318267-scottish-prisons/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3BVpP6jAcBbKM2xld_JQuP",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-04T16:27:45Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
