@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-06 14:41 UTC",
+  "updated_at": "2026-10-06 23:31 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 3,
-    "Product": 7,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "AI upskilling turns the chapter: From freshers to leaders - Business News",
+      "summary": "... business functions. Edtech platforms are seeing strong growth in enrolments for agentic AI, applied AI and business-focused programmes, pointing&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/news-ai-upskilling-turns-the-chapter-from-freshers-to-leaders-4355094/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1SEoITVpUvRmqNGvsNBBM1",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-06T17:47:09Z",
+      "category": "Product"
+    },
     {
       "title": "Acely named to Fast Company's Next Big Things in Tech list for adaptive test prep platform",
       "summary": "Acely, an edtech company offering personalised SAT and ACT test preparation, has been ... Acely, an edtech company offering personalised SAT and&nbsp;...",
@@ -30,38 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-05T23:18:35Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Greater Houston Partnership launches AI career-navigation tool - The Business Journals",
-      "summary": "The initiative includes an AI-powered career-navigation platform developed in partnership with Raleigh, North Carolina-based Pathful Inc., an edtech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/houston/news/2026/10/05/greater-houston-partnership-pathful-ai-tool-career.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1drwowUw5VZ_qrghl1xSZx",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T19:30:48Z",
-      "category": "Product"
-    },
-    {
-      "title": "90+ My Tuition App Launches FUTURE+ to Build Future-Ready Skills from the School Years",
-      "summary": "Bengaluru, 2026: 90+ My Tuition App, the Bengaluru-based K-12 edtech company, has announced the launch of FUTURE+, a new initiative aimed at&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiatechnologynews.in/90-my-tuition-app-launches-future-to-build-future-ready-skills-from-the-school-years/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3HxShj00J1KIDGfvB8qPO1",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T15:26:20Z",
-      "category": "Product"
-    },
-    {
-      "title": "Common Sense Privacy Launches AI Privacy Assessment to Help Edtech Companies Earn ...",
-      "summary": "New assessment gives families, schools, and companies a clear way to see how AI products protect privacy, with kids at the center.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prweb.com/releases/common-sense-privacy-launches-ai-privacy-assessment-to-help-edtech-companies-earn-trust-in-ai-302896888.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1wRb4a3_uDsxjcvkKJY_s-",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T13:53:32Z",
-      "category": "Product"
-    },
-    {
-      "title": "Google Launches AI Training Program for UK, Ireland Educators | The Tech Buzz",
-      "summary": "The initiative also reflects broader trends in the EdTech sector, where personalized learning has become the holy grail. Companies like Khan Academy&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/google-launches-ai-training-program-for-uk-ireland-educators&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3KN4FCWkYWWKSq0bQtiDT8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T13:11:20Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
