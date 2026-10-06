@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-06 01:04 UTC",
+  "updated_at": "2026-10-06 14:41 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 4,
-    "Product": 6,
-    "Startup": 5
+    "Funding": 5,
+    "Acquisition": 3,
+    "Product": 7,
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Acely named to Fast Company's Next Big Things in Tech list for adaptive test prep platform",
+      "summary": "Acely, an edtech company offering personalised SAT and ACT test preparation, has been ... Acely, an edtech company offering personalised SAT and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/acely-named-to-fast-company-s-next-big-things-in-tech-list-for-adaptive-test-prep-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Acs02iJnHmheIIYDYWx--",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-06T11:36:08Z",
+      "category": "Product"
+    },
+    {
+      "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
+      "summary": "The edtech company's wholly-owned subsidiary FinZ Finance has agreed to sell a Rs 95.79 crore loan portfolio to Auxilo Finserve, an RBI-registered&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2_hJjVXXqqTDUz78f3wCI2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-06T02:31:35Z",
+      "category": "Funding"
+    },
     {
       "title": "Two Birmingham graduates turn university side project into AI startup acquisition",
       "summary": "ETIH edtech news looks at the Higher Education acquisition, its US ... company Kortext, following an expansion that has taken the platform&nbsp;...",
@@ -46,30 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-05T13:11:20Z",
       "category": "Product"
-    },
-    {
-      "title": "AI Study Platform StudyStash Acquired by Kortext After Rapid Global Expansion - Konsulteer",
-      "summary": "Edtech company Kortext acquires StudyStash, an adaptive AI study platform used by 160+ institutions across the UK, Europe, the US and Africa.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.konsulteer.com/article/ai-study-platform-studystash-acquired-by-kortext-after-rapid-global-expansion&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3pVzsa3B3yjTmkWlaip_G_",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T11:14:30Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Applications open for WISE EdTech Accelerator Program - fundsforNGOs",
-      "summary": "Business Model: For-profit ventures only; NGOs and nonprofits are not eligible. Team: Preference for startups with co-founders to ensure diverse&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www2.fundsforngos.org/innovation/applications-open-for-wise-edtech-accelerator-program/amp/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3nZokL4ifIkoPKmBHsier9",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T09:10:36Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Cambridge AI startup Zenithon raises $10m for physics models | ETIH EdTech News",
-      "summary": "The company emerged from King's College Cambridge's SPARK incubator and is developing physics-grounded AI models designed to make complex engineering&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/cambridge-backed-ai-startup-zenithon-raises-10m-to-accelerate-fusion-aerospace-and-chip-design&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0-fv_qx6NmEJAKFmmlougu",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-05T05:32:52Z",
-      "category": "Startup"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
