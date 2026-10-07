@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-10-07 15:01 UTC",
+  "updated_at": "2026-10-07 23:59 UTC",
   "summary": {
-    "Funding": 13,
+    "Funding": 15,
     "Acquisition": 2,
     "Product": 4,
-    "Startup": 3
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Edtech firm byteXL raises $9 million - The Hindu",
+      "summary": "Edtech company byteXL has raised $9 million in a funding round led by Elevar Equity with participation from Kalaari Capital and The Michael&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/news/cities/Hyderabad/edtech-firm-bytexl-raises-9-million/article71555603.ece&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0wKbq2CgJQGPyLkwgqTSpD",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-07T18:09:30Z",
+      "category": "Funding"
+    },
+    {
+      "title": "AI EdTech Startup Arivihan Raises $10 M From Accel, Prosus - YouTube",
+      "summary": "Arundathi Ramanan speaks with Ritesh Singh Chandel, Co-Founder &amp; CEO of Arivihan, about the company's business model, growth strategy, and its&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7-_U0JfxlJM&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw29vHwV9_715-UR6GD5Bnxv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-07T15:40:17Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Indian edtech startup ByteXL raises $9m - Tech in Asia",
+      "summary": "The company said the new capital will support expansion, product development, and more academic and delivery capacity. The round follows byteXL's&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/indian-edtech-startup-bytexl-raises-9m&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0vh1pUiAip62SS9AGFoqth",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-07T15:38:07Z",
+      "category": "Product"
+    },
+    {
+      "title": "Edtech firm byteXL raises $9 million in funding round led by Elevar Equity | Education News",
+      "summary": "As part of its business-to-business learning model, byteXL works directly with engineering colleges, particularly across Tier-II and Tier-III cities,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/amp/education/news/edtech-firm-bytexl-raises-9-million-in-funding-round-led-by-elevar-equity-126100701049_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IZKFquFU6vUuw1HV1UTyj",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-07T13:13:32Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Edtech firm byteXL raises $9 million in funding round led by Elevar Equity | Education News",
+      "summary": "The previous funding was led by Kalaari Capital, with participation from the Dell Foundation. According to the company, the fresh round of investment&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/education/news/edtech-firm-bytexl-raises-9-million-in-funding-round-led-by-elevar-equity-126100701049_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3-YFdjvmriF3KZSQnsnBDQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-07T13:02:27Z",
+      "category": "Funding"
+    },
     {
       "title": "Byju Raveendran Withdraws Contempt Plea Before Karnataka High Court Against Byju's ... - LiveLaw",
       "summary": "Byju Raveendran and other suspended directors of Think &amp; Learn, the parent company of ed-tech platform Byju's, have withdrawn their contempt&nbsp;...",
@@ -78,22 +118,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-07T05:38:04Z",
       "category": "Funding"
-    },
-    {
-      "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model | YourStory",
-      "summary": "Edtech company byteXL has raised $9 million in its latest funding round, led by Elevar Equity, an impact investor, with participation from&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RRIAkQSTNc2fwDjns1OIC",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T05:32:27Z",
-      "category": "Funding"
-    },
-    {
-      "title": "AI upskilling turns the chapter: From freshers to leaders - Business News",
-      "summary": "... business functions. Edtech platforms are seeing strong growth in enrolments for agentic AI, applied AI and business-focused programmes, pointing&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.financialexpress.com/business/news-ai-upskilling-turns-the-chapter-from-freshers-to-leaders-4355094/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1SEoITVpUvRmqNGvsNBBM1",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-06T17:47:09Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
