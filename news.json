@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-07 23:59 UTC",
+  "updated_at": "2026-10-08 15:09 UTC",
   "summary": {
-    "Funding": 15,
+    "Funding": 7,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 3,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "ByteXL Raises $9M Series B - The SaaS News",
+      "summary": "ByteXL, a Hyderabad-based B2B edtech startup, has secured $9 million in a Series B funding round. The company, which provides an educational&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/bytexl-raises-9m-series-b/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2jhGrZ7q_iIZW00ZgV-jT6",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-08T06:52:10Z",
+      "category": "Funding"
+    },
     {
       "title": "Edtech firm byteXL raises $9 million - The Hindu",
       "summary": "Edtech company byteXL has raised $9 million in a funding round led by Elevar Equity with participation from Kalaari Capital and The Michael&nbsp;...",
@@ -37,86 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/amp/education/news/edtech-firm-bytexl-raises-9-million-in-funding-round-led-by-elevar-equity-126100701049_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0IZKFquFU6vUuw1HV1UTyj",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-07T13:13:32Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Edtech firm byteXL raises $9 million in funding round led by Elevar Equity | Education News",
-      "summary": "The previous funding was led by Kalaari Capital, with participation from the Dell Foundation. According to the company, the fresh round of investment&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.business-standard.com/education/news/edtech-firm-bytexl-raises-9-million-in-funding-round-led-by-elevar-equity-126100701049_1.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3-YFdjvmriF3KZSQnsnBDQ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T13:02:27Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Byju Raveendran Withdraws Contempt Plea Before Karnataka High Court Against Byju's ... - LiveLaw",
-      "summary": "Byju Raveendran and other suspended directors of Think &amp; Learn, the parent company of ed-tech platform Byju's, have withdrawn their contempt&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-dismisses-byju-raveendran-contempt-plea-irp-pankaj-srivastava-withdrawn-553529&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3U3tdNdytP5iyvmHzIkKNV",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T10:40:57Z",
-      "category": "Product"
-    },
-    {
-      "title": "byteXL raises $9 m from Elevar Equity, Kalaari Capital - Business Line",
-      "summary": "byteXL, an edtech company which offers technology and AI skilling to students in engineering colleges, has raised $9 million in a funding round&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehindubusinessline.com/info-tech/bytexl-raises-9-m-from-elevar-equity-kalaari-capital/article71554948.ece&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1293zoz1RwfLK46W5WezOW",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T09:38:54Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Fin-EdTech startup Okulyo raises $700K led by ebebek founder | Dealroom.co",
-      "summary": "It marks the company's second funding round within a year. What's the endgame? Okulyo combines education and financial technology on a single platform&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/fin-edtech-startup-okulyo-raises-700k-led-by-ebebek-founder&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0iAVvR1NswZweWAMVQFTrg",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T09:13:34Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Fin-EdTech startup Okulyo raises $700K led by ebebek founder Halil Erdoğmuş",
-      "summary": "This marks the company's second funding round within a year. The investment will be used to expand Okulyo's school and student network in Turkey,&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/fin-edtech-startup-okulyo-raises-700k-led-by-ebebek-founder-halil-erdo-mu&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1iqgTS3zfNuj9DLxAOBLb4",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T09:07:33Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Hyd: byteXL raises USD 9 million in funding round led by Elevar Equity - UNI",
-      "summary": "Hyderabad, Oct 7 (UNI) Edtech company byteXL on Wednesday said it has raised USD 9 million in its la.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.uniindia.com/business-economy/business-telangana-bytexl-fund/205470&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3jHo2tnZhUpimGNGJ_pwlo",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T08:54:31Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Edtech firm ByteXL raises $9 million in funding round led by Elevar Equity",
-      "summary": "Edtech firm ByteXL raises $9 million in funding round led by Elevar Equity ... company looks to expand its presence across India and invest in AI-led&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://economictimes.indiatimes.com/tech/funding/edtech-firm-bytexl-raises-9-million-in-series-b-round-led-by-elevar-equity/articleshow/134757491.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw21CwZZ8rhZIzYzbmMZnzIp",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T06:06:55Z",
-      "category": "Funding"
-    },
-    {
-      "title": "India's byteXL raises $9M Series B to scale AI skilling in engineering colleges | Dealroom.co",
-      "summary": "What's the deal? Indian edtech company byteXL has raised $9 mill…",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/india-s-bytexl-raises-9m-series-b-to-scale-ai-skilling-in-engineering-colleges&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3PRvgpCbfuTK98UYPw3-mp",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T06:02:54Z",
-      "category": "Funding"
-    },
-    {
-      "title": "byteXL Raises $9 Million to Expand AI and Technology Skilling Across India - LiveChennai",
-      "summary": "Edtech company byteXL has raised $9 million in its latest funding round, led by Elevar Equity, with participation from existing investors Kalaari&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livechennai.com/detailnews.asp%3Fcatid%3D%26newsid%3D83585&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Du7m3dG8XDHrUMInQ_EWE",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T06:02:06Z",
-      "category": "Funding"
-    },
-    {
-      "title": "byteXL raises $9 mn funding led by Elevar Equity - Entrepreneur",
-      "summary": "Edtech company byteXL has raised $9 million in its latest funding round led by Elevar Equity, with participation from existing investors Kalaari&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entrepreneur.economictimes.indiatimes.com/news/funding/bytexl-raises-9-mn-funding-led-by-elevar-equity/134756489&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw303QZZAI2SP4R6GWgTVBAC",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-07T05:38:04Z",
       "category": "Funding"
     },
     {
