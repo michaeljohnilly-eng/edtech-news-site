@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-09 23:46 UTC",
+  "updated_at": "2026-10-10 14:10 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 3,
     "Product": 3,
     "Startup": 6
   },
   "articles": [
+    {
+      "title": "[Weekly funding roundup Oct 3-9] Steep decline in VC inflow - YourStory.com",
+      "summary": "Edtech company byteXL raised $9 million from Elevar Equity, Kalaari Capital, and The Michael &amp; Susan Dell Foundation. MSME-focused digital lender&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3eNDaIOuTw2VZQ7NWib2oP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-09T20:18:57Z",
+      "category": "Funding"
+    },
     {
       "title": "AI Stock Sees Profits Surge Amid AI Adoption | Investor's Business Daily",
       "summary": "China EdTech Name Sees Profit Surge Amid AI Boom ... TAL Education Group (TAL) started offering artificial intelligence tools on its learning platform&nbsp;...",
