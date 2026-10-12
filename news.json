@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-11 23:24 UTC",
+  "updated_at": "2026-10-12 17:17 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "ClassLink Insights: Helping Schools Understand the Relationship Between Digital Learning ...",
+      "summary": "Addressing this challenge, education technology company ClassLink has launched ClassLink Insights. ... Analysing EdTech Usage and Student Outcomes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/classlink-insights-helping-schools-understand-the-relationship-between-digital-learning-student-academic-performance.61292&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3dekqeljjZwPS1wHuSAgc7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-12T13:04:38Z",
+      "category": "Product"
+    },
+    {
+      "title": "THEY BECAME RICH TEACHING. BUT CAN THEY ALSO DO? | Mint Ahmedabad",
+      "summary": "building the company into one of India's largest edtech platforms. The four co-founders at Vedantu—Vamsi Krishna, Anand Prakash, Pulkit Jain and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/india/mint-ahmedabad/20261012/282029039189065&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Vf57hASB4lQWE1CiRWfEp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-12T04:49:29Z",
+      "category": "Product"
+    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
