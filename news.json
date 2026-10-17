@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-10-16 22:26 UTC",
+  "updated_at": "2026-10-17 11:56 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 4
+    "Product": 2,
+    "Startup": 3
   },
   "articles": [
-    {
-      "title": "CEE Startup &amp; Tech Weekly: New Estonian Unicorn - The Recursive",
-      "summary": "... companies. Warsaw-based edtech company Coding Giants, known in Poland as Giganci Programowania, has secured up to €6M in venture debt from Orbit&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therecursive.com/cee-startup-tech-weekly-new-estonian-unicorn/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3IPG-nKW67pqyRNXXPnYeu",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-16T10:32:04Z",
-      "category": "Startup"
-    },
-    {
-      "title": "Firmli plans AI co-pilot for international student recruitment - The PIE News",
-      "summary": "Norwegian edtech company Firmli plans to launch an AI Student Co-pilot in November 2026, designed to help institutions and agencies assess&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thepienews.com/firmli-plans-ai-co-pilot-for-international-student-recruitment/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jSZ08pA_Yf1l10ze7Cw29",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-15T19:03:14Z",
-      "category": "Product"
-    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
