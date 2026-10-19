@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-10-18 22:10 UTC",
+  "updated_at": "2026-10-19 15:13 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "India's Seasmasters raises $5M to launch tech business school Supergrad | Dealroom.co",
+      "summary": "India's edtech sector is in a far more selective funding climate. Equity funding fell to $249 million in 2025 from $572 million in 2024, and a Tracxn-&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/note/india-s-seasmasters-raises-5m-to-launch-tech-business-school-supergrad&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2UNuXHw04lLuRQPPq8nUEl",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-19T13:36:56Z",
+      "category": "Funding"
+    },
+    {
+      "title": "EdVentures, Nahdet Misr and Entlaq unveil Egypt's Education &amp; EdTech Landscape Report 2026",
+      "summary": "Egypt has approximately 234 active EdTech companies, yet 88% have not secured external funding. Venture capital investment in the sector has&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/research-studies/edventures-nahdet-misr-and-entlaq-unveil-egypts-education-edtech-landscape-report-2026-1758822&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw03P3m0nXefIYueUFy1X8Gx",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-19T10:53:10Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Kiwi edtech SupaHuman chalks up $2.6 million Series for Australian plans - Startup Daily",
+      "summary": "Founded by CEO Dave Howden, Blair Woods and Zane Hemmingsen-Jensen, the company has offices in Auckland and Melbourne. SupaHuman develops AI software&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupdaily.net/topic/funding/kiwi-edtech-supahuman-chalks-up-2-6-million-series-for-australian-plans/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw23VFAluoO9n7MxYi_HIxAq",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-19T06:07:56Z",
+      "category": "Startup"
+    },
+    {
+      "title": "17 Korean Content-Tech Startups Pitch in KOCCA IR in Singapore During SWITCH Week",
+      "summary": "The 2026 KOCCA IR in Singapore lineup spans games, immersive tech, AI media, creator marketing, fandom platforms, IP studios, and edtech. Each company&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kpoppost.com/korean-content-tech-startups-pitch-in-kocca-ir-in-singapore-during-switch-week/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2y3DMJEgreClDQIad10CYM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-19T05:28:40Z",
+      "category": "Product"
+    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
