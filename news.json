@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-19 23:15 UTC",
+  "updated_at": "2026-10-20 13:14 UTC",
   "summary": {
     "Funding": 6,
     "Acquisition": 3,
     "Product": 3,
-    "Startup": 4
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "SA's Injini launches EdTech for Employment incubation programme - - Disrupt Africa",
+      "summary": "Founded in 2017, Injini, which is a member of the UVU Africa Group, is a registered non-profit company that exists for the sole purpose of improving&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://disruptafrica.com/2026/10/20/sas-injini-launches-edtech-for-employment-incubation-programme/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3NsJNYDE8Yt2qY7ZW_qLVI",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-20T07:13:08Z",
+      "category": "Product"
+    },
     {
       "title": "Rosetta Stone parent buys San Francisco edtech startup NoRedInk, CEO to depart",
       "summary": "IXL Learning acquires NoRedInk, the San Francisco writing platform used in over 60% of U.S. school districts, as education companies navigate AI&nbsp;...",
@@ -30,22 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-19T10:53:10Z",
       "category": "Funding"
-    },
-    {
-      "title": "Kiwi edtech SupaHuman chalks up $2.6 million Series for Australian plans - Startup Daily",
-      "summary": "Founded by CEO Dave Howden, Blair Woods and Zane Hemmingsen-Jensen, the company has offices in Auckland and Melbourne. SupaHuman develops AI software&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupdaily.net/topic/funding/kiwi-edtech-supahuman-chalks-up-2-6-million-series-for-australian-plans/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw23VFAluoO9n7MxYi_HIxAq",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-19T06:07:56Z",
-      "category": "Startup"
-    },
-    {
-      "title": "17 Korean Content-Tech Startups Pitch in KOCCA IR in Singapore During SWITCH Week",
-      "summary": "The 2026 KOCCA IR in Singapore lineup spans games, immersive tech, AI media, creator marketing, fandom platforms, IP studios, and edtech. Each company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kpoppost.com/korean-content-tech-startups-pitch-in-kocca-ir-in-singapore-during-switch-week/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2y3DMJEgreClDQIad10CYM",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-19T05:28:40Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
