@@ -1,58 +1,42 @@
 {
-  "updated_at": "2026-10-21 13:22 UTC",
+  "updated_at": "2026-10-21 22:59 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 2,
-    "Product": 7,
+    "Acquisition": 3,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Egypt's EdTech sector has 234 active companies, but 88% have no external funding | News",
+      "summary": "Egypt has approximately 234 active EdTech companies, but 88% have not secured external funding, according to the Education &amp; EdTech Landscape&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusonbusiness.eu/en/en/news/egypt-s-edtech-sector-has-234-active-companies-but-88-have-no-external-funding/7392&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2C21CgL8ItOpe1892-O5bw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-21T14:41:21Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Advtech buys 25% stake in AI edtech, MathU - Bizcommunity",
+      "summary": "Advtech has acquired a 25% stake in edtech company MathU, securing a seat on its board and exclusive rights to current and future AI-enhanced&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/advtech-buys-25-stake-in-ai-edtech-mathu-525620a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2olmP09kIfTUTELf4YCh9D",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-21T13:38:55Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Financial Details - Greadamy - Crunchbase",
+      "summary": "Greadamy is an educational technology company that revolutionizes how students learn by offering a comprehensive AI-driven platform.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.crunchbase.com/organization/greadamy/financial_details&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jzMAijGN7Isqc5g3yFExv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-21T05:28:26Z",
+      "category": "Product"
+    },
     {
       "title": "[What on Earth in Hanyang!] From Korean Teacher to Edtech Founder: Alumnus Choi Seok ... - 뉴스H",
       "summary": "... edtech company RiroSoft in 2014. Today, RiroSchool, the academic management platform operated by RiroSoft, is used by some 1200 high schools&nbsp;...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newshyu.com/news/articleView.html%3Fidxno%3D1026728&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2IBYeoCfgdVuTAmu5A5R5I",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-21T01:53:36Z",
-      "category": "Product"
-    },
-    {
-      "title": "Teach360 consolidates legacy EdTech platforms into a connected 2027 ecosystem",
-      "summary": "The company's legacy platforms have supported schools over many years, but the new architecture is intended to reduce reliance on separate interfaces&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://lifestyleandtech.co.za/ai-cloud/article/2026-10-20/teach360-consolidates-legacy-edtech-platforms-into-a-connected-2027-ecosystem&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2w5HLl6Gqc7tGayztdzU5S",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-20T19:21:08Z",
-      "category": "Product"
-    },
-    {
-      "title": "Plinto raises €2.9M pre-seed for AI agents that catch invoice errors - Tech Funding News",
-      "summary": "Four former Peakon employees run the company, all motivated by a CFO who doubted the dashboard data's accuracy. ... Twenix, a Spanish edtech company&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techfundingnews.com/peakon-alumni-raise-2-9m-plinto-ai-financial-controlling-agents/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1gExtm83UZVLTk6_VC33XV",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-20T18:02:35Z",
-      "category": "Funding"
-    },
-    {
-      "title": "StrongMind Unveils StrongMind CoursePro, an AI-Powered Course Creation Platform, at DLAC Ignite",
-      "summary": "... EdTech Company and recognition as a 2026 AWS EdTech Champion. Its mission is to empower learners through innovative tools, flexible learning&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/pr-newswire/20261020fl76719/strongmind-unveils-strongmind-coursepro-an-ai-powered-course-creation-platform-at-dlac-ignite&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw12WGusyHKVFUE1skLysyGa",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-20T17:45:20Z",
-      "category": "Product"
-    },
-    {
-      "title": "D2L (TSX:DTOL) Enters Vietnam as Van Lang Adopts Brightspace Platform | Kalkine Media",
-      "summary": "The Ontario edtech company described the group as its first strategic customer in Vietnam. The agreement runs for five years and is intended to&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kalkinemedia.com/ca/stocks/technology/d2l-tsxdtol-enters-vietnam-as-van-lang-adopts-brightspace-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1AHD3h6b5fSQV4hF95O5uY",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-20T17:28:16Z",
-      "category": "Product"
-    },
-    {
-      "title": "Schoolytics by EveryDay Labs launches integrated solution to streamline attendance, MTSS ...",
-      "summary": "NEW YORK, Oct. 20, 2026 /PRNewswire/ -- Newsela, a leading K–12 education technology company ... With the expansion of the company's portfolio of EdTech&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/pr-newswire/20261020ny76117/schoolytics-by-everyday-labs-launches-integrated-solution-to-streamline-attendance-mtss-and-student-data-into-actionable-insights&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1w68HRhygyofhu_tTUdrrT",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-20T13:24:16Z",
       "category": "Product"
     },
     {
