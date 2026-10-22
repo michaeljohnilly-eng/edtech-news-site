@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-22 13:23 UTC",
+  "updated_at": "2026-10-22 22:55 UTC",
   "summary": {
-    "Funding": 6,
-    "Acquisition": 3,
+    "Funding": 5,
+    "Acquisition": 4,
     "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "The Risepoint and Keypath Deal: What the Analysts Are Saying - Augusta Free Press",
+      "summary": "The acquisition targets clinical placement capacity, a bottleneck in online healthcare degree programs. Education technology company Risepoint&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://augustafreepress.com/commercial/the-risepoint-and-keypath-deal-what-the-analysts-are-saying/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0Ms4NgYcypTA-6_R1qz0xK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-22T17:11:40Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "South Africa's Advtech Buys 25% of Longtime AI Education Partner MathU - Ecofin Agency",
+      "summary": "South African private education group Advtech announced on October 21 that it had acquired a 25% stake in edtech company MathU. The transaction&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ecofinagency.com/news-finances/2210-60015-south-africas-advtech-buys-25-of-longtime-ai-education-partner-mathu&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0bmbDlxEXcTr2nLGvYre5s",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-22T14:16:06Z",
+      "category": "Acquisition"
+    },
     {
       "title": "ArtMaster Raises $2.4M Seed - The SaaS News",
       "summary": "ArtMaster, a Prague-based company specializing in music education technology, has raised $2.4 million in a seed funding round. The company is the&nbsp;...",
@@ -24,27 +40,11 @@
       "category": "Product"
     },
     {
-      "title": "Egypt's EdTech sector has 234 active companies, but 88% have no external funding | News",
-      "summary": "Egypt has approximately 234 active EdTech companies, but 88% have not secured external funding, according to the Education &amp; EdTech Landscape&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusonbusiness.eu/en/en/news/egypt-s-edtech-sector-has-234-active-companies-but-88-have-no-external-funding/7392&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2C21CgL8ItOpe1892-O5bw",
+      "title": "Literacy Path Secures Two 2026 EdTech Award Nominations for Reading Motivation Platform",
+      "summary": "... EdTech Cool Tool Awards and Tech &amp; Learning's Awards of Excellence ... Additional information about the company's approach is available at&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybuzz.co/2026/10/21/literacy-path-secures-two-2026-edtech-award-nominations-for-reading-motivation-platform/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3v-zZTFhjiHD9cR6AP0sCa",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-10-21T14:41:21Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Advtech buys 25% stake in AI edtech, MathU - Bizcommunity",
-      "summary": "Advtech has acquired a 25% stake in edtech company MathU, securing a seat on its board and exclusive rights to current and future AI-enhanced&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizcommunity.com/article/advtech-buys-25-stake-in-ai-edtech-mathu-525620a&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2olmP09kIfTUTELf4YCh9D",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-21T13:38:55Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Financial Details - Greadamy - Crunchbase",
-      "summary": "Greadamy is an educational technology company that revolutionizes how students learn by offering a comprehensive AI-driven platform.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.crunchbase.com/organization/greadamy/financial_details&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jzMAijGN7Isqc5g3yFExv",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-21T05:28:26Z",
+      "published": "2026-10-21T16:25:50Z",
       "category": "Product"
     },
     {
