@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-21 22:59 UTC",
+  "updated_at": "2026-10-22 13:23 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 6,
     "Acquisition": 3,
     "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "ArtMaster Raises $2.4M Seed - The SaaS News",
+      "summary": "ArtMaster, a Prague-based company specializing in music education technology, has raised $2.4 million in a seed funding round. The company is the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/artmaster-raises-2-4m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0dOYO-qqxbQsihvlmtNzzq",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-22T13:01:42Z",
+      "category": "Funding"
+    },
+    {
+      "title": "AI Research Foundry London Launches with DeepMind, Microsoft and Imperial",
+      "summary": "... companies, institutions, projects and individuals making a measurable impact across education technology. ... © EdTech Innovation Hub. All rights&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/ai-research-foundry-london-launches-with-imperial-deepmind-and-microsoft-researchers&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1XbjVgqnj-mN3NoDuIAS4Y",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-21T23:02:27Z",
+      "category": "Product"
+    },
     {
       "title": "Egypt's EdTech sector has 234 active companies, but 88% have no external funding | News",
       "summary": "Egypt has approximately 234 active EdTech companies, but 88% have not secured external funding, according to the Education &amp; EdTech Landscape&nbsp;...",
@@ -29,14 +45,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.crunchbase.com/organization/greadamy/financial_details&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1jzMAijGN7Isqc5g3yFExv",
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-21T05:28:26Z",
-      "category": "Product"
-    },
-    {
-      "title": "[What on Earth in Hanyang!] From Korean Teacher to Edtech Founder: Alumnus Choi Seok ... - 뉴스H",
-      "summary": "... edtech company RiroSoft in 2014. Today, RiroSchool, the academic management platform operated by RiroSoft, is used by some 1200 high schools&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newshyu.com/news/articleView.html%3Fidxno%3D1026728&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2IBYeoCfgdVuTAmu5A5R5I",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-21T01:53:36Z",
       "category": "Product"
     },
     {
