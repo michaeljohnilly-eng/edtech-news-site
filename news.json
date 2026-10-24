@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-24 12:24 UTC",
+  "updated_at": "2026-10-24 22:12 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 2,
     "Startup": 4
   },
   "articles": [
@@ -14,22 +14,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-24T01:46:55Z",
       "category": "Startup"
-    },
-    {
-      "title": "STEM-Xpert Is Taking STEM Education Beyond the Classroom - PNN Digital",
-      "summary": "... edtech platform. The education technology company is developing an integrated STEM-as-a-Service ecosystem that brings together artificial&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pnndigital.com/business/stem-xpert-is-taking-stem-education-beyond-the-classroom/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2LyHwkWFCWUgOuehw5pZqJ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-23T11:50:05Z",
-      "category": "Product"
-    },
-    {
-      "title": "Red Hat-led Open Accelerator seeks AI startups by Oct 25 | ETIH EdTech News",
-      "summary": "The free, equity-free residency will provide 16 weeks of technical and business support in Boston, with optional investment consideration from IBM&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/red-hat-led-open-accelerator-seeks-12-ai-startups-ahead-of-october-25-deadline&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZNTRHuyTfHzdcJqXO76HM",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-23T11:47:41Z",
-      "category": "Funding"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
