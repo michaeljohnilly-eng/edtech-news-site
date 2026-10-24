@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-23 22:51 UTC",
+  "updated_at": "2026-10-24 12:24 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 4,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "How Novakid is combining 'social helium' and agentic AI in online learning | TechCrunch",
+      "summary": "SAN FRANCISCO — As companies compete in the global K-12 digital education market, many EdTech startups spent the early 2020s attempting to replace&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/contributor-content/how-novakid-is-combining-social-helium-and-agentic-ai-in-online-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZYXz-4VxsUAKOxl6_G63q",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-24T01:46:55Z",
+      "category": "Startup"
+    },
     {
       "title": "STEM-Xpert Is Taking STEM Education Beyond the Classroom - PNN Digital",
       "summary": "... edtech platform. The education technology company is developing an integrated STEM-as-a-Service ecosystem that brings together artificial&nbsp;...",
@@ -22,14 +30,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-23T11:47:41Z",
       "category": "Funding"
-    },
-    {
-      "title": "Edtech startup QnSmart launches AI debate platform DaVinciQ to sharpen students' thinking",
-      "summary": "The company said it developed the platform to address what it calls the &quot;outsourcing of thought&quot; — a problem that arises when generative AI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mbiz.heraldcorp.com/article/10911794&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0FP0Y-bodmi8wqpfD9n114",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-22T07:52:44Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
