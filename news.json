@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-10-24 22:12 UTC",
+  "updated_at": "2026-10-25 12:54 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
     "Product": 2,
-    "Startup": 4
+    "Startup": 3
   },
   "articles": [
-    {
-      "title": "How Novakid is combining 'social helium' and agentic AI in online learning | TechCrunch",
-      "summary": "SAN FRANCISCO — As companies compete in the global K-12 digital education market, many EdTech startups spent the early 2020s attempting to replace&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/contributor-content/how-novakid-is-combining-social-helium-and-agentic-ai-in-online-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZYXz-4VxsUAKOxl6_G63q",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-24T01:46:55Z",
-      "category": "Startup"
-    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
