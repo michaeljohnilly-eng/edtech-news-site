@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-10-25 22:14 UTC",
+  "updated_at": "2026-10-26 14:47 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 2,
-    "Product": 2,
+    "Acquisition": 3,
+    "Product": 6,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Unacademy's Gaurav Munjal, Roman Saini plan ₹700-crore fund focused on AI, deeptech startups",
+      "summary": "The report comes less than two months after UpGrad acquired the education technology (edtech) company. According to sources, the fund, named&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/companies/unacademys-gaurav-munjal-roman-saini-plan-rs-700-crore-fund-focused-on-ai-deeptech-startups-report-11793002549422.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ee2AwSN_Y253pna4Wstgw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T08:39:15Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Baltimore's Most Inspiring Stories – VoyageBaltimore Magazine",
+      "summary": "Heather Lawver. I've been an entrepreneur for as long as I can remember. I finished high school at 12 and launched my first company at 13, an EdTech&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://voyagebaltimore.com/2026/10/26/the-change-makers-stories-that-inspire/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw28_kCuNmnuwEhGmIf996WC",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T08:22:57Z",
+      "category": "Product"
+    },
+    {
+      "title": "Unacademy founders launch Longshot Capital for AI and deep tech - NewsBytes",
+      "summary": "Unacademy's co-founders Gaurav Munjal and Roman Saini are starting a ... edtech company to supporting the next wave of tech innovation. Their&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsbytesapp.com/news/business/unacademy-founders-launch-longshot-capital-for-ai-and-deep-tech/tldr&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw27BluAVzdKLgNLfmQdt0UM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T07:09:45Z",
+      "category": "Product"
+    },
+    {
+      "title": "Teach360 consolidates legacy EdTech platforms - IT-Online",
+      "summary": "... EdTech environment for 2027. The programme will bring together ... The company's legacy platforms have supported schools over many years&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://it-online.co.za/2026/10/26/teach360-consolidates-legacy-edtech-platforms/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3qpMZNjqJBZ2vRu8c-FRGI",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T05:31:34Z",
+      "category": "Product"
+    },
+    {
+      "title": "Unacademy's Subscription and Educator Platform Model - MarkHub24",
+      "summary": "Unacademy entered this environment as one of several venture-funded edtech companies ... The company's origins trace to a YouTube channel that&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.markhub24.com/post/unacademy-s-subscription-and-educator-platform-model&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw29T9BdcSzAAxmU4YuPrQx9",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T04:30:42Z",
+      "category": "Product"
+    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
