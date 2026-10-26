@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-10-26 14:47 UTC",
+  "updated_at": "2026-10-26 23:31 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 3,
-    "Product": 6,
+    "Funding": 5,
+    "Acquisition": 4,
+    "Product": 8,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Why Millions in EdTech Funding &amp; AI Tools Can't Make You Learn - Inc. Magazine",
+      "summary": "EdTech companies promise 2x faster learning with AI tools. Here's why software can't replace the human motivation required to build real skills.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inc.com/pam-didner/edtech-funding-ai-learning-tools-speed-myth/91425370&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0QHfgT54stnQJDyGuOhmYQ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T19:21:13Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Anand Kumar Launches Super Infinity on YouTube to Expand Access to His Teaching",
+      "summary": "EXPAND YOUR BUSINESS |; GET FRANCHISE |; GET DISTRIBUTORSHIP ... Edtech Company upGrad's Revenue Rises 7.5%, Net Loss Declines to Rs 131&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/anand-kumar-launches-super-infinity-on-youtube-to-expand-access-to-his-teaching.61350&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3zE8hlFyVikjalkQtj3lDc",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T17:26:37Z",
+      "category": "Product"
+    },
+    {
+      "title": "Unacademy co-founders Gaurav Munjal and Roman Saini are raising a Rs 700 crore ... - Instagram",
+      "summary": "upGrad has acquired edtech company Unacademy in a deal valued at Rs 1,900 crore (over $200 million). The transaction comes six years after&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/De9tx_QEo4j/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2IPGLPmdUy6o6916G5iZY2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T16:40:21Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Matiks Raises $10M to Build AI-Powered Game Creation Platform | The Tech Buzz",
+      "summary": "The company is betting that giving users the tools to build their own ... The timing is strategic - edtech companies have struggled with user&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/matiks-raises-10m-to-build-ai-powered-game-creation-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1pXVSSV7Ii9EMO6yIGV-iK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-26T15:32:42Z",
+      "category": "Product"
+    },
     {
       "title": "Unacademy's Gaurav Munjal, Roman Saini plan ₹700-crore fund focused on AI, deeptech startups",
       "summary": "The report comes less than two months after UpGrad acquired the education technology (edtech) company. According to sources, the fund, named&nbsp;...",
