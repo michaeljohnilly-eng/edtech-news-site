@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-28 23:50 UTC",
+  "updated_at": "2026-10-29 14:54 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Edves expands AI platform to 2,300 schools | ITWeb Africa",
+      "summary": "Nigerian edtech company Edves has expanded its artificial intelligence ... company's communications executive, Mary Ayo-Aina, on Monday. The&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://itweb.africa/article/edves-expands-ai-platform-to-2300-schools/kLgB1Mezxdwq59N4&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0BZYr8moDXgyIWBH53V3ew",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-29T08:53:59Z",
+      "category": "Product"
+    },
     {
       "title": "HEX Launches Workplace Simulator As AI Reshapes Entry-Level Jobs",
       "summary": "Melbourne edtech HEX launches WorkSim to build students' workplace ... Melbourne education technology company HEX has launched WorkSim, a&nbsp;...",
