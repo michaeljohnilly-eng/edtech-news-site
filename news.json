@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-29 14:54 UTC",
+  "updated_at": "2026-10-29 23:45 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 5,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "PhysicsWallah ties up with Startup India to take seed capital and incubation to small-town founders",
+      "summary": "PhysicsWallah School of Startups (PW SoS), the entrepreneurship arm of listed edtech company PhysicsWallah, has signed a two-year memorandum of&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/physicswallah-ties-up-with-startup-india-to-take-seed-capital-and-incubation-to-small-town-founders-12761909&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3-bYFUrginvtRdvLMaXNCk",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-29T16:28:03Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Meet The Edtech Founder Bringing Social &amp; Emotional Intelligence Into The Classroom: Ami ...",
+      "summary": "... education technology company and wellbeing platform reaching more than 1.1 million students and educators across over 90 countries. Today, as Co&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://menafn.com/1111884983/Meet-The-Edtech-Founder-Bringing-Social-Emotional-Intelligence-Into-The-Classroom-Ami-Shah-Co-Founder-And-CEO-Peekapak&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1U66dpyuqbqiX35A1ohs3p",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-29T13:14:17Z",
+      "category": "Product"
+    },
     {
       "title": "Edves expands AI platform to 2,300 schools | ITWeb Africa",
       "summary": "Nigerian edtech company Edves has expanded its artificial intelligence ... company's communications executive, Mary Ayo-Aina, on Monday. The&nbsp;...",
@@ -14,30 +30,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-29T08:53:59Z",
       "category": "Product"
-    },
-    {
-      "title": "HEX Launches Workplace Simulator As AI Reshapes Entry-Level Jobs",
-      "summary": "Melbourne edtech HEX launches WorkSim to build students' workplace ... Melbourne education technology company HEX has launched WorkSim, a&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbusinessnews.com.au/news/hex-launches-workplace-simulator-as-ai-reshapes-entry-level-jobs/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0cNg_cD8aRNdREj_keBUYr",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-28T19:53:36Z",
-      "category": "Product"
-    },
-    {
-      "title": "byteXL Strengthens Leadership to Scale Its Deep-Tech and AI Skilling Business",
-      "summary": "The B2B EdTech company announces C-Suite Hires : Venkata Reddy Gunnam as COO and Anirban Tarafdar as Chief Business Officer; Appoints Stanford GSB&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/business/latest/bytexl-strengthens-leadership-to-scale-its-deep-tech-and-ai-skilling-business-1999743&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0NLwx5JuNfwoZcER3hVIkt",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-28T17:19:59Z",
-      "category": "Product"
-    },
-    {
-      "title": "Tech startup expands digital learning - Punch Newspapers",
-      "summary": "... EdTech Prize at the 2018 Seedstars Global Summit in Switzerland. In ... Co-founder and Chief Operating Officer Dare Adebayo said the company's&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://punchng.com/tech-startup-expands-digital-learning/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0ci7Gack-nulrGOE1OSGV-",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-28T06:02:19Z",
-      "category": "Funding"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
