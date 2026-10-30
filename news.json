@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-10-30 14:45 UTC",
+  "updated_at": "2026-10-30 23:26 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 3,
     "Product": 3,
-    "Startup": 4
+    "Startup": 5
   },
   "articles": [
+    {
+      "title": "EdTech startups look beyond user growth - The Daily Star",
+      "summary": "Their experiences reflect the opportunity for education technology, or EdTech, to make learning more accessible while building a business around&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thedailystar.net/ds/business-plus/news/edtech-startups-look-beyond-user-growth-4311476&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw38SEObmQHIKqS_pmZG1l04",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-30T18:43:57Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Former CEO of Promova became a co-founder of the startup Portal. What is he working on?",
+      "summary": "In October, it became known that Ukrainian EdTech company Promova is returning to the product company Boosters , and Andriy Skrypnyk is leaving&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.ua/en/news/kolyshnii-ceo-promova-stav-spivzasnovnykom-startapu-portal-1793361840&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2ICdqdqdpA5_gX33Hd0MQK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-10-30T14:35:20Z",
+      "category": "Product"
+    },
     {
       "title": "More EdTech companies are changing hands, at lower prices - MarketScale",
       "summary": "Corum counted 149 edtech acquisitions through August 2026 while median revenue multiples fell to 1.3x. Here's where buyers still pay premiums.",
@@ -22,22 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-10-30T11:18:17Z",
       "category": "Startup"
-    },
-    {
-      "title": "PhysicsWallah ties up with Startup India to take seed capital and incubation to small-town founders",
-      "summary": "PhysicsWallah School of Startups (PW SoS), the entrepreneurship arm of listed edtech company PhysicsWallah, has signed a two-year memorandum of&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/news/physicswallah-ties-up-with-startup-india-to-take-seed-capital-and-incubation-to-small-town-founders-12761909&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3-bYFUrginvtRdvLMaXNCk",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-29T16:28:03Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Meet The Edtech Founder Bringing Social &amp; Emotional Intelligence Into The Classroom: Ami ...",
-      "summary": "... education technology company and wellbeing platform reaching more than 1.1 million students and educators across over 90 countries. Today, as Co&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://menafn.com/1111884983/Meet-The-Edtech-Founder-Bringing-Social-Emotional-Intelligence-Into-The-Classroom-Ami-Shah-Co-Founder-And-CEO-Peekapak&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1U66dpyuqbqiX35A1ohs3p",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-10-29T13:14:17Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
