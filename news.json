@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-04 15:55 UTC",
+  "updated_at": "2026-11-05 00:41 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 3,
+    "Product": 5,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "In edtech, 'technical decisions can't be made in isolation', finds CTO - Silicon Republic",
+      "summary": "Dublin edtech LearnUpon bags $50m growth fund for agentic learning platform &middot; Business &middot; Dublin edtech LearnUpon bags $50m growth fund for agentic&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/business/edtech-technical-decisions-working-life-cto-skills-ai-tes&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Cf1XYizMLcxJywyB2AhiE",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-04T17:04:53Z",
+      "category": "Product"
+    },
+    {
+      "title": "EdTech Platform Hallos Introduces Reward-Based Learning Initiative - Techeconomy",
+      "summary": "The company plans to extend its operations to Ghana, Kenya, Tanzania, South Africa and Burkina Faso as it pursues its ambition of building a pan-&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techeconomy.ng/edtech-platform-hallos-introduces-reward-based-learning-initiative&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2iFMyuUtT86GjMb5WUqbd-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-04T12:59:15Z",
+      "category": "Product"
+    },
     {
       "title": "Intuitivo Raises €1.35M Seed - The SaaS News",
       "summary": "Intuitivo, a Portuguese EdTech startup based in Portugal, has secured €1.35 million in a Seed funding round. The company develops a digital&nbsp;...",
