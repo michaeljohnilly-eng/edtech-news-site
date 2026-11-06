@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-11-06 00:41 UTC",
+  "updated_at": "2026-11-06 15:37 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
     "Product": 4,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Cosmo Parent Company Unveils AI-Native App Gakku: Key Capabilities Redefining the AI Era - 36氪",
+      "summary": "Recently, Algorithm of Learning, the San Francisco-based edtech company that owns Cosmo North America Academy, has launched Gakku, a brand-new AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/4057574886085505&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0BrFlsmE3PuLSx7RZaoEfv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-06T04:12:10Z",
+      "category": "Product"
+    },
     {
       "title": "Hallos Launches Morgan Coins to Reward Learning - We are Tech - WeAreTech Africa",
       "summary": "EdTech company Hallos has launched Morgan Coins, an interactive learning program that rewards African students and professionals for completing&nbsp;...",
@@ -14,22 +22,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-05T15:19:15Z",
       "category": "Product"
-    },
-    {
-      "title": "Beetroot Academy opens recruitment for embedded engineer training program for defence tech",
-      "summary": "Swedish-Ukrainian edtech company Beetroot Academy has announced the launch of the Embedded Talent Program. The 5-month training course is designed&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.ua/en/news/beetroot-academy-vidkryvaie-nabir-na-pidhotovku-embedded-inzheneriv-1793882841&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3XP_iydtUA2Ix2LF-2TP04",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-05T13:28:07Z",
-      "category": "Product"
-    },
-    {
-      "title": "PhysicsWallah's Q2 Profit Surge, Elo Elo Bags $80 Mn &amp; More - Inc42",
-      "summary": "PhysicsWallah. An Edtech Funded Company Based Out Of Noida. Sector. Edtech. Stage. Undisclosed. Total Funding. $486.36 Mn+. Powered By: Explore full&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1npxZdtn5_9MK7ceI8QGEQ",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-05T08:35:07Z",
-      "category": "Funding"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
