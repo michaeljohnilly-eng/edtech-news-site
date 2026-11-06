@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 16:01 UTC",
+  "updated_at": "2026-11-06 00:41 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
@@ -7,6 +7,14 @@
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Hallos Launches Morgan Coins to Reward Learning - We are Tech - WeAreTech Africa",
+      "summary": "EdTech company Hallos has launched Morgan Coins, an interactive learning program that rewards African students and professionals for completing&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wearetech.africa/en/fils-uk/brief/brief-simple/hallos-launches-morgan-coins-to-reward-learning&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0gR_-Y1TRoobzxZfS5XWRc",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-05T15:19:15Z",
+      "category": "Product"
+    },
     {
       "title": "Beetroot Academy opens recruitment for embedded engineer training program for defence tech",
       "summary": "Swedish-Ukrainian edtech company Beetroot Academy has announced the launch of the Embedded Talent Program. The 5-month training course is designed&nbsp;...",
@@ -22,14 +30,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-05T08:35:07Z",
       "category": "Funding"
-    },
-    {
-      "title": "In edtech, 'technical decisions can't be made in isolation', finds CTO - Silicon Republic",
-      "summary": "Dublin edtech LearnUpon bags $50m growth fund for agentic learning platform &middot; Business &middot; Dublin edtech LearnUpon bags $50m growth fund for agentic&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/business/edtech-technical-decisions-working-life-cto-skills-ai-tes&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2Cf1XYizMLcxJywyB2AhiE",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-04T17:04:53Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
