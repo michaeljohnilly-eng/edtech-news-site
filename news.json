@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-11-10 02:30 UTC",
+  "updated_at": "2026-11-10 16:01 UTC",
   "summary": {
-    "Funding": 4,
-    "Acquisition": 2,
-    "Product": 2,
+    "Funding": 5,
+    "Acquisition": 3,
+    "Product": 4,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "Humber Polytechnic and D2L partner to launch Humber Horizon learning platform | Dealroom.co",
+      "summary": "Humber Polytechnic and Canadian edtech company D2L are partnering to reshape teaching and learning. The alliance supports Humber's Building&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/humber-polytechnic-and-d2l-partner-to-launch-humber-horizon-learning-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw37w25jcH-5EcG3_jlOKZv8",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-10T14:27:06Z",
+      "category": "Product"
+    },
+    {
+      "title": "The Abdulla Al Ghurair Foundation and edtech company Peekapak expand UAE ... - Zawya",
+      "summary": "Peekapak, an edtech company and wellbeing platform offering social-emotional learning (SEL) curriculum across nursery to Grade 12 in schools across&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/companies-news/the-abdulla-al-ghurair-foundation-and-edtech-company-peekapak-expand-uae-partnership-to-embed-student-wellbeing-in-schools-2157972&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw30snn2vtfBMditdyfsjnnL",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-10T10:53:40Z",
+      "category": "Product"
+    },
+    {
+      "title": "PhysicsWallah Cites AI Efficiencies for Job Cuts as Offline Business Faces Profit Pressure",
+      "summary": "The edtech firm has earmarked $20 million for mergers and acquisitions (M&amp;A) to support strategic expansion and growth. PhysicsWallah is turning to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/news/startups/physicswallah-cites-ai-efficiencies-for-job-cuts-as-offline-business-faces-profit-pressure-nid-243027-cid-19.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw24LTRbdTLorze1xGDRrPiO",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-10T03:42:01Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Memrise creators raise £2.5m for Mindmax's conversational AI tutor | ETIH EdTech News",
+      "summary": "Mindmax Co-Founders Daniel Zohar and Ed Cooke previously worked together at Memrise. Mindmax has raised £2.5 million in pre-seed funding for an AI&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/memrise-creators-raise-25m-for-mindmaxs-conversational-ai-tutor&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0S2O_e8uvV2Bimm__3r8ke",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-10T01:19:25Z",
+      "category": "Funding"
+    },
     {
       "title": "Two UK edtech startups secure Panasonic patents through IPHatch",
       "summary": "Aberdeen cybersecurity company Cyber Nandhini received a Nokia patent. RS9 Technologies, a West Midlands cybersecurity and AI business, received three&nbsp;...",
