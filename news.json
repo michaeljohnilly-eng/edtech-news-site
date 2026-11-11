@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-11-11 00:23 UTC",
+  "updated_at": "2026-11-11 15:47 UTC",
   "summary": {
-    "Funding": 5,
-    "Acquisition": 4,
-    "Product": 4,
+    "Funding": 6,
+    "Acquisition": 5,
+    "Product": 3,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "Gaurav Munjal steps down as Unacademy CEO, Akhilendra Kumar takes over",
+      "summary": "... edtech firm to its chief business officer Akhilendra Kumar, just over two months after Ronnie Screwvala-led UpGrad completed its acquisition.The&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/startups/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-takes-over/articleshow/135740390.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3fPx5rTnCH70AFt_WHlZZh",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T14:24:45Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Romanian edtech company Kinderpedia raises EUR 2.7 million to accelerate international expansion",
+      "summary": "Investments - Romanian edtech company Kinderpedia has secured EUR 2.7 million in funding following a EUR 500000 investment from BCR Seed Starter,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://business-review.eu/investments/romanian-edtech-company-kinderpedia-raises-eur-2-7-million-to-accelerate-international-expansion-303046&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3K7tdeb1neeiSMULapdM1V",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T11:35:23Z",
+      "category": "Funding"
+    },
+    {
+      "title": "BCR Seed Starter invests 500000 euros in Romanian edtech company Kinderpedia",
+      "summary": "BCR Seed Starter announces a 500,000 euros investment in Kinderpedia, a Romanian technology company that has developed a SaaS management and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thediplomat.ro/2026/11/11/bcr-seed-starter-invests-500000-euros-in-romanian-edtech-company-kinderpedia/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1IPpIGd3Cl36MOeD72iscK",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T09:14:13Z",
+      "category": "Funding"
+    },
+    {
+      "title": "Physics Wallah to deploy up to ₹200 cr for acquisitions this yr | Business Standard - Magzter",
+      "summary": "Read this exciting story from Business Standard November 11, 2026 issue. Education technology (edtech) company PhysicsWallah is looking to acquire&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.magzter.com/stories/newspaper/Business-Standard/PHYSICS-WALLAH-TO-DEPLOY-UP-TO-200-CR-FOR-ACQUISITIONS-THIS-YR&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3l7I8y6M56s24wNVbB0Iuw",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T07:31:11Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Cebu-based EdTech startup Hagwow wants to turn Pinoy kids' screen time into interactive learning",
+      "summary": "The company plans to serve students across the Philippines before expanding into global markets, aiming to position local technology on the&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://astig.ph/hagwow-edtech-cebu-philippines-2026/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2nDkSzZ7QNx3C6KypO4z6P",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T05:30:08Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Google Disables Default AI Features for Schoolchildren, Shifting Control to Education Authorities",
+      "summary": "For a company whose platforms are ubiquitous in U.S. classrooms, the ... EdTech, education, science and technology, Texas, United States.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.citybuzz.co/2026/11/10/google-disables-default-ai-features-for-schoolchildren-shifting-control-to-education-authorities/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1qFZAweVromANrEOlfBODP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-11T01:16:47Z",
+      "category": "Product"
+    },
     {
       "title": "PhysicsWallah to deploy up to ₹200 cr for acquisitions this yr: Maheshwari | Company News",
       "summary": "Education technology (edtech) company PhysicsWallah is looking to acquire two to three firms in the current financial year of 2026-27 (FY27) as it&nbsp;...",
@@ -14,46 +62,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-10T16:35:38Z",
       "category": "Acquisition"
-    },
-    {
-      "title": "Humber Polytechnic and D2L partner to launch Humber Horizon learning platform | Dealroom.co",
-      "summary": "Humber Polytechnic and Canadian edtech company D2L are partnering to reshape teaching and learning. The alliance supports Humber's Building&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/humber-polytechnic-and-d2l-partner-to-launch-humber-horizon-learning-platform&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw37w25jcH-5EcG3_jlOKZv8",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-10T14:27:06Z",
-      "category": "Product"
-    },
-    {
-      "title": "The Abdulla Al Ghurair Foundation and edtech company Peekapak expand UAE ... - Zawya",
-      "summary": "Peekapak, an edtech company and wellbeing platform offering social-emotional learning (SEL) curriculum across nursery to Grade 12 in schools across&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/companies-news/the-abdulla-al-ghurair-foundation-and-edtech-company-peekapak-expand-uae-partnership-to-embed-student-wellbeing-in-schools-2157972&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw30snn2vtfBMditdyfsjnnL",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-10T10:53:40Z",
-      "category": "Product"
-    },
-    {
-      "title": "PhysicsWallah Cites AI Efficiencies for Job Cuts as Offline Business Faces Profit Pressure",
-      "summary": "The edtech firm has earmarked $20 million for mergers and acquisitions (M&amp;A) to support strategic expansion and growth. PhysicsWallah is turning to&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/news/startups/physicswallah-cites-ai-efficiencies-for-job-cuts-as-offline-business-faces-profit-pressure-nid-243027-cid-19.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw24LTRbdTLorze1xGDRrPiO",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-10T03:42:01Z",
-      "category": "Acquisition"
-    },
-    {
-      "title": "Memrise creators raise £2.5m for Mindmax's conversational AI tutor | ETIH EdTech News",
-      "summary": "Mindmax Co-Founders Daniel Zohar and Ed Cooke previously worked together at Memrise. Mindmax has raised £2.5 million in pre-seed funding for an AI&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/memrise-creators-raise-25m-for-mindmaxs-conversational-ai-tutor&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0S2O_e8uvV2Bimm__3r8ke",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-10T01:19:25Z",
-      "category": "Funding"
-    },
-    {
-      "title": "Two UK edtech startups secure Panasonic patents through IPHatch",
-      "summary": "Aberdeen cybersecurity company Cyber Nandhini received a Nokia patent. RS9 Technologies, a West Midlands cybersecurity and AI business, received three&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/two-uk-edtech-startups-secure-panasonic-patents-through-iphatch&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1bBRTneUUfvvuh4AzCQY83",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-10T00:49:25Z",
-      "category": "Startup"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
