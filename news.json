@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-13 00:51 UTC",
+  "updated_at": "2026-11-13 15:52 UTC",
   "summary": {
     "Funding": 5,
-    "Acquisition": 3,
-    "Product": 4,
+    "Acquisition": 2,
+    "Product": 6,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "CEE Startup &amp; Tech Weekly: UFORCE's €630M Round, AI Deals &amp; New Funds",
+      "summary": "Romanian edtech company Kinderpedia, which has developed a management and communication platform for schools and kindergartens, has secured a&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therecursive.com/cee-startup-tech-weekly-13/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3RBfjxiBHi2092XLdGdgbZ",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-13T12:09:39Z",
+      "category": "Product"
+    },
+    {
+      "title": "Pocket FM appoints Purnima Joshi as senior director, PR and communications",
+      "summary": "... edtech company in the world. Her role covered media relations, community and platform management, social media marketing, influencer outreach and&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiantelevision.com/itv-news/pocket-fm-appoints-purnima-joshi-as-senior-director-pr-and-communications/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1rT7W7jx3x8oO9uXgGOFyO",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-13T10:45:44Z",
+      "category": "Product"
+    },
     {
       "title": "Manchester EdTech JadeApp secures £450k from GC Angels - BusinessCloud",
       "summary": "Manchester-based EdTech startup JadeApp has secured £450k in investment. The round was led by GC Angels alongside co-investor Jenson Ventures and will&nbsp;...",
@@ -30,14 +46,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-12T16:10:49Z",
       "category": "Product"
-    },
-    {
-      "title": "Unacademy names Akhilendra Kumar chief executive - Indian Television Dot Com",
-      "summary": "The handover comes a little over two months after upGrad, led by Ronnie Screwvala, completed its acquisition of the edtech company. Munjal&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiantelevision.com/mam/unacademy-names-akhilendra-kumar-chief-executive/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw35gOSg9SGxC7gnpjU7ECsy",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-12T11:29:23Z",
-      "category": "Acquisition"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
