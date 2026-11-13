@@ -1,18 +1,42 @@
 {
-  "updated_at": "2026-11-12 16:30 UTC",
+  "updated_at": "2026-11-13 00:51 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 3,
-    "Product": 2,
+    "Product": 4,
     "Startup": 3
   },
   "articles": [
     {
-      "title": "Indian edtech firm Unacademy co-founder steps down as CEO - Tech in Asia",
-      "summary": "Chief business officer Akhilendra Kumar will succeed him, about two months after upGrad acquired the Indian edtech company. Munjal said on&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/indian-edtech-firm-unacademy-cofounder-steps-ceo&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1uWVTroe4MHIgm7KfehbnK",
+      "title": "Manchester EdTech JadeApp secures £450k from GC Angels - BusinessCloud",
+      "summary": "Manchester-based EdTech startup JadeApp has secured £450k in investment. The round was led by GC Angels alongside co-investor Jenson Ventures and will&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://businesscloud.co.uk/news/manchester-edtech-jadeapp-secures-450k-from-gc-angels/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw15M9UbAM5U-r7sv027Z0XR",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-11-12T01:28:21Z",
+      "published": "2026-11-12T18:24:20Z",
+      "category": "Funding"
+    },
+    {
+      "title": "AI to Strengthen Education System in Kendriya Vidyalayas, Three Digital Initiatives Launched",
+      "summary": "... company's next phase of growth. Edtech company Unacademy has announced a leadership change, with co-founder Gaurav Munjal moving from the Chief&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.entrepreneurindia.com/blog/en/news/ai-to-strengthen-education-system-in-kendriya-vidyalayas-three-digital-initiatives-launched.61433&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw380gQOzPC767sIb0v1oYaE",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-12T17:44:25Z",
+      "category": "Product"
+    },
+    {
+      "title": "LongTerMemory, Advanced AI Platform to Optimize Knowledge - openPR.com",
+      "summary": "Founded by software engineers and educational technology specialists, the company ... The Digital Transformation in Edtech Market Report by The Business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4687579/longtermemory-advanced-ai-platform-to-optimize-knowledge&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw18mL4HNjrOdmo2Je5OQzcb",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-12T16:10:49Z",
+      "category": "Product"
+    },
+    {
+      "title": "Unacademy names Akhilendra Kumar chief executive - Indian Television Dot Com",
+      "summary": "The handover comes a little over two months after upGrad, led by Ronnie Screwvala, completed its acquisition of the edtech company. Munjal&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indiantelevision.com/mam/unacademy-names-akhilendra-kumar-chief-executive/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw35gOSg9SGxC7gnpjU7ECsy",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-12T11:29:23Z",
       "category": "Acquisition"
     },
     {
