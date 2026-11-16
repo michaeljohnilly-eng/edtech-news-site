@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-11-15 23:42 UTC",
+  "updated_at": "2026-11-16 17:50 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 4,
     "Acquisition": 2,
-    "Product": 2,
+    "Product": 7,
     "Startup": 3
   },
   "articles": [
     {
-      "title": "EdTech deals rose 11% while the median funding round shrank 31% - MarketScale",
-      "summary": "How EdTech money moved in the last 12 months. 37. First financings, up from 19. Many more companies got started. 63%. Share of rounds&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketscale.com/industries/education-technology/edtech-deals-rose-11-while-the-median-funding-round-shrank-31&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2U3s3sUsGCCRW-V5nYmNrY",
+      "title": "Jordanian 3Roots Academy launches new online learning platform for IB and AP students",
+      "summary": "AMMAN, Jordan — Jordanian EdTech company 3Roots Academy officially launched its new online learning platform today, offering International&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zawya.com/en/press-release/companies-news/jordanian-3roots-academy-launches-new-online-learning-platform-for-ib-and-ap-students-2278353&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2PJzQCQZ3r7svdUycqGUgI",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-11-15T02:21:42Z",
-      "category": "Funding"
+      "published": "2026-11-16T15:18:09Z",
+      "category": "Product"
+    },
+    {
+      "title": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next - Inc42",
+      "summary": "SUMMARY. upGrad has launched upGrad Next, an enterprise advisory practice that combines consulting with the edtech company's existing workforce&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://inc42.com/buzz/upgrad-enters-enterprise-advisory-with-launch-of-upgrad-next/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2xaBfkaZPgvxyUinu9_B19",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T15:15:46Z",
+      "category": "Product"
+    },
+    {
+      "title": "upGrad broadens its business with new workforce advisory venture - YourStory.com",
+      "summary": "Edtech firm upGrad has launched upGrad Next, a workforce advisory business intended to help organisations redesign how they structure, hire,&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yourstory.com/2026/11/upgrad-broadens-its-business-with-new-workforce-advisory-venture&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Kr5I_tATUC8AMl6UUufhU",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T12:39:41Z",
+      "category": "Product"
+    },
+    {
+      "title": "upGrad Launches Workforce Advisory Business, Anandorup Ghose MD - Rediff Money",
+      "summary": "Edtech giant upGrad launches upGrad Next, a new workforce advisory business led by Anandorup Ghose, focusing on structuring, hiring, and rewarding&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.rediff.com/news/market/upgrad-launches-workforce-advisory-business-anandorup-ghose-md/58166420261116&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0VCrmBxwyAxTvMNdH9_sbL",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T10:54:59Z",
+      "category": "Product"
+    },
+    {
+      "title": "UpGrad launches advisory arm 'upGrad Next' to help enterprises navigate AI-led transformation",
+      "summary": "Edtech and workforce development company upGrad has launched upGrad Next, a new enterprise advisory practice aimed at helping organisations&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://timesofindia.indiatimes.com/technology/tech-news/upgrad-launches-advisory-arm-upgrad-next-to-help-enterprises-navigate-ai-led-transformation/articleshow/135884489.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3NNalAbc5sFokoE_LAdd8E",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T10:44:26Z",
+      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
