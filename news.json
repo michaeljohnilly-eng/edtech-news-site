@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-16 17:50 UTC",
+  "updated_at": "2026-11-17 02:44 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 2,
-    "Product": 7,
+    "Product": 8,
     "Startup": 3
   },
   "articles": [
+    {
+      "title": "Upgrad Launches Advisory Business Upgrad Next, Appoints Anandorup Ghose As MD",
+      "summary": "... business, upGrad Next, and appointed Anandorup Ghose as its Managing Director. The move marks the company's expansion beyond its core edtech business&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DZ9zvMPNGFKs&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3kHMXauCvi1umQkCZ9_jiS",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T19:48:26Z",
+      "category": "Product"
+    },
+    {
+      "title": "Bangladesh's Shikho raises $702000 from school-linked backers to sell to institutions",
+      "summary": "The Dhaka edtech company has raised BDT 8.75 crore, about $702,000, to build an enterprise education business that sells to schools, colleges&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketscale.com/industries/education-technology/bangladeshs-shikho-raises-702000-from-school-linked-backers-to-sell-to-institutions&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2G7wZ0LPUFhP4gDqEaltpv",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-16T19:43:16Z",
+      "category": "Funding"
+    },
     {
       "title": "Jordanian 3Roots Academy launches new online learning platform for IB and AP students",
       "summary": "AMMAN, Jordan — Jordanian EdTech company 3Roots Academy officially launched its new online learning platform today, offering International&nbsp;...",
