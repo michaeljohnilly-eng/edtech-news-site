@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-23 00:33 UTC",
+  "updated_at": "2026-11-23 19:46 UTC",
   "summary": {
     "Funding": 4,
     "Acquisition": 2,
-    "Product": 2,
-    "Startup": 3
+    "Product": 3,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "From IIT Bombay to Gaya: How two alumni built PsiGenei to transform Science education in Bihar",
+      "summary": "... EdTech startup in Gaya. ... Turning down the startup ecosystems of Mumbai or Bengaluru to build an EdTech company in Gaya was a deliberate choice.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.educationtimes.com/learning/from-iit-bombay-to-gaya-how-two-alumni-built-psigenei-to-transform-science-education-in-bihar/articleshow/136096109.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3aal4Ahsl3Um3DeBjyZDkD",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-23T14:38:07Z",
+      "category": "Startup"
+    },
+    {
+      "title": "NatWest Launchpad: Business skills for 1000 young people | ETIH EdTech News",
+      "summary": "... business support. Hands typing on a laptop, accompanying ETIH's edtech news coverage of NatWest and Small Business. Launchpad aims to help 1,000&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/natwest-and-small-business-britain-launch-business-skills-program-for-1000-young-people&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1zSBD0wazRnUomSrFHWFrp",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-23T00:33:19Z",
+      "category": "Product"
+    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch...",
