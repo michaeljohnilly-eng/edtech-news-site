@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-11-24 04:33 UTC",
+  "updated_at": "2026-11-24 19:16 UTC",
   "summary": {
-    "Funding": 4,
+    "Funding": 5,
     "Acquisition": 3,
     "Product": 6,
-    "Startup": 4
+    "Startup": 3
   },
   "articles": [
+    {
+      "title": "Hindi-first edtech Vidyakul gets Rs 10 crore debt from Dell Foundation to reach more state ...",
+      "summary": "Vernacular edtech platform Vidyakul has raised Rs 10 crore in debt ... According to the company's website, its courses cover the science&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/funding/hindi-first-edtech-vidyakul-gets-rs-10-crore-debt-from-dell-foundation-to-reach-more-state-board-students-12837578&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3QJR14DGtkla6ZrCCwT-W7",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-24T10:52:39Z",
+      "category": "Funding"
+    },
     {
       "title": "TikTok expands what parents can see and launches online safety guide for schools",
       "summary": "TikTok's redesigned Family Pairing shows teen screen time, changes in followers and public posts. ETIH edtech ... The company's Discovery on TikTok&nbsp;...",
@@ -46,14 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-23T17:43:04Z",
       "category": "Product"
-    },
-    {
-      "title": "From IIT Bombay to Gaya: How two alumni built PsiGenei to transform Science education in Bihar",
-      "summary": "... EdTech startup in Gaya. ... Turning down the startup ecosystems of Mumbai or Bengaluru to build an EdTech company in Gaya was a deliberate choice.",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.educationtimes.com/learning/from-iit-bombay-to-gaya-how-two-alumni-built-psigenei-to-transform-science-education-in-bihar/articleshow/136096109.cms&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3aal4Ahsl3Um3DeBjyZDkD",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-23T14:38:07Z",
-      "category": "Startup"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
