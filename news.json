@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-11-23 19:46 UTC",
+  "updated_at": "2026-11-24 04:33 UTC",
   "summary": {
     "Funding": 4,
-    "Acquisition": 2,
-    "Product": 3,
+    "Acquisition": 3,
+    "Product": 6,
     "Startup": 4
   },
   "articles": [
+    {
+      "title": "TikTok expands what parents can see and launches online safety guide for schools",
+      "summary": "TikTok's redesigned Family Pairing shows teen screen time, changes in followers and public posts. ETIH edtech ... The company's Discovery on TikTok&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/tiktok-expands-what-parents-can-see-and-launches-online-safety-guide-for-schools&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3ux0ZtOIf3DRSccn7igOn-",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-24T00:18:31Z",
+      "category": "Product"
+    },
+    {
+      "title": "Eight EU countries launch EDU-EDIC for shared school technology | ETIH EdTech News",
+      "summary": "Based in The Hague, the group will work on secure ways to exchange education data and help smaller European edtech companies reach schools across&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/eight-eu-countries-launch-consortium-to-build-shared-digital-tools-for-schools&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3F7qkxwBjs2HV69EUvA64X",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-24T00:03:31Z",
+      "category": "Product"
+    },
+    {
+      "title": "ApplyBoard co-founder's startup Passage deepens its admissions push with Kira acquisition",
+      "summary": "Martin Basiri's edtech company is expanding its AI platform as it builds out a broader talent connection business.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://betakit.com/applyboard-co-founders-startup-passage-deepens-its-admissions-push-with-kira-acquisition/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3bGVxVmifgItrShgz6HfrW",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-23T20:30:56Z",
+      "category": "Acquisition"
+    },
+    {
+      "title": "Tiffany LaBare - Chief of Staff to the CEO, Degreed - YesPress",
+      "summary": "edtech · online-educationRead → Company Virti Ai · Saas · Education Virti Virti is an AI role-play and interactive video training platform that&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yespress.io/tiffany-labare&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2NwgCXv2zUkAry0Ejsu_a0",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-23T18:01:56Z",
+      "category": "Product"
+    },
+    {
+      "title": "Indian new-age firms scale AI beyond pilots to core ops - TechGig",
+      "summary": "The company also deployed Zeus, an agentic AI platform, enabling business ... Edtech company PhysicsWallah uses AI across student support, doubt&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techgig.com/news/industry/indian-new-age-firms-scale-ai-beyond-pilots-to-core-ops/136085630&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1Z3vpt9EzkNuwtdlPNLQqP",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-23T17:43:04Z",
+      "category": "Product"
+    },
     {
       "title": "From IIT Bombay to Gaya: How two alumni built PsiGenei to transform Science education in Bihar",
       "summary": "... EdTech startup in Gaya. ... Turning down the startup ecosystems of Mumbai or Bengaluru to build an EdTech company in Gaya was a deliberate choice.",
@@ -14,14 +54,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-23T14:38:07Z",
       "category": "Startup"
-    },
-    {
-      "title": "NatWest Launchpad: Business skills for 1000 young people | ETIH EdTech News",
-      "summary": "... business support. Hands typing on a laptop, accompanying ETIH's edtech news coverage of NatWest and Small Business. Launchpad aims to help 1,000&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edtechinnovationhub.com/news/natwest-and-small-business-britain-launch-business-skills-program-for-1000-young-people&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1zSBD0wazRnUomSrFHWFrp",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-23T00:33:19Z",
-      "category": "Product"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
