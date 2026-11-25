@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-25 03:19 UTC",
+  "updated_at": "2026-11-25 18:21 UTC",
   "summary": {
     "Funding": 5,
     "Acquisition": 2,
-    "Product": 3,
-    "Startup": 3
+    "Product": 4,
+    "Startup": 4
   },
   "articles": [
+    {
+      "title": "Dev Technosys Expands Kids Learning App Development Services - PRLog",
+      "summary": "The initiative aims to support educational institutions, EdTech startups ... With its focus on education technology, the company continues to&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prlog.org/13185627-dev-technosys-expands-kids-learning-app-development-services.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1xZlcZUcCiiAzWbHMwlDfM",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-25T14:00:27Z",
+      "category": "Startup"
+    },
+    {
+      "title": "Plagiarism Checker Turnitin Investigating Cyberattack - SecurityWeek",
+      "summary": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. ... Education technology platform Turnitin&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw0-lLW0972AdkDLMchtrrM_",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-25T11:07:03Z",
+      "category": "Product"
+    },
+    {
+      "title": "Umber Raises $2M Seed - The SaaS News",
+      "summary": "The company supports industries including e-commerce, EdTech, marketplaces, gaming, and AI. Funding Details. Company Website: https://umbercloud.io.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thesaasnews.com/news/umber-raises-2m-seed/&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2TZ2swhAmI74H7HcZdXkd2",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-25T08:52:35Z",
+      "category": "Funding"
+    },
     {
       "title": "Duolingo launches linguistic campaign at Indian prayer temples - Pittsburgh Business Times",
       "summary": "The East Liberty-based edtech company announced a new campaign in India, dubbed &quot;Visa Paath.&quot; When people in India are looking to emigrate, they&nbsp;...",
@@ -14,14 +38,6 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-24T21:18:03Z",
       "category": "Product"
-    },
-    {
-      "title": "Hindi-first edtech Vidyakul gets Rs 10 crore debt from Dell Foundation to reach more state ...",
-      "summary": "Vernacular edtech platform Vidyakul has raised Rs 10 crore in debt ... According to the company's website, its courses cover the science&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://indianstartupnews.com/funding/hindi-first-edtech-vidyakul-gets-rs-10-crore-debt-from-dell-foundation-to-reach-more-state-board-students-12837578&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3QJR14DGtkla6ZrCCwT-W7",
-      "source": "Google Alert - Edtech Company",
-      "published": "2026-11-24T10:52:39Z",
-      "category": "Funding"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
