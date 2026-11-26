@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-25 18:21 UTC",
+  "updated_at": "2026-11-26 02:36 UTC",
   "summary": {
-    "Funding": 5,
+    "Funding": 6,
     "Acquisition": 2,
-    "Product": 4,
+    "Product": 5,
     "Startup": 4
   },
   "articles": [
@@ -14,6 +14,22 @@
       "source": "Google Alert - Edtech Company",
       "published": "2026-11-25T14:00:27Z",
       "category": "Startup"
+    },
+    {
+      "title": "KIDZ AI Advances Next-Generation AI Learning Platform With Interactive Animated Curriculum",
+      "summary": "( KIDZ ) (&quot;KIDZ AI&quot; or the &quot;Company&quot;), an education technology company advancing AI infrastructure and GPU computing initiatives alongside its core&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fidelity.com/news/article/technology/202611250740ACCESSWRNAPR_____1257022&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1ZXP11a81tCYfOkbaYJttl",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-25T13:45:03Z",
+      "category": "Product"
+    },
+    {
+      "title": "Duolingo launches linguistic campaign at Indian prayer temples - WPXI",
+      "summary": "The East Liberty-based edtech company announced a new campaign in India, dubbed “Visa Paath.” When people in India are looking to emigrate, they&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wpxi.com/news/local/duolingo-launches-linguistic-campaign-indian-prayer-temples/DRTG47LVVFE2BEMLIEK76BIRRM/%3FoutputType%3Damp&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw2GXZaLMspH3fTjKIhWTRsl",
+      "source": "Google Alert - Edtech Company",
+      "published": "2026-11-25T13:20:16Z",
+      "category": "Product"
     },
     {
       "title": "Plagiarism Checker Turnitin Investigating Cyberattack - SecurityWeek",
@@ -32,12 +48,12 @@
       "category": "Funding"
     },
     {
-      "title": "Duolingo launches linguistic campaign at Indian prayer temples - Pittsburgh Business Times",
-      "summary": "The East Liberty-based edtech company announced a new campaign in India, dubbed &quot;Visa Paath.&quot; When people in India are looking to emigrate, they&nbsp;...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizjournals.com/pittsburgh/news/2026/11/24/duolingo-visa-prayer-temples.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw1yMYJR2YMsp_U_xOWXhSFD",
+      "title": "Vidyakul Raises Rs 10 Crore From Dell Foundation to Expand Vernacular Learning Platform",
+      "summary": "Education technology company Vidyakul has raised Rs 10 crore in debt financing from the Michael &amp; Susan Dell Foundation to expand its vernacular&nbsp;...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconindia.com/startup/startup-funding/vidyakul-raises-rs-10-crore-from-dell-foundation-to-expand-vernacular-learning-platform-nwid-55921.html&ct=ga&cd=CAIyGjczMGM4YWMxY2M4OTg0NDY6Y29tOmVuOlVT&usg=AOvVaw3IYisHFCOeJrHIbJosbItD",
       "source": "Google Alert - Edtech Company",
-      "published": "2026-11-24T21:18:03Z",
-      "category": "Product"
+      "published": "2026-11-25T07:52:31Z",
+      "category": "Funding"
     },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
